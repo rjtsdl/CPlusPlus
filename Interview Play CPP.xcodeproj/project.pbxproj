@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50527461A381E64008779C0 /* WildcardMatching.cpp */; };
+		A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A507E6D61A35415500B9A56C /* FindLaddersII.cpp */; };
+		A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A65A131A36AAD700FFE150 /* Atoi.cpp */; };
 		A5C4C1E81A35170400896CCD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C4C1E71A35170400896CCD /* main.cpp */; };
+		A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +27,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A50527461A381E64008779C0 /* WildcardMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WildcardMatching.cpp; sourceTree = "<group>"; };
+		A507E6D61A35415500B9A56C /* FindLaddersII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindLaddersII.cpp; sourceTree = "<group>"; };
+		A5A65A131A36AAD700FFE150 /* Atoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Atoi.cpp; sourceTree = "<group>"; };
 		A5C4C1E41A35170400896CCD /* Interview Play CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Interview Play CPP"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C4C1E71A35170400896CCD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindPeakElement.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				A5C4C1E71A35170400896CCD /* main.cpp */,
+				A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */,
+				A507E6D61A35415500B9A56C /* FindLaddersII.cpp */,
+				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
+				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -118,7 +130,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
+				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
+				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
 				A5C4C1E81A35170400896CCD /* main.cpp in Sources */,
+				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +248,7 @@
 				A5C4C1ED1A35170400896CCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
