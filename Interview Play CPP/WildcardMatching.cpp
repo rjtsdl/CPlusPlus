@@ -105,10 +105,12 @@ public:
             }
         }
         else if(*p == '*')
-        {   int offset = 0;
-            while (*(p + offset + 1) == '*') {
+        {   int offset = 1;
+            while (*(p + offset) == '*') {
                 offset ++ ;
             }
+            // point to the last *
+            offset--;
             
             if(isMatch(s, p+offset+1))
             {
@@ -160,3 +162,19 @@ public:
      */
     
 };
+
+/*
+
+int main(int argc, const char * argv[]) {
+    
+    WildcardMatching wcm;
+    if(wcm.isMatch("aaabbbaabaaaaababaabaaabbabbbbbbbbaabababbabbbaaaab", "a*******b"))
+    {
+        std::cout<<"true"<<std::endl;
+    }
+    else
+    {
+        std::cout<<"false"<<std::endl;
+    }
+}
+ */

@@ -20,7 +20,7 @@ public:
     vector<string> path;
     
     void findDict2(string str, unordered_set<string> &dict,unordered_set<string> &next_lev){
-        int sz = str.size();
+        int sz = (int)str.size();
         string s = str;
         for (int i=0;i<sz;i++){
             s = str;

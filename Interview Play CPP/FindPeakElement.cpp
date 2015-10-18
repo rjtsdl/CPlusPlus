@@ -13,10 +13,10 @@ using namespace std;
 class FindPeakElement {
 public:
     int findPeakElement(const vector<int> &num) {
-        for( int i=0; i< num.size();)
+        for (int i=0; i< num.size();)
         {
             int status = compareBothSide(num, i);
-            if(status == 2)
+            if (status == 2)
             {
                 return i;
             }
@@ -47,7 +47,7 @@ public:
     // 1>2>3 4
     int compareBothSide(const vector<int> &num, int idx)
     {
-        if(idx-1< 0 || num[idx-1] < num[idx])
+        if (idx-1< 0 || num[idx-1] < num[idx])
         {
             if (idx + 1>= num.size() || num[idx] > num[idx+1]) {
                 return 2;

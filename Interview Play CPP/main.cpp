@@ -6,6 +6,8 @@
 //  Copyright (c) 2014年 Jingtao Ren. All rights reserved.
 //
 
+
+/*
 #include <iostream>
 #include "WildcardMatching.cpp"
 
@@ -21,3 +23,4 @@ int main(int argc, const char * argv[]) {
         std::cout<<"false"<<std::endl;
     }
 }
+ */
