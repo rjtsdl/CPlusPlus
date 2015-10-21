@@ -82,6 +82,7 @@ public:
     }
 };
 
+/*
 int main()
 {
     vector<int> nums1 = {};
@@ -89,7 +90,5 @@ int main()
     MedianTwoSortedArray obj;
     obj.findMedianSortedArrays(nums1, nums2);
     return 0;
-    
-    
-
 }
+ */
