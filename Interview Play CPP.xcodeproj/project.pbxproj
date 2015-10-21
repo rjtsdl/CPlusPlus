@@ -10,6 +10,7 @@
 		5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056A1BD42B8A002838B9 /* MajorityElement.cpp */; settings = {ASSET_TAGS = (); }; };
 		5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056C1BD448A8002838B9 /* TwoSum.cpp */; settings = {ASSET_TAGS = (); }; };
 		5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */; settings = {ASSET_TAGS = (); }; };
+		53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53C60CDE1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp */; settings = {ASSET_TAGS = (); }; };
 		53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */; settings = {ASSET_TAGS = (); }; };
 		53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */; settings = {ASSET_TAGS = (); }; };
 		A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50527461A381E64008779C0 /* WildcardMatching.cpp */; };
@@ -34,6 +35,7 @@
 		5347056A1BD42B8A002838B9 /* MajorityElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MajorityElement.cpp; sourceTree = "<group>"; };
 		5347056C1BD448A8002838B9 /* TwoSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoSum.cpp; sourceTree = "<group>"; };
 		5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AddTwoNumbers.cpp; sourceTree = "<group>"; };
+		53C60CDE1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestPalindromeSubstring.cpp; sourceTree = "<group>"; };
 		53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestSubstringWithoutDups.cpp; sourceTree = "<group>"; };
 		53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MedianTwoSortedArray.cpp; sourceTree = "<group>"; };
 		A50527461A381E64008779C0 /* WildcardMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WildcardMatching.cpp; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */,
 				53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */,
 				53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */,
+				53C60CDE1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
+				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
