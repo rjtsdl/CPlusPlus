@@ -65,6 +65,43 @@ public:
         
     }
     
+    // Four Sum
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
+        vector<vector<int>> ret;
+        sort(nums.begin(), nums.end());
+        
+        int a = 0;
+        while ( a < nums.size())
+        {
+            int b = a + 1;
+            while (b < nums.size()) {
+            
+                int c = b + 1;
+                int d = (int)nums.size() - 1;
+                while (c < d) {
+                    if ( nums[a] + nums[b] + nums[c] + nums[d] == target)
+                    {
+                        ret.push_back(vector<int>({nums[a], nums[b], nums[c], nums[d]}));
+                        c = advanceToNextDiff(nums, c);
+                    }
+                    else if( nums[a] + nums[b] + nums[c] + nums[d] > target )
+                    {
+                        d = reverseToNextDiff(nums, d);
+                    }
+                    else if( nums[a] + nums[b] + nums[c] + nums[d] < target )
+                    {
+                        c = advanceToNextDiff(nums, c);
+                    }
+                }
+                b = advanceToNextDiff(nums, b);
+            }
+            a = advanceToNextDiff(nums, a);
+            
+        }
+        return ret;
+        
+    }
+    
     
     
 };

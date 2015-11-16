@@ -58,11 +58,13 @@ public:
     }
 };
 
+/*
 
 int main()
 {
     ZigzagConversion obj;
     obj.convert("ABDJ", 3);
 }
+ */
 
 
