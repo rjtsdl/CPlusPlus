@@ -16,6 +16,7 @@
 		53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53C60CE01BD7549000A94474 /* ZigzagConversion.cpp */; };
 		53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */; };
 		53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */; };
+		53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */; };
 		53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */; };
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
@@ -48,6 +49,7 @@
 		53C60CE01BD7549000A94474 /* ZigzagConversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ZigzagConversion.cpp; sourceTree = "<group>"; };
 		53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestSubstringWithoutDups.cpp; sourceTree = "<group>"; };
 		53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MedianTwoSortedArray.cpp; sourceTree = "<group>"; };
+		53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ValidParentheses.cpp; sourceTree = "<group>"; };
 		53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */,
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
 				530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */,
+				53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
+				53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
