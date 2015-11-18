@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */; };
 		5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056A1BD42B8A002838B9 /* MajorityElement.cpp */; };
 		5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056C1BD448A8002838B9 /* TwoSum.cpp */; };
 		5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */; };
@@ -38,6 +39,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RemoveNthNodeFromEndOfList.cpp; sourceTree = "<group>"; };
 		5347056A1BD42B8A002838B9 /* MajorityElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MajorityElement.cpp; sourceTree = "<group>"; };
 		5347056C1BD448A8002838B9 /* TwoSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoSum.cpp; sourceTree = "<group>"; };
 		5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AddTwoNumbers.cpp; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */,
 				53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */,
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
+				530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
+				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
