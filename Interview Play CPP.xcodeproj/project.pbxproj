@@ -17,6 +17,8 @@
 		53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */; };
 		53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */; };
 		53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */; };
+		53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */; };
+		53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */; };
 		53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */; };
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
@@ -50,6 +52,8 @@
 		53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestSubstringWithoutDups.cpp; sourceTree = "<group>"; };
 		53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MedianTwoSortedArray.cpp; sourceTree = "<group>"; };
 		53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ValidParentheses.cpp; sourceTree = "<group>"; };
+		53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeTwoSortedList.cpp; sourceTree = "<group>"; };
+		53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GenerateParentheses.cpp; sourceTree = "<group>"; };
 		53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
@@ -72,6 +76,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		53EF9B101BFD1CC6009E693A /* vector */ = {
+			isa = PBXGroup;
+			children = (
+				53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */,
+			);
+			name = vector;
+			sourceTree = "<group>";
+		};
 		A5C4C1DB1A35170400896CCD = {
 			isa = PBXGroup;
 			children = (
@@ -91,6 +103,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				53EF9B101BFD1CC6009E693A /* vector */,
 				A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */,
 				A507E6D61A35415500B9A56C /* FindLaddersII.cpp */,
 				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
@@ -109,6 +122,7 @@
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
 				530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */,
 				53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */,
+				53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -179,8 +193,10 @@
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
+				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
+				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
