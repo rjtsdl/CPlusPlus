@@ -19,6 +19,8 @@
 		53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */; };
 		53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */; };
 		53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */; };
+		53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */; };
+		53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */; };
 		53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */; };
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
@@ -54,6 +56,8 @@
 		53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ValidParentheses.cpp; sourceTree = "<group>"; };
 		53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeTwoSortedList.cpp; sourceTree = "<group>"; };
 		53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GenerateParentheses.cpp; sourceTree = "<group>"; };
+		53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeKSortedList.cpp; sourceTree = "<group>"; };
+		53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodeInPairs.cpp; sourceTree = "<group>"; };
 		53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
@@ -79,9 +83,32 @@
 		53EF9B101BFD1CC6009E693A /* vector */ = {
 			isa = PBXGroup;
 			children = (
+				5347056C1BD448A8002838B9 /* TwoSum.cpp */,
+				A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */,
+				53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */,
 				53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */,
 			);
 			name = vector;
+			sourceTree = "<group>";
+		};
+		53F0685C1BFE3BD30057269A /* List */ = {
+			isa = PBXGroup;
+			children = (
+				530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */,
+				53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */,
+				53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */,
+				53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */,
+			);
+			name = List;
+			sourceTree = "<group>";
+		};
+		53F0685D1BFE3C400057269A /* String */ = {
+			isa = PBXGroup;
+			children = (
+				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
+				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
+			);
+			name = String;
 			sourceTree = "<group>";
 		};
 		A5C4C1DB1A35170400896CCD = {
@@ -103,13 +130,11 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				53F0685D1BFE3C400057269A /* String */,
+				53F0685C1BFE3BD30057269A /* List */,
 				53EF9B101BFD1CC6009E693A /* vector */,
-				A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */,
 				A507E6D61A35415500B9A56C /* FindLaddersII.cpp */,
-				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
-				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
 				5347056A1BD42B8A002838B9 /* MajorityElement.cpp */,
-				5347056C1BD448A8002838B9 /* TwoSum.cpp */,
 				5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */,
 				53EEADFF1BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp */,
 				53EEAE011BD4A63000DE5534 /* MedianTwoSortedArray.cpp */,
@@ -120,9 +145,6 @@
 				53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */,
 				53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */,
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
-				530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */,
-				53EF9B0B1BFD1564009E693A /* ValidParentheses.cpp */,
-				53EF9B0D1BFD1A98009E693A /* MergeTwoSortedList.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -186,6 +208,7 @@
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
+				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
@@ -199,6 +222,7 @@
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
+				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
