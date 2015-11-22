@@ -43,9 +43,10 @@ public:
         return  dp[n];
     }
 };
-
+/*
 int main ()
 {
     Solution sol;
     sol.generateParenthesis(1);
 }
+ */
