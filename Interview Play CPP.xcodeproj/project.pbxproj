@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */; };
+		53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53230CA61C09003C00C2FBFD /* NextPermutation.cpp */; };
 		5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056A1BD42B8A002838B9 /* MajorityElement.cpp */; };
 		5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056C1BD448A8002838B9 /* TwoSum.cpp */; };
 		5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */; };
@@ -49,6 +50,7 @@
 
 /* Begin PBXFileReference section */
 		530647E91BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RemoveNthNodeFromEndOfList.cpp; sourceTree = "<group>"; };
+		53230CA61C09003C00C2FBFD /* NextPermutation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NextPermutation.cpp; sourceTree = "<group>"; };
 		5347056A1BD42B8A002838B9 /* MajorityElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MajorityElement.cpp; sourceTree = "<group>"; };
 		5347056C1BD448A8002838B9 /* TwoSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoSum.cpp; sourceTree = "<group>"; };
 		5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AddTwoNumbers.cpp; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */,
+				53230CA61C09003C00C2FBFD /* NextPermutation.cpp */,
 			);
 			name = Integer;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
+				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
