@@ -30,6 +30,8 @@
 		53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */; };
 		53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */; };
 		53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */; };
+		53F48D351C0A163800170DAE /* ValidSudoku.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F48D341C0A163800170DAE /* ValidSudoku.cpp */; };
+		53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F48D361C0A1A3000170DAE /* SudokuSolver.cpp */; };
 		53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */; };
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
@@ -76,6 +78,8 @@
 		53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchForARange.cpp; sourceTree = "<group>"; };
 		53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchInsertPos.cpp; sourceTree = "<group>"; };
 		53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DivideTwoInteger.cpp; sourceTree = "<group>"; };
+		53F48D341C0A163800170DAE /* ValidSudoku.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ValidSudoku.cpp; sourceTree = "<group>"; };
+		53F48D361C0A1A3000170DAE /* SudokuSolver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SudokuSolver.cpp; sourceTree = "<group>"; };
 		53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
@@ -145,6 +149,15 @@
 			name = Integer;
 			sourceTree = "<group>";
 		};
+		53F48D331C0A161900170DAE /* Matrix */ = {
+			isa = PBXGroup;
+			children = (
+				53F48D341C0A163800170DAE /* ValidSudoku.cpp */,
+				53F48D361C0A1A3000170DAE /* SudokuSolver.cpp */,
+			);
+			name = Matrix;
+			sourceTree = "<group>";
+		};
 		A5C4C1DB1A35170400896CCD = {
 			isa = PBXGroup;
 			children = (
@@ -164,6 +177,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				53F48D331C0A161900170DAE /* Matrix */,
 				53F272AE1C0228C800E2716D /* Integer */,
 				53F0685D1BFE3C400057269A /* String */,
 				53F0685C1BFE3BD30057269A /* List */,
@@ -251,6 +265,7 @@
 				53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */,
 				53EB5D6F1BFEFE3E002E773E /* ReverseNodesInKGroup.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
+				53F48D351C0A163800170DAE /* ValidSudoku.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
@@ -269,6 +284,7 @@
 				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
+				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
 			);
