@@ -28,6 +28,7 @@
 		53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */; };
 		53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */; };
 		53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */; };
+		53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */; };
 		53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */; };
 		53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */; };
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
@@ -73,6 +74,7 @@
 		53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeKSortedList.cpp; sourceTree = "<group>"; };
 		53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodeInPairs.cpp; sourceTree = "<group>"; };
 		53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchForARange.cpp; sourceTree = "<group>"; };
+		53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchInsertPos.cpp; sourceTree = "<group>"; };
 		53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DivideTwoInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE51BE6C519008B7BAD /* ReverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				53C624811C01A8290080C09E /* RemoveElement.cpp */,
 				53230CAA1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp */,
 				53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */,
+				53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
