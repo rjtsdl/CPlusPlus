@@ -16,6 +16,7 @@
 		5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */; };
 		537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 537347FE1C211BB4008EE20E /* CountAndSay.cpp */; };
 		537348011C212494008EE20E /* CombinationSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 537348001C212494008EE20E /* CombinationSum.cpp */; };
+		538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 538CF20D1C5562C900318D97 /* CombinationSumII.cpp */; };
 		53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53C1EBBC1BF9BAA100091453 /* FourSum.cpp */; };
 		53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53C60CDE1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp */; };
 		53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53C60CE01BD7549000A94474 /* ZigzagConversion.cpp */; };
@@ -66,6 +67,7 @@
 		5347056E1BD44D6F002838B9 /* AddTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AddTwoNumbers.cpp; sourceTree = "<group>"; };
 		537347FE1C211BB4008EE20E /* CountAndSay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CountAndSay.cpp; sourceTree = "<group>"; };
 		537348001C212494008EE20E /* CombinationSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CombinationSum.cpp; sourceTree = "<group>"; };
+		538CF20D1C5562C900318D97 /* CombinationSumII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CombinationSumII.cpp; sourceTree = "<group>"; };
 		53C1EBBC1BF9BAA100091453 /* FourSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FourSum.cpp; sourceTree = "<group>"; };
 		53C60CDE1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestPalindromeSubstring.cpp; sourceTree = "<group>"; };
 		53C60CE01BD7549000A94474 /* ZigzagConversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ZigzagConversion.cpp; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */,
 				53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */,
 				537348001C212494008EE20E /* CombinationSum.cpp */,
+				538CF20D1C5562C900318D97 /* CombinationSumII.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
+				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
