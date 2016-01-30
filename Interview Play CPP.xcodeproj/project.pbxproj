@@ -33,6 +33,7 @@
 		53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */; };
 		53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */; };
 		53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */; };
+		53F1553E1C5D775000734AA4 /* JumpGameII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1553D1C5D775000734AA4 /* JumpGameII.cpp */; };
 		53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */; };
 		53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */; };
 		53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */; };
@@ -87,6 +88,7 @@
 		53EF9B111BFD1CE3009E693A /* GenerateParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GenerateParentheses.cpp; sourceTree = "<group>"; };
 		53F0685A1BFE382C0057269A /* MergeKSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeKSortedList.cpp; sourceTree = "<group>"; };
 		53F0685E1BFE3C8B0057269A /* SwapNodeInPairs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodeInPairs.cpp; sourceTree = "<group>"; };
+		53F1553D1C5D775000734AA4 /* JumpGameII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JumpGameII.cpp; sourceTree = "<group>"; };
 		53F1ABD11C09506800DE7C87 /* SearchForARange.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchForARange.cpp; sourceTree = "<group>"; };
 		53F1ABD31C095D5500DE7C87 /* SearchInsertPos.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchInsertPos.cpp; sourceTree = "<group>"; };
 		53F272AF1C0228E400E2716D /* DivideTwoInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DivideTwoInteger.cpp; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				538CF20D1C5562C900318D97 /* CombinationSumII.cpp */,
 				538CF20F1C55748A00318D97 /* FirstMissingPositive.cpp */,
 				538CF2111C55BC9B00318D97 /* TrapRainWater.cpp */,
+				53F1553D1C5D775000734AA4 /* JumpGameII.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
+				53F1553E1C5D775000734AA4 /* JumpGameII.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
