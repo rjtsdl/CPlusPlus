@@ -43,6 +43,7 @@
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
 		53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */; };
+		8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDD57CF1C6306E10000A23A /* PermutationII.cpp */; };
 		A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50527461A381E64008779C0 /* WildcardMatching.cpp */; };
 		A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A507E6D61A35415500B9A56C /* FindLaddersII.cpp */; };
 		A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A65A131A36AAD700FFE150 /* Atoi.cpp */; };
@@ -98,6 +99,7 @@
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
 		53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreeSum.cpp; sourceTree = "<group>"; };
+		8DDD57CF1C6306E10000A23A /* PermutationII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PermutationII.cpp; sourceTree = "<group>"; };
 		A50527461A381E64008779C0 /* WildcardMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WildcardMatching.cpp; sourceTree = "<group>"; };
 		A507E6D61A35415500B9A56C /* FindLaddersII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindLaddersII.cpp; sourceTree = "<group>"; };
 		A5A65A131A36AAD700FFE150 /* Atoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Atoi.cpp; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				538CF20F1C55748A00318D97 /* FirstMissingPositive.cpp */,
 				538CF2111C55BC9B00318D97 /* TrapRainWater.cpp */,
 				53F1553D1C5D775000734AA4 /* JumpGameII.cpp */,
+				8DDD57CF1C6306E10000A23A /* PermutationII.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
+				8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
