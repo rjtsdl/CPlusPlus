@@ -43,6 +43,7 @@
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
 		53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */; };
+		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
 		8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDD57CF1C6306E10000A23A /* PermutationII.cpp */; };
@@ -101,6 +102,7 @@
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
 		53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreeSum.cpp; sourceTree = "<group>"; };
+		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
 		8DDD57CF1C6306E10000A23A /* PermutationII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PermutationII.cpp; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				53F48D341C0A163800170DAE /* ValidSudoku.cpp */,
 				53F48D361C0A1A3000170DAE /* SudokuSolver.cpp */,
 				8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */,
+				8D325BED1C6EE923000F31F7 /* NQueenII.cpp */,
 			);
 			name = Matrix;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
+				8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */,
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
