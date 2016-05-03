@@ -34,10 +34,17 @@ public:
             tail = newTail;
             step++;
             if (head >= tail) {
-                break;
+                return 0;
             }
         }
         return step;
         
+    }
+    
+    bool canJump(vector<int>& nums) {
+        if (nums.size() <= 1) {
+            return true;
+        }
+        return jump(nums) > 0;
     }
 };
