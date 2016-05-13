@@ -51,6 +51,8 @@
 		8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */; };
 		8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */; };
 		8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDD57CF1C6306E10000A23A /* PermutationII.cpp */; };
+		8DE3DC001CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DE3DBFF1CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp */; };
+		8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DE3DC011CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp */; };
 		8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1B53B1CDFDE2E005DF2D4 /* RotateList.cpp */; };
 		8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFD6D191CD85CC6009CD773 /* MaximumSubarray.cpp */; };
 		A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50527461A381E64008779C0 /* WildcardMatching.cpp */; };
@@ -116,6 +118,8 @@
 		8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LengthOfLastWord.cpp; sourceTree = "<group>"; };
 		8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpiralMatrxII.cpp; sourceTree = "<group>"; };
 		8DDD57CF1C6306E10000A23A /* PermutationII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PermutationII.cpp; sourceTree = "<group>"; };
+		8DE3DBFF1CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RemoveDuplicatesfromSortedArrayII.cpp; sourceTree = "<group>"; };
+		8DE3DC011CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchinRotatedSortedArrayII.cpp; sourceTree = "<group>"; };
 		8DF1B53B1CDFDE2E005DF2D4 /* RotateList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateList.cpp; sourceTree = "<group>"; };
 		8DFD6D191CD85CC6009CD773 /* MaximumSubarray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MaximumSubarray.cpp; sourceTree = "<group>"; };
 		A50527461A381E64008779C0 /* WildcardMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WildcardMatching.cpp; sourceTree = "<group>"; };
@@ -155,6 +159,8 @@
 				8DDD57CF1C6306E10000A23A /* PermutationII.cpp */,
 				8DFD6D191CD85CC6009CD773 /* MaximumSubarray.cpp */,
 				8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */,
+				8DE3DBFF1CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp */,
+				8DE3DC011CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -311,6 +317,7 @@
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
+				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
@@ -337,6 +344,7 @@
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
+				8DE3DC001CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
