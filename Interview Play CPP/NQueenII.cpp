@@ -108,9 +108,10 @@ public:
     }
      */
 };
-
+/*
 int main()
 {
     Solution sol;
     cout<<sol.totalNQueens(9);
 }
+ */

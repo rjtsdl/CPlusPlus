@@ -61,6 +61,7 @@
 		A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A507E6D61A35415500B9A56C /* FindLaddersII.cpp */; };
 		A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A65A131A36AAD700FFE150 /* Atoi.cpp */; };
 		A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */; };
+		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -131,6 +132,7 @@
 		A5A65A131A36AAD700FFE150 /* Atoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Atoi.cpp; sourceTree = "<group>"; };
 		A5C4C1E41A35170400896CCD /* Interview Play CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Interview Play CPP"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindPeakElement.cpp; sourceTree = "<group>"; };
+		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 				8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */,
 				8DE3DBFF1CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp */,
 				8DE3DC011CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp */,
+				EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = A5C4C1DB1A35170400896CCD;
@@ -318,6 +322,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
+				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
 				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
