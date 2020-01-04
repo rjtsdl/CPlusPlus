@@ -66,6 +66,7 @@ public:
     }
 };
 
+/*
 int main(int argc, const char * argv[]) {
     
     vector<int> input = {-1,-1,-1};
@@ -77,3 +78,4 @@ int main(int argc, const char * argv[]) {
     return 0;
     
 }
+ */
