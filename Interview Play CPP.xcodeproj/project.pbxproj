@@ -65,6 +65,9 @@
 		EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */; };
 		EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */; };
 		EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */; };
+		EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */; };
+		EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */; };
+		EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -139,6 +142,9 @@
 		EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a509FibonacciNumber.cpp; sourceTree = "<group>"; };
 		EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a370RangeAddition.cpp; sourceTree = "<group>"; };
 		EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a598RangeAdditionII.cpp; sourceTree = "<group>"; };
+		EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a360SortTransformedArray.cpp; sourceTree = "<group>"; };
+		EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a977SquaresofaSortedArray.cpp; sourceTree = "<group>"; };
+		EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a918MaximumSumCircularSubarray.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +183,9 @@
 				EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */,
 				EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */,
 				EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */,
+				EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */,
+				EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */,
+				EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -330,6 +339,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */,
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
@@ -372,6 +382,7 @@
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
+				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
@@ -379,6 +390,7 @@
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
+				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
 				8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */,
 				8DE3DC061CE58C86000F41AD /* RemoveDuplicatesfromSortedList.cpp in Sources */,
