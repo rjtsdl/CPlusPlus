@@ -68,6 +68,7 @@
 		EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */; };
 		EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */; };
 		EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */; };
+		EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -145,6 +146,7 @@
 		EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a360SortTransformedArray.cpp; sourceTree = "<group>"; };
 		EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a977SquaresofaSortedArray.cpp; sourceTree = "<group>"; };
 		EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a918MaximumSumCircularSubarray.cpp; sourceTree = "<group>"; };
+		EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a624MaximumDistanceinArrays.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 				EE4DC6A723C19A1C00CA0414 /* a360SortTransformedArray.cpp */,
 				EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */,
 				EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */,
+				EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -364,6 +367,7 @@
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
+				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
