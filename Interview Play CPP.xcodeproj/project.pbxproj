@@ -69,6 +69,8 @@
 		EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */; };
 		EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */; };
 		EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */; };
+		EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */; };
+		EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -147,6 +149,8 @@
 		EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a977SquaresofaSortedArray.cpp; sourceTree = "<group>"; };
 		EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a918MaximumSumCircularSubarray.cpp; sourceTree = "<group>"; };
 		EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a624MaximumDistanceinArrays.cpp; sourceTree = "<group>"; };
+		EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1261FindElementsinaContaminatedBinaryTree.cpp; sourceTree = "<group>"; };
+		EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a971FlipBinaryTreeToMatchPreorderTraversal.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +268,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				EE4DC6B023C2A6FF00CA0414 /* Tree */,
 				53F48D331C0A161900170DAE /* Matrix */,
 				53F272AE1C0228C800E2716D /* Integer */,
 				53F0685D1BFE3C400057269A /* String */,
@@ -283,6 +288,15 @@
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
 			);
 			path = "Interview Play CPP";
+			sourceTree = "<group>";
+		};
+		EE4DC6B023C2A6FF00CA0414 /* Tree */ = {
+			isa = PBXGroup;
+			children = (
+				EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */,
+				EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */,
+			);
+			name = Tree;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -350,6 +364,7 @@
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
+				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
@@ -370,6 +385,7 @@
 				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
+				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
