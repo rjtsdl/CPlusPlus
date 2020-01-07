@@ -71,6 +71,7 @@
 		EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */; };
 		EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */; };
 		EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */; };
+		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,6 +152,7 @@
 		EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a624MaximumDistanceinArrays.cpp; sourceTree = "<group>"; };
 		EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1261FindElementsinaContaminatedBinaryTree.cpp; sourceTree = "<group>"; };
 		EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a971FlipBinaryTreeToMatchPreorderTraversal.cpp; sourceTree = "<group>"; };
+		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 				EE4DC6A923C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp */,
 				EE4DC6AB23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp */,
 				EE4DC6AD23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp */,
+				EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -386,6 +389,7 @@
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
+				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
