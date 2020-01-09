@@ -65,6 +65,8 @@
 		EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */; };
 		EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FC23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp */; };
 		EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */; };
+		EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B990023C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp */; };
+		EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B990223C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp */; };
 		EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */; };
 		EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */; };
 		EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */; };
@@ -151,6 +153,8 @@
 		EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a548SplitArraywithEqualSum.cpp; sourceTree = "<group>"; };
 		EE4B98FC23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a562LongestLineofConsecutiveOneinMatrix.cpp; sourceTree = "<group>"; };
 		EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1031MaximumSumofTwoNonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
+		EE4B990023C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a644MaximumAverageSubarrayII.cpp; sourceTree = "<group>"; };
+		EE4B990223C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a643MaximumAverageSubarrayI.cpp; sourceTree = "<group>"; };
 		EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a509FibonacciNumber.cpp; sourceTree = "<group>"; };
 		EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a370RangeAddition.cpp; sourceTree = "<group>"; };
 		EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a598RangeAdditionII.cpp; sourceTree = "<group>"; };
@@ -210,6 +214,8 @@
 				EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */,
 				EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */,
 				EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */,
+				EE4B990023C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp */,
+				EE4B990223C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -375,6 +381,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */,
+				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
@@ -385,6 +392,7 @@
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
+				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
