@@ -64,6 +64,7 @@
 		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
 		EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */; };
 		EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FC23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp */; };
+		EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */; };
 		EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */; };
 		EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */; };
 		EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */; };
@@ -149,6 +150,7 @@
 		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
 		EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a548SplitArraywithEqualSum.cpp; sourceTree = "<group>"; };
 		EE4B98FC23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a562LongestLineofConsecutiveOneinMatrix.cpp; sourceTree = "<group>"; };
+		EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1031MaximumSumofTwoNonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
 		EE4DC6A123C1038B00CA0414 /* a509FibonacciNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a509FibonacciNumber.cpp; sourceTree = "<group>"; };
 		EE4DC6A323C1061A00CA0414 /* a370RangeAddition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a370RangeAddition.cpp; sourceTree = "<group>"; };
 		EE4DC6A523C108B900CA0414 /* a598RangeAdditionII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a598RangeAdditionII.cpp; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */,
 				EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */,
 				EE4B98FA23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp */,
+				EE4B98FE23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp */,
 			);
 			name = vector;
 			sourceTree = "<group>";
@@ -401,6 +404,7 @@
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
+				EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */,
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
