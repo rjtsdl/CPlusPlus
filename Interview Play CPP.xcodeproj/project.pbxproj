@@ -86,6 +86,7 @@
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
+		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -181,6 +182,7 @@
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
+		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,7 +298,6 @@
 		A5C4C1DB1A35170400896CCD = {
 			isa = PBXGroup;
 			children = (
-				EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */,
 				A5C4C1E61A35170400896CCD /* Interview Play CPP */,
 				A5C4C1E51A35170400896CCD /* Products */,
 			);
@@ -313,6 +314,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */,
 				EE4DC6B023C2A6FF00CA0414 /* Tree */,
 				53F48D331C0A161900170DAE /* Matrix */,
 				53F272AE1C0228C800E2716D /* Integer */,
@@ -331,6 +333,7 @@
 				53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */,
 				53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */,
 				53C1EBBC1BF9BAA100091453 /* FourSum.cpp */,
+				EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
+				EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */,
 				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
 				EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */,
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
