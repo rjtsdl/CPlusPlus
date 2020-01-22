@@ -79,6 +79,9 @@
 		EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */; };
 		EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */; };
 		EE63CB8A23D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8923D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp */; };
+		EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8B23D90C4C002265AB /* a1150.cpp */; };
+		EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */; };
+		EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */; };
 		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
@@ -178,6 +181,9 @@
 		EE4DC6B123C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1261FindElementsinaContaminatedBinaryTree.cpp; sourceTree = "<group>"; };
 		EE4DC6B323C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a971FlipBinaryTreeToMatchPreorderTraversal.cpp; sourceTree = "<group>"; };
 		EE63CB8923D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1208GetEqualSubstringsWithinBudget.cpp; sourceTree = "<group>"; };
+		EE63CB8B23D90C4C002265AB /* a1150.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1150.cpp; sourceTree = "<group>"; };
+		EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a169MajorityElement.cpp; sourceTree = "<group>"; };
+		EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a229MajorityElementII.cpp; sourceTree = "<group>"; };
 		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
@@ -305,6 +311,9 @@
 				EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */,
 				EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */,
 				EE63CB8923D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp */,
+				EE63CB8B23D90C4C002265AB /* a1150.cpp */,
+				EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */,
+				EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -380,6 +389,7 @@
 				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
+				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
@@ -441,6 +451,7 @@
 				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
+				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
@@ -448,6 +459,7 @@
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
+				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
 				8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */,
