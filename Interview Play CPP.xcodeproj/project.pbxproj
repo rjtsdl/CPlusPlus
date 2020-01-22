@@ -88,6 +88,7 @@
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */; };
+		EEF8B0F523D80ED800723648 /* bit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F323D80ED800723648 /* bit.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -185,6 +186,8 @@
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a493ReversePairs.cpp; sourceTree = "<group>"; };
+		EEF8B0F323D80ED800723648 /* bit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bit.cpp; sourceTree = "<group>"; };
+		EEF8B0F423D80ED800723648 /* bit.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = bit.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -217,6 +220,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				EEF8B0F223D80EB600723648 /* libraries */,
 				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
 				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
 				53C624831C01A9750080C09E /* ImplStrStr.cpp */,
@@ -300,6 +304,15 @@
 				EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */,
 			);
 			path = "Interview Play CPP";
+			sourceTree = "<group>";
+		};
+		EEF8B0F223D80EB600723648 /* libraries */ = {
+			isa = PBXGroup;
+			children = (
+				EEF8B0F323D80ED800723648 /* bit.cpp */,
+				EEF8B0F423D80ED800723648 /* bit.hpp */,
+			);
+			path = libraries;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -424,6 +437,7 @@
 				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
+				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
