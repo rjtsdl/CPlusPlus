@@ -82,6 +82,7 @@
 		EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8B23D90C4C002265AB /* a1150.cpp */; };
 		EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */; };
 		EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */; };
+		EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */; };
 		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
@@ -184,6 +185,7 @@
 		EE63CB8B23D90C4C002265AB /* a1150.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1150.cpp; sourceTree = "<group>"; };
 		EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a169MajorityElement.cpp; sourceTree = "<group>"; };
 		EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a229MajorityElementII.cpp; sourceTree = "<group>"; };
+		EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a719FindKthSmallestPairDistance.cpp; sourceTree = "<group>"; };
 		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
@@ -314,6 +316,7 @@
 				EE63CB8B23D90C4C002265AB /* a1150.cpp */,
 				EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */,
 				EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */,
+				EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
 				8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */,
+				EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */,
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
