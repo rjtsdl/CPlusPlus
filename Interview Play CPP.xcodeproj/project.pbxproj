@@ -83,6 +83,7 @@
 		EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */; };
 		EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */; };
 		EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */; };
+		EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */; };
 		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
@@ -186,6 +187,7 @@
 		EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a169MajorityElement.cpp; sourceTree = "<group>"; };
 		EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a229MajorityElementII.cpp; sourceTree = "<group>"; };
 		EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a719FindKthSmallestPairDistance.cpp; sourceTree = "<group>"; };
+		EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a723Candy Crush.cpp"; sourceTree = "<group>"; };
 		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
@@ -230,7 +232,15 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				EE7D5B9523DA487E0057DA4E /* Algorithms */,
 				EEF8B0F223D80EB600723648 /* libraries */,
+			);
+			path = "Interview Play CPP";
+			sourceTree = "<group>";
+		};
+		EE7D5B9523DA487E0057DA4E /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
 				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
 				A5A65A131A36AAD700FFE150 /* Atoi.cpp */,
 				53C624831C01A9750080C09E /* ImplStrStr.cpp */,
@@ -317,8 +327,9 @@
 				EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */,
 				EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */,
 				EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */,
+				EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */,
 			);
-			path = "Interview Play CPP";
+			name = Algorithms;
 			sourceTree = "<group>";
 		};
 		EEF8B0F223D80EB600723648 /* libraries */ = {
@@ -448,6 +459,7 @@
 				EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
+				EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
 				EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */,
