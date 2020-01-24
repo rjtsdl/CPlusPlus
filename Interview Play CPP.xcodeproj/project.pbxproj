@@ -86,6 +86,7 @@
 		EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */; };
 		EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */; };
 		EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */; };
+		EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */; };
 		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
@@ -192,6 +193,7 @@
 		EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a723Candy Crush.cpp"; sourceTree = "<group>"; };
 		EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a896MonotonicArray.cpp; sourceTree = "<group>"; };
 		EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a755PourWater.cpp; sourceTree = "<group>"; };
+		EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a729MyCalendarI.cpp; sourceTree = "<group>"; };
 		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
@@ -334,6 +336,7 @@
 				EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */,
 				EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */,
 				EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */,
+				EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
 				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
+				EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
 				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
