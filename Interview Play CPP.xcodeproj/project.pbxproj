@@ -87,6 +87,12 @@
 		EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */; };
 		EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */; };
 		EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */; };
+		EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9C23DBA10E0057DA4E /* a56MergeIntervals.cpp */; };
+		EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9E23DBBB9A0057DA4E /* a57InsertInterval.cpp */; };
+		EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5BA023DBBC820057DA4E /* a252MeetingRooms.cpp */; };
+		EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5BA223DBBD1A0057DA4E /* a253MeetingRoomsII.cpp */; };
+		EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5BA423DBBDA10057DA4E /* a731MyCalendarII.cpp */; };
+		EE7D5BA723DBBF490057DA4E /* a732MyCalendarIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5BA623DBBF490057DA4E /* a732MyCalendarIII.cpp */; };
 		EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */; };
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
@@ -194,6 +200,12 @@
 		EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a896MonotonicArray.cpp; sourceTree = "<group>"; };
 		EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a755PourWater.cpp; sourceTree = "<group>"; };
 		EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a729MyCalendarI.cpp; sourceTree = "<group>"; };
+		EE7D5B9C23DBA10E0057DA4E /* a56MergeIntervals.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a56MergeIntervals.cpp; sourceTree = "<group>"; };
+		EE7D5B9E23DBBB9A0057DA4E /* a57InsertInterval.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a57InsertInterval.cpp; sourceTree = "<group>"; };
+		EE7D5BA023DBBC820057DA4E /* a252MeetingRooms.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a252MeetingRooms.cpp; sourceTree = "<group>"; };
+		EE7D5BA223DBBD1A0057DA4E /* a253MeetingRoomsII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a253MeetingRoomsII.cpp; sourceTree = "<group>"; };
+		EE7D5BA423DBBDA10057DA4E /* a731MyCalendarII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a731MyCalendarII.cpp; sourceTree = "<group>"; };
+		EE7D5BA623DBBF490057DA4E /* a732MyCalendarIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a732MyCalendarIII.cpp; sourceTree = "<group>"; };
 		EE8B6E7823C530F900D67591 /* a531LonelyPixelI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a531LonelyPixelI.cpp; sourceTree = "<group>"; };
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
@@ -337,6 +349,12 @@
 				EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */,
 				EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */,
 				EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */,
+				EE7D5B9C23DBA10E0057DA4E /* a56MergeIntervals.cpp */,
+				EE7D5B9E23DBBB9A0057DA4E /* a57InsertInterval.cpp */,
+				EE7D5BA023DBBC820057DA4E /* a252MeetingRooms.cpp */,
+				EE7D5BA223DBBD1A0057DA4E /* a253MeetingRoomsII.cpp */,
+				EE7D5BA423DBBDA10057DA4E /* a731MyCalendarII.cpp */,
+				EE7D5BA623DBBF490057DA4E /* a732MyCalendarIII.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -423,8 +441,10 @@
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
+				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
+				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
@@ -449,6 +469,7 @@
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
+				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */,
@@ -466,12 +487,14 @@
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
+				EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */,
 				8DE3DC001CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
 				EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */,
+				EE7D5BA723DBBF490057DA4E /* a732MyCalendarIII.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
 				EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */,
@@ -484,6 +507,7 @@
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
+				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
