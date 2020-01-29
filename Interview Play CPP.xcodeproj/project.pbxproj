@@ -98,6 +98,9 @@
 		EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */; };
 		EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */; };
 		EE9473FB23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE9473FA23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp */; };
+		EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE9473FC23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp */; };
+		EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE9473FE23E20DC40095C5CA /* a152MaximumProductSubarray.cpp */; };
+		EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94740023E20E760095C5CA /* a265PaintHouseII.cpp */; };
 		EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
@@ -213,6 +216,9 @@
 		EE8B6E7A23C537A300D67591 /* a533LonelyPixelII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a533LonelyPixelII.cpp; sourceTree = "<group>"; };
 		EE8B6E7C23C54C2700D67591 /* a1034ColoringABorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1034ColoringABorder.cpp; sourceTree = "<group>"; };
 		EE9473FA23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a407TrappingRainWaterII.cpp; sourceTree = "<group>"; };
+		EE9473FC23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a238ProductofArrayExceptSelf.cpp; sourceTree = "<group>"; };
+		EE9473FE23E20DC40095C5CA /* a152MaximumProductSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a152MaximumProductSubarray.cpp; sourceTree = "<group>"; };
+		EE94740023E20E760095C5CA /* a265PaintHouseII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a265PaintHouseII.cpp; sourceTree = "<group>"; };
 		EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a689MaximumSumof3NonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
@@ -361,6 +367,9 @@
 				EE7D5BA623DBBF490057DA4E /* a732MyCalendarIII.cpp */,
 				EE4AC59523E0AFD700BDB74E /* a42TrappingRainWater.cpp */,
 				EE9473FA23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp */,
+				EE9473FC23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp */,
+				EE9473FE23E20DC40095C5CA /* a152MaximumProductSubarray.cpp */,
+				EE94740023E20E760095C5CA /* a265PaintHouseII.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -509,6 +518,7 @@
 				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
+				EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
@@ -517,11 +527,13 @@
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
+				EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
+				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
 				8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */,
 				8DE3DC061CE58C86000F41AD /* RemoveDuplicatesfromSortedList.cpp in Sources */,
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,

@@ -94,7 +94,7 @@ public:
      */
 };
 
-
+/*
 int main()
 {
     Solution sol;
@@ -102,3 +102,4 @@ int main()
     int res = sol.trap(test);
     cout << "trap water : " <<  res << endl;
 }
+ */
