@@ -48,9 +48,11 @@ public:
     }
 };
 
+/*
 int main() {
     string S = "dsahjpjauf";
     vector<string> words = {"ahjpjau","ja","ahbwzgqnuk","tnmlanowax"};
     Solution sol;
     cout << "num matching sub seq: " << sol.numMatchingSubseq(S, words) << endl;
 }
+ */
