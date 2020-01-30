@@ -106,6 +106,7 @@
 		EE94740723E248070095C5CA /* a198HouseRobber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94740623E248070095C5CA /* a198HouseRobber.cpp */; };
 		EE94740923E249F80095C5CA /* a213HouseRobberII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94740823E249F80095C5CA /* a213HouseRobberII.cpp */; };
 		EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94740A23E338570095C5CA /* a775GlobalandLocalInversions.cpp */; };
+		EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94740C23E33D940095C5CA /* a782TransformtoChessboard.cpp */; };
 		EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
@@ -229,6 +230,7 @@
 		EE94740623E248070095C5CA /* a198HouseRobber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a198HouseRobber.cpp; sourceTree = "<group>"; };
 		EE94740823E249F80095C5CA /* a213HouseRobberII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a213HouseRobberII.cpp; sourceTree = "<group>"; };
 		EE94740A23E338570095C5CA /* a775GlobalandLocalInversions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a775GlobalandLocalInversions.cpp; sourceTree = "<group>"; };
+		EE94740C23E33D940095C5CA /* a782TransformtoChessboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a782TransformtoChessboard.cpp; sourceTree = "<group>"; };
 		EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a689MaximumSumof3NonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
@@ -385,6 +387,7 @@
 				EE94740623E248070095C5CA /* a198HouseRobber.cpp */,
 				EE94740823E249F80095C5CA /* a213HouseRobberII.cpp */,
 				EE94740A23E338570095C5CA /* a775GlobalandLocalInversions.cpp */,
+				EE94740C23E33D940095C5CA /* a782TransformtoChessboard.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -552,6 +555,7 @@
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
+				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
 				8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */,
