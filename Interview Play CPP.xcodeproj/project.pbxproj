@@ -62,6 +62,8 @@
 		A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A65A131A36AAD700FFE150 /* Atoi.cpp */; };
 		A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */; };
 		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
+		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
+		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE465F5723C93E5A00769C6D /* a1243ArrayTransformation.cpp */; };
 		EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE465F5923C9431F00769C6D /* a978LongestTurbulentSubarray.cpp */; };
 		EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4AC59523E0AFD700BDB74E /* a42TrappingRainWater.cpp */; };
@@ -192,6 +194,8 @@
 		A5C4C1E41A35170400896CCD /* Interview Play CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Interview Play CPP"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindPeakElement.cpp; sourceTree = "<group>"; };
 		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
+		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
+		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE465F5723C93E5A00769C6D /* a1243ArrayTransformation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1243ArrayTransformation.cpp; sourceTree = "<group>"; };
 		EE465F5923C9431F00769C6D /* a978LongestTurbulentSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a978LongestTurbulentSubarray.cpp; sourceTree = "<group>"; };
 		EE4AC59523E0AFD700BDB74E /* a42TrappingRainWater.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a42TrappingRainWater.cpp; sourceTree = "<group>"; };
@@ -406,6 +410,8 @@
 				EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */,
 				EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */,
 				EE53162024E1F4030061EED3 /* a1424DiagonalTraverseII.cpp */,
+				EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */,
+				EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -497,6 +503,7 @@
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
+				EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
@@ -586,6 +593,7 @@
 				8DE3DC061CE58C86000F41AD /* RemoveDuplicatesfromSortedList.cpp in Sources */,
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,
 				8DE3DC041CE58740000F41AD /* RemoveDuplicatesfromSortedListII.cpp in Sources */,
+				EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
 				EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */,
