@@ -64,6 +64,7 @@
 		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
+		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
 		EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE465F5723C93E5A00769C6D /* a1243ArrayTransformation.cpp */; };
 		EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE465F5923C9431F00769C6D /* a978LongestTurbulentSubarray.cpp */; };
 		EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE4AC59523E0AFD700BDB74E /* a42TrappingRainWater.cpp */; };
@@ -196,6 +197,7 @@
 		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
+		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
 		EE465F5723C93E5A00769C6D /* a1243ArrayTransformation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1243ArrayTransformation.cpp; sourceTree = "<group>"; };
 		EE465F5923C9431F00769C6D /* a978LongestTurbulentSubarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a978LongestTurbulentSubarray.cpp; sourceTree = "<group>"; };
 		EE4AC59523E0AFD700BDB74E /* a42TrappingRainWater.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a42TrappingRainWater.cpp; sourceTree = "<group>"; };
@@ -412,6 +414,7 @@
 				EE53162024E1F4030061EED3 /* a1424DiagonalTraverseII.cpp */,
 				EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */,
 				EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */,
+				EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -589,6 +592,7 @@
 				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
+				EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */,
 				8DF1B53C1CDFDE2E005DF2D4 /* RotateList.cpp in Sources */,
 				8DE3DC061CE58C86000F41AD /* RemoveDuplicatesfromSortedList.cpp in Sources */,
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,
