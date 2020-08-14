@@ -59,8 +59,9 @@ public:
     }
 };
 
+/*
 int main() {
     Solution* sol = new Solution();
     cout << sol->nthUglyNumber(3,2,3,5);
     return 0;
-}
+}*/

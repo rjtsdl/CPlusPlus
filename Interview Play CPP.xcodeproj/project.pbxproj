@@ -64,6 +64,8 @@
 		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
 		EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */; };
 		EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */; };
+		EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */; };
+		EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -199,6 +201,8 @@
 		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
 		EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1249MinimumRemoveToMakeValidParentheses.cpp; sourceTree = "<group>"; };
 		EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1201UglyNumberIII.cpp; sourceTree = "<group>"; };
+		EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a773SlidingPuzzle.cpp; sourceTree = "<group>"; };
+		EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a981TimeBasedKeyValueStore.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -421,6 +425,8 @@
 				EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */,
 				EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */,
 				EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */,
+				EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */,
+				EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -509,6 +515,7 @@
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
+				EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */,
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
@@ -535,6 +542,7 @@
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
+				EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */,
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				EE94741323E380D80095C5CA /* a1055ShortestWaytoFormString.cpp in Sources */,
