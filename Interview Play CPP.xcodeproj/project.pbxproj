@@ -66,6 +66,8 @@
 		EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */; };
 		EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */; };
 		EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */; };
+		EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */; };
+		EE2989B824E7112800689908 /* a1206DesignSkiplist.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -203,6 +205,8 @@
 		EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1201UglyNumberIII.cpp; sourceTree = "<group>"; };
 		EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a773SlidingPuzzle.cpp; sourceTree = "<group>"; };
 		EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a981TimeBasedKeyValueStore.cpp; sourceTree = "<group>"; };
+		EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a706DesignHashMap.cpp; sourceTree = "<group>"; };
+		EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1206DesignSkiplist.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -427,6 +431,8 @@
 				EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */,
 				EE2989B124E6FF5700689908 /* a773SlidingPuzzle.cpp */,
 				EE2989B324E707B800689908 /* a981TimeBasedKeyValueStore.cpp */,
+				EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */,
+				EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -569,6 +575,7 @@
 				8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */,
 				EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */,
 				EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */,
+				EE2989B824E7112800689908 /* a1206DesignSkiplist.cpp in Sources */,
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
@@ -597,6 +604,7 @@
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
+				EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */,
