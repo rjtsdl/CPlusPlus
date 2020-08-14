@@ -62,6 +62,8 @@
 		A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A65A131A36AAD700FFE150 /* Atoi.cpp */; };
 		A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */; };
 		EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */; };
+		EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */; };
+		EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -195,6 +197,8 @@
 		A5C4C1E41A35170400896CCD /* Interview Play CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Interview Play CPP"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C4C1EE1A3517F900896CCD /* FindPeakElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FindPeakElement.cpp; sourceTree = "<group>"; };
 		EE0DBAE623BFFC7100FB431A /* a457circulararrayloop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a457circulararrayloop.cpp; sourceTree = "<group>"; };
+		EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1249MinimumRemoveToMakeValidParentheses.cpp; sourceTree = "<group>"; };
+		EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1201UglyNumberIII.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -415,6 +419,8 @@
 				EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */,
 				EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */,
 				EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */,
+				EE2989AD24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp */,
+				EE2989AF24E65BDE00689908 /* a1201UglyNumberIII.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -514,6 +520,7 @@
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
+				EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */,
 				EE94740F23E379C50095C5CA /* a792NumberofMatchingSubsequences.cpp in Sources */,
 				EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */,
 				EE63CB8A23D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp in Sources */,
@@ -542,6 +549,7 @@
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */,
+				EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */,
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,

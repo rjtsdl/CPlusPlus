@@ -90,6 +90,7 @@ public:
     
     
 };
+/*
 
 int main() {
     vector<vector<int>> connections{{0,1},{1,2},{2,0}, {1,3}, {3,4}, {4,5}, {5,3}};
@@ -97,4 +98,4 @@ int main() {
     auto ret = sol->criticalConnections(6, connections);
     return 0;
     
-}
+}*/
