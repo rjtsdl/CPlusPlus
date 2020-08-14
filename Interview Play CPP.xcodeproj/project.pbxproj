@@ -69,6 +69,7 @@
 		EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */; };
 		EE2989B824E7112800689908 /* a1206DesignSkiplist.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */; };
 		EE2989BA24E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989B924E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp */; };
+		EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989BB24E75A7F00689908 /* a986IntervalListIntersections.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -209,6 +210,7 @@
 		EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a706DesignHashMap.cpp; sourceTree = "<group>"; };
 		EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1206DesignSkiplist.cpp; sourceTree = "<group>"; };
 		EE2989B924E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a588DesignInMemoryFileSystem.cpp; sourceTree = "<group>"; };
+		EE2989BB24E75A7F00689908 /* a986IntervalListIntersections.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a986IntervalListIntersections.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -436,6 +438,7 @@
 				EE2989B524E70D8A00689908 /* a706DesignHashMap.cpp */,
 				EE2989B724E7112800689908 /* a1206DesignSkiplist.cpp */,
 				EE2989B924E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp */,
+				EE2989BB24E75A7F00689908 /* a986IntervalListIntersections.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -583,6 +586,7 @@
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
+				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
 				EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */,
