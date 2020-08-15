@@ -10,7 +10,7 @@
 #include <vector>
 
 using namespace std;
-
+/*
 class Solution {
 private:
      vector<Interval> createMaster( vector<vector<Interval>>& schedule, int start, int end){
@@ -57,3 +57,4 @@ public:
         return result;
     }
 };
+*/
