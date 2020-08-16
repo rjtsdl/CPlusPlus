@@ -10,6 +10,7 @@
 #include <string>
 #include <vector>
 #include <map>
+#include <set>
 #include <unordered_map>
 
 using namespace std;
@@ -47,7 +48,7 @@ public:
         // note: if we needed the top K tuples, we could have used a priority_queue
         // But max_element suffices here because we only need the most frequent tuple
         
-        return max_element(seqCount.begin(), seqCount.end(), [](auto& p1, auto& p2){
+        return max_element(seqCount.begin(), seqCount.end(), [](pair<vector<string>, int>& p1, pair<vector<string>, int>& p2){
             // 1. if the counts of the 2 tuples are different, sort by whichever is greater : return (p1.second < p2.second);
             // 2. if the counts are equal, then sort by whichever comes first alphabetically: return (p1.first > p2.first);
             

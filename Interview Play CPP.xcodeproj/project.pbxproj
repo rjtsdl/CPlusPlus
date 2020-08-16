@@ -80,6 +80,9 @@
 		EE2989CE24E8EAE500689908 /* a843GuessTheWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989CD24E8EAE500689908 /* a843GuessTheWorld.cpp */; };
 		EE2989D024E8EDFA00689908 /* a735AsteroidCollision.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989CF24E8EDFA00689908 /* a735AsteroidCollision.cpp */; };
 		EE2989D224E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D124E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp */; };
+		EE2989D424E9C03A00689908 /* a1396DesignUndergroundSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */; };
+		EE2989D624E9C45600689908 /* a1041RobotBoundedInCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */; };
+		EE2989D824E9C80700689908 /* a1197MinimumKnightMoves.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -231,6 +234,9 @@
 		EE2989CD24E8EAE500689908 /* a843GuessTheWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a843GuessTheWorld.cpp; sourceTree = "<group>"; };
 		EE2989CF24E8EDFA00689908 /* a735AsteroidCollision.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a735AsteroidCollision.cpp; sourceTree = "<group>"; };
 		EE2989D124E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1152AnalyzeUserWebsiteVisitPattern.cpp; sourceTree = "<group>"; };
+		EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1396DesignUndergroundSystem.cpp; sourceTree = "<group>"; };
+		EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1041RobotBoundedInCircle.cpp; sourceTree = "<group>"; };
+		EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1197MinimumKnightMoves.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -469,6 +475,9 @@
 				EE2989CD24E8EAE500689908 /* a843GuessTheWorld.cpp */,
 				EE2989CF24E8EDFA00689908 /* a735AsteroidCollision.cpp */,
 				EE2989D124E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp */,
+				EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */,
+				EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */,
+				EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -592,6 +601,7 @@
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */,
 				EE2989CA24E8808200689908 /* a472ConcatenatedWords.cpp in Sources */,
+				EE2989D624E9C45600689908 /* a1041RobotBoundedInCircle.cpp in Sources */,
 				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
 				EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */,
 				EE2989D024E8EDFA00689908 /* a735AsteroidCollision.cpp in Sources */,
@@ -613,6 +623,7 @@
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
 				8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
+				EE2989D424E9C03A00689908 /* a1396DesignUndergroundSystem.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
 				8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */,
 				EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */,
@@ -621,6 +632,7 @@
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
+				EE2989D824E9C80700689908 /* a1197MinimumKnightMoves.cpp in Sources */,
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EE2989C824E87B9500689908 /* a994RottingOranges.cpp in Sources */,
