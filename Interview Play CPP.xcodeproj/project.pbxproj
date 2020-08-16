@@ -83,6 +83,8 @@
 		EE2989D424E9C03A00689908 /* a1396DesignUndergroundSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */; };
 		EE2989D624E9C45600689908 /* a1041RobotBoundedInCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */; };
 		EE2989D824E9C80700689908 /* a1197MinimumKnightMoves.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */; };
+		EE2989DA24E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989D924E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp */; };
+		EE2989DC24E9E1ED00689908 /* a770BasicCalculatorIV.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE2989DB24E9E1ED00689908 /* a770BasicCalculatorIV.cpp */; };
 		EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */; };
 		EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */; };
 		EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */; };
@@ -237,6 +239,8 @@
 		EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1396DesignUndergroundSystem.cpp; sourceTree = "<group>"; };
 		EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1041RobotBoundedInCircle.cpp; sourceTree = "<group>"; };
 		EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1197MinimumKnightMoves.cpp; sourceTree = "<group>"; };
+		EE2989D924E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a863AllNodesDistanceKInBinaryTree.cpp; sourceTree = "<group>"; };
+		EE2989DB24E9E1ED00689908 /* a770BasicCalculatorIV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a770BasicCalculatorIV.cpp; sourceTree = "<group>"; };
 		EE453B2424E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a937ReorderDataInLogFiles.cpp; sourceTree = "<group>"; };
 		EE453B2624E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1192CriticalConnectionsInANetwork.cpp; sourceTree = "<group>"; };
 		EE453B2824E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a953VerifyingAnAlienDictionary.cpp; sourceTree = "<group>"; };
@@ -478,6 +482,8 @@
 				EE2989D324E9C03A00689908 /* a1396DesignUndergroundSystem.cpp */,
 				EE2989D524E9C45600689908 /* a1041RobotBoundedInCircle.cpp */,
 				EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */,
+				EE2989D924E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp */,
+				EE2989DB24E9E1ED00689908 /* a770BasicCalculatorIV.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -591,6 +597,7 @@
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
 				53F48D351C0A163800170DAE /* ValidSudoku.cpp in Sources */,
 				8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */,
+				EE2989DA24E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
@@ -639,6 +646,7 @@
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
 				EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */,
 				8DE3DC001CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp in Sources */,
+				EE2989DC24E9E1ED00689908 /* a770BasicCalculatorIV.cpp in Sources */,
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
