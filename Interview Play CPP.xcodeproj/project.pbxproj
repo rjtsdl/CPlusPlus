@@ -153,6 +153,8 @@
 		EEBD738924EB191500FDB30B /* a480SlidingWindowMedian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */; };
 		EEBD738B24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */; };
 		EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */; };
+		EEBD738F24EB3A8E00FDB30B /* a1044LongestDuplicateSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738E24EB3A8E00FDB30B /* a1044LongestDuplicateSubstring.cpp */; };
+		EEBD739124EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD739024EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -322,6 +324,8 @@
 		EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a480SlidingWindowMedian.cpp; sourceTree = "<group>"; };
 		EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a428SerializeAndDeserializeNaryTree.cpp; sourceTree = "<group>"; };
 		EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a518CoinChange.cpp; sourceTree = "<group>"; };
+		EEBD738E24EB3A8E00FDB30B /* a1044LongestDuplicateSubstring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1044LongestDuplicateSubstring.cpp; sourceTree = "<group>"; };
+		EEBD739024EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a317ShortestDistanceFromAllBuildings.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -523,6 +527,8 @@
 				EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */,
 				EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */,
 				EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */,
+				EEBD738E24EB3A8E00FDB30B /* a1044LongestDuplicateSubstring.cpp */,
+				EEBD739024EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -706,6 +712,7 @@
 				EE94740523E246460095C5CA /* a276PaintFence.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
+				EEBD738F24EB3A8E00FDB30B /* a1044LongestDuplicateSubstring.cpp in Sources */,
 				EEBD738324EAEF0300FDB30B /* a721AccountsMerge.cpp in Sources */,
 				EE2989BE24E79B0B00689908 /* a829ConsecutiveNumbersSum.cpp in Sources */,
 				EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */,
@@ -733,6 +740,7 @@
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
+				EEBD739124EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp in Sources */,
 				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
