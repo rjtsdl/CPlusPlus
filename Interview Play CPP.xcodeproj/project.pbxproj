@@ -150,6 +150,9 @@
 		EEBD738324EAEF0300FDB30B /* a721AccountsMerge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */; };
 		EEBD738524EAF58600FDB30B /* a523ContinuousSubarraySum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */; };
 		EEBD738724EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738624EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp */; };
+		EEBD738924EB191500FDB30B /* a480SlidingWindowMedian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */; };
+		EEBD738B24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */; };
+		EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -316,6 +319,9 @@
 		EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a721AccountsMerge.cpp; sourceTree = "<group>"; };
 		EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a523ContinuousSubarraySum.cpp; sourceTree = "<group>"; };
 		EEBD738624EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a545BoundaryOfBinaryTree.cpp; sourceTree = "<group>"; };
+		EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a480SlidingWindowMedian.cpp; sourceTree = "<group>"; };
+		EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a428SerializeAndDeserializeNaryTree.cpp; sourceTree = "<group>"; };
+		EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a518CoinChange.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -514,6 +520,9 @@
 				EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */,
 				EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */,
 				EEBD738624EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp */,
+				EEBD738824EB191500FDB30B /* a480SlidingWindowMedian.cpp */,
+				EEBD738A24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp */,
+				EEBD738C24EB1DBC00FDB30B /* a518CoinChange.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -598,6 +607,7 @@
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
 				EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
+				EEBD738924EB191500FDB30B /* a480SlidingWindowMedian.cpp in Sources */,
 				EEBD738724EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp in Sources */,
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
 				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
@@ -692,6 +702,7 @@
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
 				EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */,
 				EE7D5BA723DBBF490057DA4E /* a732MyCalendarIII.cpp in Sources */,
+				EEBD738B24EB1A0B00FDB30B /* a428SerializeAndDeserializeNaryTree.cpp in Sources */,
 				EE94740523E246460095C5CA /* a276PaintFence.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
@@ -707,6 +718,7 @@
 				EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
+				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				EE2989C424E8757A00689908 /* a819MostCommonWord.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
