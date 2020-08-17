@@ -140,6 +140,11 @@
 		EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */; };
 		EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */; };
 		EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */; };
+		EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */; };
+		EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */; };
+		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
+		EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */; };
+		EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -296,6 +301,11 @@
 		EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a795NumberofSubarrayswithBoundedMaximum.cpp; sourceTree = "<group>"; };
 		EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a825FriendsOfAppropriateAges.cpp; sourceTree = "<group>"; };
 		EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a689MaximumSumof3NonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
+		EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a465OptimalAccountBalance.cpp; sourceTree = "<group>"; };
+		EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1229MeetingScheduler.cpp; sourceTree = "<group>"; };
+		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
+		EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1048LongestStringChain.cpp; sourceTree = "<group>"; };
+		EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1283FindTheSmallestDivisorGivenAThreshold.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -484,6 +494,11 @@
 				EE2989D724E9C80700689908 /* a1197MinimumKnightMoves.cpp */,
 				EE2989D924E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp */,
 				EE2989DB24E9E1ED00689908 /* a770BasicCalculatorIV.cpp */,
+				EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */,
+				EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */,
+				EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */,
+				EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */,
+				EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -561,6 +576,8 @@
 				EE94740923E249F80095C5CA /* a213HouseRobberII.cpp in Sources */,
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
+				EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */,
+				EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */,
 				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
 				EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
@@ -576,6 +593,7 @@
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
+				EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */,
 				EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
@@ -604,6 +622,7 @@
 				EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */,
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
+				EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */,
 				EE94741323E380D80095C5CA /* a1055ShortestWaytoFormString.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */,
@@ -615,6 +634,7 @@
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
+				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
