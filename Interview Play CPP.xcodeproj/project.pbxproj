@@ -145,6 +145,10 @@
 		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
 		EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */; };
 		EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */; };
+		EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737E24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp */; };
+		EEBD738124EAED3E00FDB30B /* a938RangeSumOfBST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738024EAED3E00FDB30B /* a938RangeSumOfBST.cpp */; };
+		EEBD738324EAEF0300FDB30B /* a721AccountsMerge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */; };
+		EEBD738524EAF58600FDB30B /* a523ContinuousSubarraySum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -306,6 +310,10 @@
 		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
 		EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1048LongestStringChain.cpp; sourceTree = "<group>"; };
 		EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1283FindTheSmallestDivisorGivenAThreshold.cpp; sourceTree = "<group>"; };
+		EEBD737E24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1235MaximumProfitInJobScheduling.cpp; sourceTree = "<group>"; };
+		EEBD738024EAED3E00FDB30B /* a938RangeSumOfBST.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a938RangeSumOfBST.cpp; sourceTree = "<group>"; };
+		EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a721AccountsMerge.cpp; sourceTree = "<group>"; };
+		EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a523ContinuousSubarraySum.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -499,6 +507,10 @@
 				EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */,
 				EEBD737A24EA500400FDB30B /* a1048LongestStringChain.cpp */,
 				EEBD737C24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp */,
+				EEBD737E24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp */,
+				EEBD738024EAED3E00FDB30B /* a938RangeSumOfBST.cpp */,
+				EEBD738224EAEF0300FDB30B /* a721AccountsMerge.cpp */,
+				EEBD738424EAF58600FDB30B /* a523ContinuousSubarraySum.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -616,6 +628,7 @@
 				53F48D351C0A163800170DAE /* ValidSudoku.cpp in Sources */,
 				8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */,
 				EE2989DA24E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp in Sources */,
+				EEBD738124EAED3E00FDB30B /* a938RangeSumOfBST.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
@@ -635,6 +648,7 @@
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
 				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
+				EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
@@ -652,6 +666,7 @@
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				EE2989D424E9C03A00689908 /* a1396DesignUndergroundSystem.cpp in Sources */,
 				A5A65A141A36AAD700FFE150 /* Atoi.cpp in Sources */,
+				EEBD738524EAF58600FDB30B /* a523ContinuousSubarraySum.cpp in Sources */,
 				8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */,
 				EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */,
 				EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */,
@@ -676,6 +691,7 @@
 				EE94740523E246460095C5CA /* a276PaintFence.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
+				EEBD738324EAEF0300FDB30B /* a721AccountsMerge.cpp in Sources */,
 				EE2989BE24E79B0B00689908 /* a829ConsecutiveNumbersSum.cpp in Sources */,
 				EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */,
 				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
