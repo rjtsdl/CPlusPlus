@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <vector>
 
-
+/*
 class Solution {
 public:
     int maxHeap_size;
@@ -47,12 +47,12 @@ public:
         
         pushMedians();
 
-        /*
+        /
         1. delete nums[i - k]: record nums[i - k] and delete it later
         3. push nums[i]: balance 2 heaps
         4. check the top of 2 heaps, delete elements in hash table if can
         5. pushMedians();
-        */
+        /
         
         for (int i = k; i < nums.size(); i++)
         {
@@ -109,3 +109,4 @@ public:
         return medians;
     }
 };
+*/

@@ -10,7 +10,7 @@
 #include "math.h"
 
 using namespace std;
-
+/*
 class Solution {
 public:
     struct TreeNode {
@@ -30,3 +30,4 @@ public:
         return total;
     }
 };
+ */
