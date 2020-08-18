@@ -53,7 +53,7 @@ public:
         return minSum;
     }
 };
-
+/*
 int main() {
     Solution* sol = new Solution();
     vector<int> arr{6,2,4};
@@ -61,3 +61,4 @@ int main() {
     
     return 0;
 }
+*/
