@@ -167,6 +167,11 @@
 		EEBD73A524EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73A424EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp */; };
 		EEBD73A724EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73A624EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp */; };
 		EEBD73A924EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73A824EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp */; };
+		EEBD73AB24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73AA24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp */; };
+		EEBD73AD24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73AC24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp */; };
+		EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */; };
+		EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */; };
+		EEBD73B324ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -350,6 +355,11 @@
 		EEBD73A424EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a930BinarySubarraysWithSum.cpp; sourceTree = "<group>"; };
 		EEBD73A624EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a123BestTimeToBuyAndSellStockIII.cpp; sourceTree = "<group>"; };
 		EEBD73A824EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a188BestTimeToBuyAndSellStockIV.cpp; sourceTree = "<group>"; };
+		EEBD73AA24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a898BitwiseOrsOfSubarrays.cpp; sourceTree = "<group>"; };
+		EEBD73AC24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a301RemoveInvalidParentheses.cpp; sourceTree = "<group>"; };
+		EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a935KnightDialer.cpp; sourceTree = "<group>"; };
+		EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1163LastSubstringInLexicographicalOrder.cpp; sourceTree = "<group>"; };
+		EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1428LeftmostColumnWithAtLeastAOne.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -565,6 +575,11 @@
 				EEBD73A424EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp */,
 				EEBD73A624EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp */,
 				EEBD73A824EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp */,
+				EEBD73AA24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp */,
+				EEBD73AC24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp */,
+				EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */,
+				EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */,
+				EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -655,6 +670,7 @@
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
 				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
 				EE9473FB23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp in Sources */,
+				EEBD73AB24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp in Sources */,
 				53C60CE11BD7549000A94474 /* ZigzagConversion.cpp in Sources */,
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
@@ -669,6 +685,7 @@
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
+				EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */,
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
@@ -681,6 +698,7 @@
 				53EB5D6F1BFEFE3E002E773E /* ReverseNodesInKGroup.cpp in Sources */,
 				EEBD73A124EC454700FDB30B /* a1438LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualToLimit.cpp in Sources */,
 				EEBD739324EB8F7700FDB30B /* a957PrisonCellsAfterNDays.cpp in Sources */,
+				EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */,
 				538CF2101C55748A00318D97 /* FirstMissingPositive.cpp in Sources */,
 				8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
@@ -739,6 +757,7 @@
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
 				EE2989D824E9C80700689908 /* a1197MinimumKnightMoves.cpp in Sources */,
+				EEBD73AD24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp in Sources */,
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EE2989C824E87B9500689908 /* a994RottingOranges.cpp in Sources */,
@@ -763,6 +782,7 @@
 				EE8B6E7D23C54C2700D67591 /* a1034ColoringABorder.cpp in Sources */,
 				53F0685F1BFE3C8B0057269A /* SwapNodeInPairs.cpp in Sources */,
 				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
+				EEBD73B324ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp in Sources */,
 				EE2989C224E7A6A200689908 /* a759EmployeeFreeTime.cpp in Sources */,
 				EE2989D224E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
