@@ -172,6 +172,8 @@
 		EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */; };
 		EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */; };
 		EEBD73B324ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */; };
+		EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */; };
+		EEBD73B724EDE5D400FDB30B /* a741CherryPickup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -360,6 +362,8 @@
 		EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a935KnightDialer.cpp; sourceTree = "<group>"; };
 		EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1163LastSubstringInLexicographicalOrder.cpp; sourceTree = "<group>"; };
 		EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1428LeftmostColumnWithAtLeastAOne.cpp; sourceTree = "<group>"; };
+		EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a946ValidateStackSequence.cpp; sourceTree = "<group>"; };
+		EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a741CherryPickup.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -580,6 +584,8 @@
 				EEBD73AE24ED7B8700FDB30B /* a935KnightDialer.cpp */,
 				EEBD73B024ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp */,
 				EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */,
+				EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */,
+				EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -660,6 +666,7 @@
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
 				EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */,
 				EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */,
+				EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */,
 				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
 				EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
@@ -742,6 +749,7 @@
 				EE2989CC24E88B7A00689908 /* a767ReorgString.cpp in Sources */,
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
+				EEBD73B724EDE5D400FDB30B /* a741CherryPickup.cpp in Sources */,
 				8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				EE2989D424E9C03A00689908 /* a1396DesignUndergroundSystem.cpp in Sources */,
