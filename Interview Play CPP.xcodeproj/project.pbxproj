@@ -182,6 +182,8 @@
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
 		EEF87B9424F03ABB00475D72 /* a844BackspaceStringCompare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */; };
+		EEF87B9624F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */; };
+		EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */; };
 		EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */; };
 		EEF8B0F523D80ED800723648 /* bit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F323D80ED800723648 /* bit.cpp */; };
 /* End PBXBuildFile section */
@@ -375,6 +377,8 @@
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
 		EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a844BackspaceStringCompare.cpp; sourceTree = "<group>"; };
+		EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1344AngleBetweenHandsOfAClock.cpp; sourceTree = "<group>"; };
+		EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a909SnakesAndLadders.cpp; sourceTree = "<group>"; };
 		EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a493ReversePairs.cpp; sourceTree = "<group>"; };
 		EEF8B0F323D80ED800723648 /* bit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bit.cpp; sourceTree = "<group>"; };
 		EEF8B0F423D80ED800723648 /* bit.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = bit.hpp; sourceTree = "<group>"; };
@@ -596,6 +600,8 @@
 				EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */,
 				EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */,
 				EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */,
+				EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */,
+				EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -708,6 +714,7 @@
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
+				EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */,
 				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
 				EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */,
@@ -780,6 +787,7 @@
 				EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */,
 				EEBD73A724EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp in Sources */,
 				EE2989B824E7112800689908 /* a1206DesignSkiplist.cpp in Sources */,
+				EEF87B9624F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp in Sources */,
 				EEBD739524EBA22C00FDB30B /* a1086HighFive.cpp in Sources */,
 				53EF9B121BFD1CE3009E693A /* GenerateParentheses.cpp in Sources */,
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
