@@ -174,11 +174,14 @@
 		EEBD73B324ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */; };
 		EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */; };
 		EEBD73B724EDE5D400FDB30B /* a741CherryPickup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */; };
+		EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
+		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
+		EEF87B9424F03ABB00475D72 /* a844BackspaceStringCompare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */; };
 		EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */; };
 		EEF8B0F523D80ED800723648 /* bit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F323D80ED800723648 /* bit.cpp */; };
 /* End PBXBuildFile section */
@@ -364,11 +367,14 @@
 		EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1428LeftmostColumnWithAtLeastAOne.cpp; sourceTree = "<group>"; };
 		EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a946ValidateStackSequence.cpp; sourceTree = "<group>"; };
 		EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a741CherryPickup.cpp; sourceTree = "<group>"; };
+		EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a934ShortestBridge.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
+		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
+		EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a844BackspaceStringCompare.cpp; sourceTree = "<group>"; };
 		EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a493ReversePairs.cpp; sourceTree = "<group>"; };
 		EEF8B0F323D80ED800723648 /* bit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bit.cpp; sourceTree = "<group>"; };
 		EEF8B0F423D80ED800723648 /* bit.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = bit.hpp; sourceTree = "<group>"; };
@@ -404,6 +410,7 @@
 		A5C4C1E61A35170400896CCD /* Interview Play CPP */ = {
 			isa = PBXGroup;
 			children = (
+				EEBD73BA24EEF41100FDB30B /* TechScreen */,
 				EE7D5B9523DA487E0057DA4E /* Algorithms */,
 				EEF8B0F223D80EB600723648 /* libraries */,
 			);
@@ -586,8 +593,18 @@
 				EEBD73B224ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp */,
 				EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */,
 				EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */,
+				EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */,
+				EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */,
+				EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */,
 			);
 			name = Algorithms;
+			sourceTree = "<group>";
+		};
+		EEBD73BA24EEF41100FDB30B /* TechScreen */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TechScreen;
 			sourceTree = "<group>";
 		};
 		EEF8B0F223D80EB600723648 /* libraries */ = {
@@ -691,6 +708,7 @@
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
+				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
 				EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */,
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
@@ -713,6 +731,7 @@
 				8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */,
 				EE2989DA24E9D7FC00689908 /* a863AllNodesDistanceKInBinaryTree.cpp in Sources */,
 				EEBD738124EAED3E00FDB30B /* a938RangeSumOfBST.cpp in Sources */,
+				EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */,
 				530647EA1BFC2B8A00EDDAE6 /* RemoveNthNodeFromEndOfList.cpp in Sources */,
 				EEBD739F24EC3D3E00FDB30B /* a727MinimumWindowSubsequence.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
@@ -725,6 +744,7 @@
 				EE94741323E380D80095C5CA /* a1055ShortestWaytoFormString.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */,
+				EEF87B9424F03ABB00475D72 /* a844BackspaceStringCompare.cpp in Sources */,
 				EEBD73A324EC4F3B00FDB30B /* a974SubarraySumsDivisibleByK.cpp in Sources */,
 				EE2989CA24E8808200689908 /* a472ConcatenatedWords.cpp in Sources */,
 				EE2989D624E9C45600689908 /* a1041RobotBoundedInCircle.cpp in Sources */,
