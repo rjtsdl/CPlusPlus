@@ -184,6 +184,8 @@
 		EEF87B9424F03ABB00475D72 /* a844BackspaceStringCompare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */; };
 		EEF87B9624F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */; };
 		EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */; };
+		EEF87B9A24F1A32100475D72 /* a969PancakeSorting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9924F1A32100475D72 /* a969PancakeSorting.cpp */; };
+		EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */; };
 		EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */; };
 		EEF8B0F523D80ED800723648 /* bit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F323D80ED800723648 /* bit.cpp */; };
 /* End PBXBuildFile section */
@@ -379,6 +381,8 @@
 		EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a844BackspaceStringCompare.cpp; sourceTree = "<group>"; };
 		EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1344AngleBetweenHandsOfAClock.cpp; sourceTree = "<group>"; };
 		EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a909SnakesAndLadders.cpp; sourceTree = "<group>"; };
+		EEF87B9924F1A32100475D72 /* a969PancakeSorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a969PancakeSorting.cpp; sourceTree = "<group>"; };
+		EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a593ValidSquare.cpp; sourceTree = "<group>"; };
 		EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a493ReversePairs.cpp; sourceTree = "<group>"; };
 		EEF8B0F323D80ED800723648 /* bit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bit.cpp; sourceTree = "<group>"; };
 		EEF8B0F423D80ED800723648 /* bit.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = bit.hpp; sourceTree = "<group>"; };
@@ -602,6 +606,8 @@
 				EEF87B9324F03ABB00475D72 /* a844BackspaceStringCompare.cpp */,
 				EEF87B9524F0692F00475D72 /* a1344AngleBetweenHandsOfAClock.cpp */,
 				EEF87B9724F06B9C00475D72 /* a909SnakesAndLadders.cpp */,
+				EEF87B9924F1A32100475D72 /* a969PancakeSorting.cpp */,
+				EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -713,6 +719,7 @@
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
+				EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */,
 				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
@@ -768,6 +775,7 @@
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */,
 				EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */,
+				EEF87B9A24F1A32100475D72 /* a969PancakeSorting.cpp in Sources */,
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,

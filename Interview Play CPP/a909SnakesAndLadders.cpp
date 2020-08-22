@@ -57,6 +57,7 @@ public:
     }
 };
 
+/*
 int main() {
     vector<vector<int>> testCases = {
         {-1,-1,-1,-1,-1,-1},
@@ -69,3 +70,4 @@ int main() {
     sol->snakesAndLadders(testCases);
     return 0;
 }
+*/
