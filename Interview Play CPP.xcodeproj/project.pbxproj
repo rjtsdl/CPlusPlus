@@ -188,6 +188,8 @@
 		EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */; };
 		EEF87B9E24F1EA1D00475D72 /* a430FlattenAMultilevelDoublyLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9D24F1EA1D00475D72 /* a430FlattenAMultilevelDoublyLinkedList.cpp */; };
 		EEF87BA024F1F12000475D72 /* a809ExpressiveWords.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9F24F1F12000475D72 /* a809ExpressiveWords.cpp */; };
+		EEF87BA224F4325700475D72 /* a1236WebCrawler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87BA124F4325700475D72 /* a1236WebCrawler.cpp */; };
+		EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87BA324F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp */; };
 		EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */; };
 		EEF8B0F523D80ED800723648 /* bit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF8B0F323D80ED800723648 /* bit.cpp */; };
 /* End PBXBuildFile section */
@@ -387,6 +389,8 @@
 		EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a593ValidSquare.cpp; sourceTree = "<group>"; };
 		EEF87B9D24F1EA1D00475D72 /* a430FlattenAMultilevelDoublyLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a430FlattenAMultilevelDoublyLinkedList.cpp; sourceTree = "<group>"; };
 		EEF87B9F24F1F12000475D72 /* a809ExpressiveWords.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a809ExpressiveWords.cpp; sourceTree = "<group>"; };
+		EEF87BA124F4325700475D72 /* a1236WebCrawler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1236WebCrawler.cpp; sourceTree = "<group>"; };
+		EEF87BA324F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1326MinimumNumberOfTapsToOpenAGarden.cpp; sourceTree = "<group>"; };
 		EEF8B0F023D7822C00723648 /* a493ReversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a493ReversePairs.cpp; sourceTree = "<group>"; };
 		EEF8B0F323D80ED800723648 /* bit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bit.cpp; sourceTree = "<group>"; };
 		EEF8B0F423D80ED800723648 /* bit.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = bit.hpp; sourceTree = "<group>"; };
@@ -614,6 +618,8 @@
 				EEF87B9B24F1B9DF00475D72 /* a593ValidSquare.cpp */,
 				EEF87B9D24F1EA1D00475D72 /* a430FlattenAMultilevelDoublyLinkedList.cpp */,
 				EEF87B9F24F1F12000475D72 /* a809ExpressiveWords.cpp */,
+				EEF87BA124F4325700475D72 /* a1236WebCrawler.cpp */,
+				EEF87BA324F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -736,6 +742,7 @@
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
+				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */,
 				EE94740F23E379C50095C5CA /* a792NumberofMatchingSubsequences.cpp in Sources */,
 				EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */,
@@ -858,6 +865,7 @@
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				EEBD739924EBAE6700FDB30B /* a1162AsFarFromLandAsPossible.cpp in Sources */,
 				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
+				EEF87BA224F4325700475D72 /* a1236WebCrawler.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
 				EEBD739124EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp in Sources */,
 				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
