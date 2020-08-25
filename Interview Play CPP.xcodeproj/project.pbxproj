@@ -186,6 +186,8 @@
 		EEDCE8B724F5BA66008F92E4 /* a815BusRoutes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */; };
 		EEDCE8B924F5C4EB008F92E4 /* a489RobotRoomCleaner.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B824F5C4EB008F92E4 /* a489RobotRoomCleaner.cpp */; };
 		EEDCE8BB24F5CC44008F92E4 /* a901OnlineStockSpan.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */; };
+		EEDCE8BD24F5CF66008F92E4 /* a836RectangleOverlap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */; };
+		EEDCE8BF24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
@@ -395,6 +397,8 @@
 		EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a815BusRoutes.cpp; sourceTree = "<group>"; };
 		EEDCE8B824F5C4EB008F92E4 /* a489RobotRoomCleaner.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a489RobotRoomCleaner.cpp; sourceTree = "<group>"; };
 		EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a901OnlineStockSpan.cpp; sourceTree = "<group>"; };
+		EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a836RectangleOverlap.cpp; sourceTree = "<group>"; };
+		EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a862ShortestSubarrayWithSumAtLeastK.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
@@ -644,6 +648,8 @@
 				EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */,
 				EEDCE8B824F5C4EB008F92E4 /* a489RobotRoomCleaner.cpp */,
 				EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */,
+				EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */,
+				EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -794,6 +800,7 @@
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
 				EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */,
 				EEBD739B24EC2DB200FDB30B /* a155MinStack.cpp in Sources */,
+				EEDCE8BD24F5CF66008F92E4 /* a836RectangleOverlap.cpp in Sources */,
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */,
@@ -828,6 +835,7 @@
 				53C624841C01A9750080C09E /* ImplStrStr.cpp in Sources */,
 				53EF9B0E1BFD1A98009E693A /* MergeTwoSortedList.cpp in Sources */,
 				EEBD73B724EDE5D400FDB30B /* a741CherryPickup.cpp in Sources */,
+				EEDCE8BF24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp in Sources */,
 				8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */,
 				5347056F1BD44D6F002838B9 /* AddTwoNumbers.cpp in Sources */,
 				EEDCE8B924F5C4EB008F92E4 /* a489RobotRoomCleaner.cpp in Sources */,
