@@ -181,6 +181,9 @@
 		EEDCE8AD24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */; };
 		EEDCE8AF24F4D57A008F92E4 /* a402RemoveKDigits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */; };
 		EEDCE8B124F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */; };
+		EEDCE8B324F5B58E008F92E4 /* a785IsGraphBipartite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B224F5B58E008F92E4 /* a785IsGraphBipartite.cpp */; };
+		EEDCE8B524F5B908008F92E4 /* a722RemoveComments.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B424F5B908008F92E4 /* a722RemoveComments.cpp */; };
+		EEDCE8B724F5BA66008F92E4 /* a815BusRoutes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
@@ -385,6 +388,9 @@
 		EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1209RemoveAllAdjacentDupInStringII.cpp; sourceTree = "<group>"; };
 		EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a402RemoveKDigits.cpp; sourceTree = "<group>"; };
 		EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a907SumOfSubarrayMin.cpp; sourceTree = "<group>"; };
+		EEDCE8B224F5B58E008F92E4 /* a785IsGraphBipartite.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a785IsGraphBipartite.cpp; sourceTree = "<group>"; };
+		EEDCE8B424F5B908008F92E4 /* a722RemoveComments.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a722RemoveComments.cpp; sourceTree = "<group>"; };
+		EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a815BusRoutes.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
@@ -629,6 +635,9 @@
 				EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */,
 				EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */,
 				EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */,
+				EEDCE8B224F5B58E008F92E4 /* a785IsGraphBipartite.cpp */,
+				EEDCE8B424F5B908008F92E4 /* a722RemoveComments.cpp */,
+				EEDCE8B624F5BA66008F92E4 /* a815BusRoutes.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -709,6 +718,7 @@
 				EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */,
 				EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */,
 				EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */,
+				EEDCE8B324F5B58E008F92E4 /* a785IsGraphBipartite.cpp in Sources */,
 				EEBD73A924EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp in Sources */,
 				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
 				EE94740923E249F80095C5CA /* a213HouseRobberII.cpp in Sources */,
@@ -740,6 +750,7 @@
 				EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */,
 				EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
+				EEDCE8B524F5B908008F92E4 /* a722RemoveComments.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */,
@@ -856,6 +867,7 @@
 				EE2989D224E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
+				EEDCE8B724F5BA66008F92E4 /* a815BusRoutes.cpp in Sources */,
 				EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
