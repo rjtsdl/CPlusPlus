@@ -178,6 +178,9 @@
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
+		EEDCE8AD24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */; };
+		EEDCE8AF24F4D57A008F92E4 /* a402RemoveKDigits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */; };
+		EEDCE8B124F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
@@ -379,6 +382,9 @@
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
+		EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1209RemoveAllAdjacentDupInStringII.cpp; sourceTree = "<group>"; };
+		EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a402RemoveKDigits.cpp; sourceTree = "<group>"; };
+		EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a907SumOfSubarrayMin.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
@@ -620,6 +626,9 @@
 				EEF87B9F24F1F12000475D72 /* a809ExpressiveWords.cpp */,
 				EEF87BA124F4325700475D72 /* a1236WebCrawler.cpp */,
 				EEF87BA324F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp */,
+				EEDCE8AC24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp */,
+				EEDCE8AE24F4D57A008F92E4 /* a402RemoveKDigits.cpp */,
+				EEDCE8B024F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -794,6 +803,7 @@
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
+				EEDCE8B124F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp in Sources */,
 				EE2989BA24E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp in Sources */,
 				EE2989CE24E8EAE500689908 /* a843GuessTheWorld.cpp in Sources */,
 				EE2989CC24E88B7A00689908 /* a767ReorgString.cpp in Sources */,
@@ -851,7 +861,9 @@
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
+				EEDCE8AF24F4D57A008F92E4 /* a402RemoveKDigits.cpp in Sources */,
 				EE2989C424E8757A00689908 /* a819MostCommonWord.cpp in Sources */,
+				EEDCE8AD24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
