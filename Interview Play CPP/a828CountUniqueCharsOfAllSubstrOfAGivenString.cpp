@@ -47,7 +47,7 @@ public:
     }
      */
 };
-
+/*
 int main() {
     string S = "ABA";
     Solution* sol = new Solution();
@@ -55,3 +55,4 @@ int main() {
     cout << "count: " << count << endl;
     return 0;
 }
+*/
