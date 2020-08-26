@@ -40,25 +40,5 @@ public:
         }
 
         return true;
-        
-        
     }
-    
-    bool dfs(vector<vector<int>>& graph, int p, int cur, vector<int>& visited) {
-        if (visited[cur] != 0) {
-            if (p == -1) {
-                
-            }
-            
-        }
-        if (p == -1 || visited[p] == 1) visited[cur] = 2;
-        else {
-            visited[cur] = 1;
-        }
-        for (int n: graph[cur]) {
-            if
-        }
-    }
-    
-    
 };
