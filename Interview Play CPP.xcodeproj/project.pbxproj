@@ -188,6 +188,11 @@
 		EEDCE8BB24F5CC44008F92E4 /* a901OnlineStockSpan.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */; };
 		EEDCE8BD24F5CF66008F92E4 /* a836RectangleOverlap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */; };
 		EEDCE8BF24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */; };
+		EEDCE8C124F62284008F92E4 /* a1060MissingElementInSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8C024F62284008F92E4 /* a1060MissingElementInSortedArray.cpp */; };
+		EEDCE8C324F62811008F92E4 /* a1244DesignALeaderboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8C224F62811008F92E4 /* a1244DesignALeaderboard.cpp */; };
+		EEDCE8C524F62940008F92E4 /* a703KthLargestElementInAStream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8C424F62940008F92E4 /* a703KthLargestElementInAStream.cpp */; };
+		EEDCE8C724F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8C624F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp */; };
+		EEDCE8C924F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8C824F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
@@ -399,6 +404,11 @@
 		EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a901OnlineStockSpan.cpp; sourceTree = "<group>"; };
 		EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a836RectangleOverlap.cpp; sourceTree = "<group>"; };
 		EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a862ShortestSubarrayWithSumAtLeastK.cpp; sourceTree = "<group>"; };
+		EEDCE8C024F62284008F92E4 /* a1060MissingElementInSortedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1060MissingElementInSortedArray.cpp; sourceTree = "<group>"; };
+		EEDCE8C224F62811008F92E4 /* a1244DesignALeaderboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1244DesignALeaderboard.cpp; sourceTree = "<group>"; };
+		EEDCE8C424F62940008F92E4 /* a703KthLargestElementInAStream.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a703KthLargestElementInAStream.cpp; sourceTree = "<group>"; };
+		EEDCE8C624F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a876MiddleOfTheLinkedList.cpp; sourceTree = "<group>"; };
+		EEDCE8C824F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a426ConvertBSTToSortedDoublyLinkedList.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
@@ -650,6 +660,11 @@
 				EEDCE8BA24F5CC44008F92E4 /* a901OnlineStockSpan.cpp */,
 				EEDCE8BC24F5CF66008F92E4 /* a836RectangleOverlap.cpp */,
 				EEDCE8BE24F5D02E008F92E4 /* a862ShortestSubarrayWithSumAtLeastK.cpp */,
+				EEDCE8C024F62284008F92E4 /* a1060MissingElementInSortedArray.cpp */,
+				EEDCE8C224F62811008F92E4 /* a1244DesignALeaderboard.cpp */,
+				EEDCE8C424F62940008F92E4 /* a703KthLargestElementInAStream.cpp */,
+				EEDCE8C624F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp */,
+				EEDCE8C824F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -767,6 +782,7 @@
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */,
+				EEDCE8C924F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */,
 				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
@@ -820,9 +836,11 @@
 				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
 				EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
+				EEDCE8C524F62940008F92E4 /* a703KthLargestElementInAStream.cpp in Sources */,
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */,
+				EEDCE8C124F62284008F92E4 /* a1060MissingElementInSortedArray.cpp in Sources */,
 				EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */,
 				EEF87B9A24F1A32100475D72 /* a969PancakeSorting.cpp in Sources */,
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
@@ -864,6 +882,7 @@
 				5347056D1BD448A8002838B9 /* TwoSum.cpp in Sources */,
 				EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
+				EEDCE8C324F62811008F92E4 /* a1244DesignALeaderboard.cpp in Sources */,
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
 				EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */,
 				EE7D5BA723DBBF490057DA4E /* a732MyCalendarIII.cpp in Sources */,
@@ -890,6 +909,7 @@
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				EEDCE8AF24F4D57A008F92E4 /* a402RemoveKDigits.cpp in Sources */,
+				EEDCE8C724F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp in Sources */,
 				EE2989C424E8757A00689908 /* a819MostCommonWord.cpp in Sources */,
 				EEDCE8AD24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
