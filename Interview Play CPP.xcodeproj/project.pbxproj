@@ -175,6 +175,9 @@
 		EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */; };
 		EEBD73B724EDE5D400FDB30B /* a741CherryPickup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */; };
 		EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */; };
+		EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */; };
+		EEC2989F24F8577A0047CBFA /* a622DesignCircularQueue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */; };
+		EEC298A124F873720047CBFA /* a359LoggerRateLimiter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -408,6 +411,9 @@
 		EEBD73B424EDDF6300FDB30B /* a946ValidateStackSequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a946ValidateStackSequence.cpp; sourceTree = "<group>"; };
 		EEBD73B624EDE5D400FDB30B /* a741CherryPickup.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a741CherryPickup.cpp; sourceTree = "<group>"; };
 		EEBD73B824EEECD300FDB30B /* a934ShortestBridge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a934ShortestBridge.cpp; sourceTree = "<group>"; };
+		EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a749ContainVirus.cpp; sourceTree = "<group>"; };
+		EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a622DesignCircularQueue.cpp; sourceTree = "<group>"; };
+		EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a359LoggerRateLimiter.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -716,6 +722,9 @@
 				EEDCE8E624F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp */,
 				EEDCE8E824F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp */,
 				EEDCE8EA24F78564008F92E4 /* a1473PaintHouseIII.cpp */,
+				EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */,
+				EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */,
+				EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -827,6 +836,7 @@
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
 				EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */,
+				EEC298A124F873720047CBFA /* a359LoggerRateLimiter.cpp in Sources */,
 				EEDCE8BB24F5CC44008F92E4 /* a901OnlineStockSpan.cpp in Sources */,
 				EE453B2724E3155900887BA7 /* a1192CriticalConnectionsInANetwork.cpp in Sources */,
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
@@ -852,6 +862,7 @@
 				EE63CB8A23D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp in Sources */,
 				EE53162124E1F4030061EED3 /* a1424DiagonalTraverseII.cpp in Sources */,
 				53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */,
+				EEC2989F24F8577A0047CBFA /* a622DesignCircularQueue.cpp in Sources */,
 				53EB5D6F1BFEFE3E002E773E /* ReverseNodesInKGroup.cpp in Sources */,
 				EEBD73A124EC454700FDB30B /* a1438LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualToLimit.cpp in Sources */,
 				EEBD739324EB8F7700FDB30B /* a957PrisonCellsAfterNDays.cpp in Sources */,
@@ -1006,6 +1017,7 @@
 				8DE3DC041CE58740000F41AD /* RemoveDuplicatesfromSortedListII.cpp in Sources */,
 				EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */,
 				EEDCE8DD24F725E0008F92E4 /* a1029TwoCityScheduling.cpp in Sources */,
+				EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
 				EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */,
