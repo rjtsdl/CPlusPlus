@@ -204,6 +204,12 @@
 		EEDCE8DB24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8DA24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp */; };
 		EEDCE8DD24F725E0008F92E4 /* a1029TwoCityScheduling.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8DC24F725E0008F92E4 /* a1029TwoCityScheduling.cpp */; };
 		EEDCE8DF24F72880008F92E4 /* a1375BulbSwitcherIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8DE24F72880008F92E4 /* a1375BulbSwitcherIII.cpp */; };
+		EEDCE8E124F77260008F92E4 /* a1143LongestCommonSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8E024F77260008F92E4 /* a1143LongestCommonSubsequence.cpp */; };
+		EEDCE8E324F7747F008F92E4 /* a591TagValidator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8E224F7747F008F92E4 /* a591TagValidator.cpp */; };
+		EEDCE8E524F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8E424F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp */; };
+		EEDCE8E724F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8E624F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp */; };
+		EEDCE8E924F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8E824F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp */; };
+		EEDCE8EB24F78564008F92E4 /* a1473PaintHouseIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEDCE8EA24F78564008F92E4 /* a1473PaintHouseIII.cpp */; };
 		EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */; };
 		EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */; };
 		EEF87B9224F0326A00475D72 /* a353DesignSnakeGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */; };
@@ -431,6 +437,12 @@
 		EEDCE8DA24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1011CapacityToShipPackagesWithinDDays.cpp; sourceTree = "<group>"; };
 		EEDCE8DC24F725E0008F92E4 /* a1029TwoCityScheduling.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1029TwoCityScheduling.cpp; sourceTree = "<group>"; };
 		EEDCE8DE24F72880008F92E4 /* a1375BulbSwitcherIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1375BulbSwitcherIII.cpp; sourceTree = "<group>"; };
+		EEDCE8E024F77260008F92E4 /* a1143LongestCommonSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1143LongestCommonSubsequence.cpp; sourceTree = "<group>"; };
+		EEDCE8E224F7747F008F92E4 /* a591TagValidator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a591TagValidator.cpp; sourceTree = "<group>"; };
+		EEDCE8E424F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1153StringTransformIntoAnotherString.cpp; sourceTree = "<group>"; };
+		EEDCE8E624F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1110DeleteNodesAndReturnForest.cpp; sourceTree = "<group>"; };
+		EEDCE8E824F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1240TilingARectangleWithTheFewestSquares.cpp; sourceTree = "<group>"; };
+		EEDCE8EA24F78564008F92E4 /* a1473PaintHouseIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1473PaintHouseIII.cpp; sourceTree = "<group>"; };
 		EEEE491723D67B6800A401BF /* a973KClosestPointstoOrigin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a973KClosestPointstoOrigin.cpp; sourceTree = "<group>"; };
 		EEEE491923D6800B00A401BF /* a347TopKFrequentElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a347TopKFrequentElements.cpp; sourceTree = "<group>"; };
 		EEF87B9124F0326A00475D72 /* a353DesignSnakeGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a353DesignSnakeGame.cpp; sourceTree = "<group>"; };
@@ -698,6 +710,12 @@
 				EEDCE8DA24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp */,
 				EEDCE8DC24F725E0008F92E4 /* a1029TwoCityScheduling.cpp */,
 				EEDCE8DE24F72880008F92E4 /* a1375BulbSwitcherIII.cpp */,
+				EEDCE8E024F77260008F92E4 /* a1143LongestCommonSubsequence.cpp */,
+				EEDCE8E224F7747F008F92E4 /* a591TagValidator.cpp */,
+				EEDCE8E424F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp */,
+				EEDCE8E624F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp */,
+				EEDCE8E824F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp */,
+				EEDCE8EA24F78564008F92E4 /* a1473PaintHouseIII.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -827,6 +845,7 @@
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
+				EEDCE8E524F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp in Sources */,
 				EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */,
 				EE94740F23E379C50095C5CA /* a792NumberofMatchingSubsequences.cpp in Sources */,
 				EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */,
@@ -858,6 +877,7 @@
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				EEDCE8D724F7138C008F92E4 /* a1008ConstructBSTFromPreorderTraversal.cpp in Sources */,
 				EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */,
+				EEDCE8EB24F78564008F92E4 /* a1473PaintHouseIII.cpp in Sources */,
 				EE94741323E380D80095C5CA /* a1055ShortestWaytoFormString.cpp in Sources */,
 				53230CA71C09003C00C2FBFD /* NextPermutation.cpp in Sources */,
 				EEEE491A23D6800B00A401BF /* a347TopKFrequentElements.cpp in Sources */,
@@ -877,6 +897,7 @@
 				EEDCE8C524F62940008F92E4 /* a703KthLargestElementInAStream.cpp in Sources */,
 				EEDCE8DB24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp in Sources */,
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
+				EEDCE8E324F7747F008F92E4 /* a591TagValidator.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */,
 				EEDCE8C124F62284008F92E4 /* a1060MissingElementInSortedArray.cpp in Sources */,
@@ -953,6 +974,7 @@
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				EEDCE8AF24F4D57A008F92E4 /* a402RemoveKDigits.cpp in Sources */,
 				EEDCE8C724F629F8008F92E4 /* a876MiddleOfTheLinkedList.cpp in Sources */,
+				EEDCE8E724F77BE9008F92E4 /* a1110DeleteNodesAndReturnForest.cpp in Sources */,
 				EE2989C424E8757A00689908 /* a819MostCommonWord.cpp in Sources */,
 				EEDCE8AD24F4D37C008F92E4 /* a1209RemoveAllAdjacentDupInStringII.cpp in Sources */,
 				53FD3CE61BE6C519008B7BAD /* ReverseInteger.cpp in Sources */,
@@ -963,6 +985,7 @@
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */,
+				EEDCE8E124F77260008F92E4 /* a1143LongestCommonSubsequence.cpp in Sources */,
 				EE94740723E248070095C5CA /* a198HouseRobber.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
@@ -973,6 +996,7 @@
 				EEBD739124EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp in Sources */,
 				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
+				EEDCE8E924F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp in Sources */,
 				EEBD73A524EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
 				EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */,
