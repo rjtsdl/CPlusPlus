@@ -178,6 +178,7 @@
 		EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */; };
 		EEC2989F24F8577A0047CBFA /* a622DesignCircularQueue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */; };
 		EEC298A124F873720047CBFA /* a359LoggerRateLimiter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */; };
+		EEC298A324F8818B0047CBFA /* a979DistributeCoinsInBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298A224F8818B0047CBFA /* a979DistributeCoinsInBinaryTree.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -414,6 +415,7 @@
 		EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a749ContainVirus.cpp; sourceTree = "<group>"; };
 		EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a622DesignCircularQueue.cpp; sourceTree = "<group>"; };
 		EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a359LoggerRateLimiter.cpp; sourceTree = "<group>"; };
+		EEC298A224F8818B0047CBFA /* a979DistributeCoinsInBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a979DistributeCoinsInBinaryTree.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -725,6 +727,7 @@
 				EEC2989C24F849E30047CBFA /* a749ContainVirus.cpp */,
 				EEC2989E24F8577A0047CBFA /* a622DesignCircularQueue.cpp */,
 				EEC298A024F873720047CBFA /* a359LoggerRateLimiter.cpp */,
+				EEC298A224F8818B0047CBFA /* a979DistributeCoinsInBinaryTree.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -822,6 +825,7 @@
 				EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
 				EEBD738924EB191500FDB30B /* a480SlidingWindowMedian.cpp in Sources */,
+				EEC298A324F8818B0047CBFA /* a979DistributeCoinsInBinaryTree.cpp in Sources */,
 				EEBD738724EB00F000FDB30B /* a545BoundaryOfBinaryTree.cpp in Sources */,
 				EE0DBAE723BFFC7100FB431A /* a457circulararrayloop.cpp in Sources */,
 				53F1ABD41C095D5500DE7C87 /* SearchInsertPos.cpp in Sources */,
