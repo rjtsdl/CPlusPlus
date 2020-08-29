@@ -190,6 +190,10 @@
 		EEC298B524FA10C60047CBFA /* a887SuperEggDrop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298B424FA10C60047CBFA /* a887SuperEggDrop.cpp */; };
 		EEC298B724FA156B0047CBFA /* a834SumOfDistancesInTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298B624FA156B0047CBFA /* a834SumOfDistancesInTree.cpp */; };
 		EEC298B924FA1A590047CBFA /* a846HandOfStraights.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298B824FA1A590047CBFA /* a846HandOfStraights.cpp */; };
+		EEC298BB24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298BA24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp */; };
+		EEC298BD24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298BC24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp */; };
+		EEC298BF24FAE6F30047CBFA /* a980UniquePathsIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298BE24FAE6F30047CBFA /* a980UniquePathsIII.cpp */; };
+		EEC298C124FAE89D0047CBFA /* a726NumberOfAtoms.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC298C024FAE89D0047CBFA /* a726NumberOfAtoms.cpp */; };
 		EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */; };
 		EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */; };
 		EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */; };
@@ -438,6 +442,10 @@
 		EEC298B424FA10C60047CBFA /* a887SuperEggDrop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a887SuperEggDrop.cpp; sourceTree = "<group>"; };
 		EEC298B624FA156B0047CBFA /* a834SumOfDistancesInTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a834SumOfDistancesInTree.cpp; sourceTree = "<group>"; };
 		EEC298B824FA1A590047CBFA /* a846HandOfStraights.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a846HandOfStraights.cpp; sourceTree = "<group>"; };
+		EEC298BA24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a688KnightProbablityInChessboard.cpp; sourceTree = "<group>"; };
+		EEC298BC24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1091ShortestPathInBinaryMatrix.cpp; sourceTree = "<group>"; };
+		EEC298BE24FAE6F30047CBFA /* a980UniquePathsIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a980UniquePathsIII.cpp; sourceTree = "<group>"; };
+		EEC298C024FAE89D0047CBFA /* a726NumberOfAtoms.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a726NumberOfAtoms.cpp; sourceTree = "<group>"; };
 		EED654BE23CD0D9100760861 /* a28ImplementstrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a28ImplementstrStr.cpp; sourceTree = "<group>"; };
 		EED654C023CD103200760861 /* a271EncodeandDecodeStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a271EncodeandDecodeStrings.cpp; sourceTree = "<group>"; };
 		EED654C223CD154D00760861 /* a1316DistinctEchoSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1316DistinctEchoSubstrings.cpp; sourceTree = "<group>"; };
@@ -761,6 +769,10 @@
 				EEC298B424FA10C60047CBFA /* a887SuperEggDrop.cpp */,
 				EEC298B624FA156B0047CBFA /* a834SumOfDistancesInTree.cpp */,
 				EEC298B824FA1A590047CBFA /* a846HandOfStraights.cpp */,
+				EEC298BA24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp */,
+				EEC298BC24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp */,
+				EEC298BE24FAE6F30047CBFA /* a980UniquePathsIII.cpp */,
+				EEC298C024FAE89D0047CBFA /* a726NumberOfAtoms.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1009,6 +1021,7 @@
 				EEDCE8CB24F6C42B008F92E4 /* a1328BreakAPalindrome.cpp in Sources */,
 				EE94740523E246460095C5CA /* a276PaintFence.cpp in Sources */,
 				EEDCE8D524F6FF4B008F92E4 /* a828CountUniqueCharsOfAllSubstrOfAGivenString.cpp in Sources */,
+				EEC298BF24FAE6F30047CBFA /* a980UniquePathsIII.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
 				EEBD739724EBA37500FDB30B /* a1036EscapeALargeMaze.cpp in Sources */,
@@ -1026,6 +1039,7 @@
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
 				EEDCE8B724F5BA66008F92E4 /* a815BusRoutes.cpp in Sources */,
 				EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */,
+				EEC298BD24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
@@ -1042,7 +1056,9 @@
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
+				EEC298BB24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp in Sources */,
 				EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */,
+				EEC298C124FAE89D0047CBFA /* a726NumberOfAtoms.cpp in Sources */,
 				EEDCE8E124F77260008F92E4 /* a1143LongestCommonSubsequence.cpp in Sources */,
 				EE94740723E248070095C5CA /* a198HouseRobber.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
