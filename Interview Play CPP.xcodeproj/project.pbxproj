@@ -140,6 +140,8 @@
 		EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */; };
 		EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */; };
 		EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */; };
+		EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */; };
+		EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */; };
 		EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */; };
 		EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */; };
 		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
@@ -398,6 +400,8 @@
 		EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a795NumberofSubarrayswithBoundedMaximum.cpp; sourceTree = "<group>"; };
 		EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a825FriendsOfAppropriateAges.cpp; sourceTree = "<group>"; };
 		EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a689MaximumSumof3NonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
+		EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a932BeautifulArray.cpp; sourceTree = "<group>"; };
+		EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a592FractionAdditionAndSubtraction.cpp; sourceTree = "<group>"; };
 		EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a465OptimalAccountBalance.cpp; sourceTree = "<group>"; };
 		EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1229MeetingScheduler.cpp; sourceTree = "<group>"; };
 		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
@@ -791,6 +795,8 @@
 				EEC298C824FB69BD0047CBFA /* a1146SnapshotArray.cpp */,
 				EEC298CA24FB6F4A0047CBFA /* a1480RunningSumOf1DayArray.cpp */,
 				EEC298CC24FB70100047CBFA /* a1293ShortestPathInAGridWithObstaclesElimination.cpp */,
+				EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */,
+				EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -903,6 +909,7 @@
 				EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */,
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
+				EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
 				EEC298C324FB5A410047CBFA /* a945MinimumIncrementtoMakeArrayUnique.cpp in Sources */,
 				EEBD737D24EA54E600FDB30B /* a1283FindTheSmallestDivisorGivenAThreshold.cpp in Sources */,
@@ -1079,6 +1086,7 @@
 				EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */,
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
+				EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				EEC298BB24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp in Sources */,
 				EE94740123E20E760095C5CA /* a265PaintHouseII.cpp in Sources */,
