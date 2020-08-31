@@ -146,6 +146,7 @@
 		EEBA0DAD24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DAC24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp */; };
 		EEBA0DAF24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */; };
 		EEBA0DB124FCC55F002A8CCB /* a427ConstructQuadTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */; };
+		EEBA0DB324FD6AAB002A8CCB /* a837New21Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */; };
 		EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */; };
 		EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */; };
 		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
@@ -410,6 +411,7 @@
 		EEBA0DAC24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp; sourceTree = "<group>"; };
 		EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1167MinimumCosttoConnectSticks.cpp; sourceTree = "<group>"; };
 		EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a427ConstructQuadTree.cpp; sourceTree = "<group>"; };
+		EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a837New21Game.cpp; sourceTree = "<group>"; };
 		EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a465OptimalAccountBalance.cpp; sourceTree = "<group>"; };
 		EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1229MeetingScheduler.cpp; sourceTree = "<group>"; };
 		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
@@ -809,6 +811,7 @@
 				EEBA0DAC24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp */,
 				EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */,
 				EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */,
+				EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -889,6 +892,7 @@
 				EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */,
 				EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */,
 				EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */,
+				EEBA0DB324FD6AAB002A8CCB /* a837New21Game.cpp in Sources */,
 				EEDCE8B324F5B58E008F92E4 /* a785IsGraphBipartite.cpp in Sources */,
 				EEBD73A924EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp in Sources */,
 				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
