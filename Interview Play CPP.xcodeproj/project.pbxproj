@@ -147,6 +147,8 @@
 		EEBA0DAF24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */; };
 		EEBA0DB124FCC55F002A8CCB /* a427ConstructQuadTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */; };
 		EEBA0DB324FD6AAB002A8CCB /* a837New21Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */; };
+		EEBA0DB524FDBCD1002A8CCB /* a1423MaximumPointsYouCanObtainFromCards.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB424FDBCD1002A8CCB /* a1423MaximumPointsYouCanObtainFromCards.cpp */; };
+		EEBA0DB724FDC1C7002A8CCB /* a1026MaximumDiffBetweenNodeAndAcestor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DB624FDC1C7002A8CCB /* a1026MaximumDiffBetweenNodeAndAcestor.cpp */; };
 		EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */; };
 		EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */; };
 		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
@@ -412,6 +414,8 @@
 		EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1167MinimumCosttoConnectSticks.cpp; sourceTree = "<group>"; };
 		EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a427ConstructQuadTree.cpp; sourceTree = "<group>"; };
 		EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a837New21Game.cpp; sourceTree = "<group>"; };
+		EEBA0DB424FDBCD1002A8CCB /* a1423MaximumPointsYouCanObtainFromCards.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1423MaximumPointsYouCanObtainFromCards.cpp; sourceTree = "<group>"; };
+		EEBA0DB624FDC1C7002A8CCB /* a1026MaximumDiffBetweenNodeAndAcestor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1026MaximumDiffBetweenNodeAndAcestor.cpp; sourceTree = "<group>"; };
 		EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a465OptimalAccountBalance.cpp; sourceTree = "<group>"; };
 		EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1229MeetingScheduler.cpp; sourceTree = "<group>"; };
 		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
@@ -812,6 +816,8 @@
 				EEBA0DAE24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp */,
 				EEBA0DB024FCC55F002A8CCB /* a427ConstructQuadTree.cpp */,
 				EEBA0DB224FD6AAB002A8CCB /* a837New21Game.cpp */,
+				EEBA0DB424FDBCD1002A8CCB /* a1423MaximumPointsYouCanObtainFromCards.cpp */,
+				EEBA0DB624FDC1C7002A8CCB /* a1026MaximumDiffBetweenNodeAndAcestor.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1068,6 +1074,7 @@
 				EEDCE8CB24F6C42B008F92E4 /* a1328BreakAPalindrome.cpp in Sources */,
 				EE94740523E246460095C5CA /* a276PaintFence.cpp in Sources */,
 				EEDCE8D524F6FF4B008F92E4 /* a828CountUniqueCharsOfAllSubstrOfAGivenString.cpp in Sources */,
+				EEBA0DB524FDBCD1002A8CCB /* a1423MaximumPointsYouCanObtainFromCards.cpp in Sources */,
 				EEC298BF24FAE6F30047CBFA /* a980UniquePathsIII.cpp in Sources */,
 				8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */,
 				EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */,
@@ -1102,6 +1109,7 @@
 				EEC298C524FB633C0047CBFA /* a1004MaxConsecutiveOnesIII.cpp in Sources */,
 				EEC298CD24FB70110047CBFA /* a1293ShortestPathInAGridWithObstaclesElimination.cpp in Sources */,
 				53C1EBBD1BF9BAA100091453 /* FourSum.cpp in Sources */,
+				EEBA0DB724FDC1C7002A8CCB /* a1026MaximumDiffBetweenNodeAndAcestor.cpp in Sources */,
 				8DFD6D1A1CD85CC6009CD773 /* MaximumSubarray.cpp in Sources */,
 				EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */,
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
