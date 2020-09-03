@@ -160,6 +160,9 @@
 		EEBA0DC92500B348002A8CCB /* a1216ValidPalindromeIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DC82500B348002A8CCB /* a1216ValidPalindromeIII.cpp */; };
 		EEBA0DCB2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DCA2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp */; };
 		EEBA0DCD2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DCC2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp */; };
+		EEBA0DCF25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DCE25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp */; };
+		EEBA0DD125019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DD025019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp */; };
+		EEBA0DD325019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DD225019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp */; };
 		EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */; };
 		EEBD737724EA4B4700FDB30B /* a1229MeetingScheduler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */; };
 		EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */; };
@@ -438,6 +441,9 @@
 		EEBA0DC82500B348002A8CCB /* a1216ValidPalindromeIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1216ValidPalindromeIII.cpp; sourceTree = "<group>"; };
 		EEBA0DCA2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1458MaxDotProductofTwoSubsequences.cpp; sourceTree = "<group>"; };
 		EEBA0DCC2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a549BinaryTreeLongestConsecutiveSequenceII.cpp; sourceTree = "<group>"; };
+		EEBA0DCE25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a873LengthofLongestFibonacciSubsequence.cpp; sourceTree = "<group>"; };
+		EEBA0DD025019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a871MinimumNumberofRefuelingStops.cpp; sourceTree = "<group>"; };
+		EEBA0DD225019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1043PartitionArrayForMaximumSum.cpp; sourceTree = "<group>"; };
 		EEBD737424EA462E00FDB30B /* a465OptimalAccountBalance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a465OptimalAccountBalance.cpp; sourceTree = "<group>"; };
 		EEBD737624EA4B4700FDB30B /* a1229MeetingScheduler.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1229MeetingScheduler.cpp; sourceTree = "<group>"; };
 		EEBD737824EA4E7C00FDB30B /* a780ReachingPoints.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a780ReachingPoints.cpp; sourceTree = "<group>"; };
@@ -851,6 +857,9 @@
 				EEBA0DC82500B348002A8CCB /* a1216ValidPalindromeIII.cpp */,
 				EEBA0DCA2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp */,
 				EEBA0DCC2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp */,
+				EEBA0DCE25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp */,
+				EEBA0DD025019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp */,
+				EEBA0DD225019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1054,6 +1063,7 @@
 				EEDCE8DB24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp in Sources */,
 				EEBA0DAD24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp in Sources */,
 				EE7D5B9D23DBA10E0057DA4E /* a56MergeIntervals.cpp in Sources */,
+				EEBA0DD325019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp in Sources */,
 				EEDCE8E324F7747F008F92E4 /* a591TagValidator.cpp in Sources */,
 				EE8B6E7923C530F900D67591 /* a531LonelyPixelI.cpp in Sources */,
 				EE94740B23E338570095C5CA /* a775GlobalandLocalInversions.cpp in Sources */,
@@ -1099,6 +1109,7 @@
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EEC298B524FA10C60047CBFA /* a887SuperEggDrop.cpp in Sources */,
+				EEBA0DCF25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp in Sources */,
 				EE2989C824E87B9500689908 /* a994RottingOranges.cpp in Sources */,
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
 				EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */,
@@ -1138,6 +1149,7 @@
 				EEBA0DC52500AEDD002A8CCB /* a1062LongestRepeatingSubstring.cpp in Sources */,
 				EEC298BD24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150.cpp in Sources */,
+				EEBA0DD125019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
 				EEC298C924FB69BD0047CBFA /* a1146SnapshotArray.cpp in Sources */,
