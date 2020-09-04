@@ -140,6 +140,7 @@
 		EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */; };
 		EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */; };
 		EE956C9323CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */; };
+		EEAB69992502BDD400E9E59C /* a647PalindromicSubstrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69982502BDD400E9E59C /* a647PalindromicSubstrings.cpp */; };
 		EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */; };
 		EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */; };
 		EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */; };
@@ -421,6 +422,7 @@
 		EE94741423E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a795NumberofSubarrayswithBoundedMaximum.cpp; sourceTree = "<group>"; };
 		EE94741623E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a825FriendsOfAppropriateAges.cpp; sourceTree = "<group>"; };
 		EE956C9223CE716400FBAFFA /* a689MaximumSumof3NonOverlappingSubarrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a689MaximumSumof3NonOverlappingSubarrays.cpp; sourceTree = "<group>"; };
+		EEAB69982502BDD400E9E59C /* a647PalindromicSubstrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a647PalindromicSubstrings.cpp; sourceTree = "<group>"; };
 		EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a932BeautifulArray.cpp; sourceTree = "<group>"; };
 		EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a592FractionAdditionAndSubtraction.cpp; sourceTree = "<group>"; };
 		EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1027LongestArithmeticSubsequence.cpp; sourceTree = "<group>"; };
@@ -860,6 +862,7 @@
 				EEBA0DCE25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp */,
 				EEBA0DD025019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp */,
 				EEBA0DD225019C8E002A8CCB /* a1043PartitionArrayForMaximumSum.cpp */,
+				EEAB69982502BDD400E9E59C /* a647PalindromicSubstrings.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1195,6 +1198,7 @@
 				8DE3DC061CE58C86000F41AD /* RemoveDuplicatesfromSortedList.cpp in Sources */,
 				537347FF1C211BB4008EE20E /* CountAndSay.cpp in Sources */,
 				8DE3DC041CE58740000F41AD /* RemoveDuplicatesfromSortedListII.cpp in Sources */,
+				EEAB69992502BDD400E9E59C /* a647PalindromicSubstrings.cpp in Sources */,
 				EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */,
 				EEDCE8DD24F725E0008F92E4 /* a1029TwoCityScheduling.cpp in Sources */,
 				EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */,
