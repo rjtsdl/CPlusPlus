@@ -151,6 +151,10 @@
 		EEAB69A92505504D00E9E59C /* a1223DicePollSimulation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */; };
 		EEAB69AB25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */; };
 		EEAB69AD25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */; };
+		EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69AE25057B3E00E9E59C /* a514FreedomTrail.cpp */; };
+		EEAB69B125057D5D00E9E59C /* a1258SynonymousSentences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */; };
+		EEAB69B32505838100E9E59C /* a1314MatrixBlockSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */; };
+		EEAB69B52505841B00E9E59C /* a1025DivisorGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */; };
 		EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */; };
 		EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */; };
 		EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */; };
@@ -443,6 +447,10 @@
 		EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1223DicePollSimulation.cpp; sourceTree = "<group>"; };
 		EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a1411NumberofWaystoPaintN×3Grid.cpp"; sourceTree = "<group>"; };
 		EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a864ShortestPathtoGetAllKeys.cpp; sourceTree = "<group>"; };
+		EEAB69AE25057B3E00E9E59C /* a514FreedomTrail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a514FreedomTrail.cpp; sourceTree = "<group>"; };
+		EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1258SynonymousSentences.cpp; sourceTree = "<group>"; };
+		EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1314MatrixBlockSum.cpp; sourceTree = "<group>"; };
+		EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1025DivisorGame.cpp; sourceTree = "<group>"; };
 		EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a932BeautifulArray.cpp; sourceTree = "<group>"; };
 		EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a592FractionAdditionAndSubtraction.cpp; sourceTree = "<group>"; };
 		EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1027LongestArithmeticSubsequence.cpp; sourceTree = "<group>"; };
@@ -893,6 +901,10 @@
 				EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */,
 				EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */,
 				EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */,
+				EEAB69AE25057B3E00E9E59C /* a514FreedomTrail.cpp */,
+				EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */,
+				EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */,
+				EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1028,6 +1040,7 @@
 				EEDCE8C924F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				EEC298B724FA156B0047CBFA /* a834SumOfDistancesInTree.cpp in Sources */,
+				EEAB69B32505838100E9E59C /* a1314MatrixBlockSum.cpp in Sources */,
 				EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */,
 				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
@@ -1035,6 +1048,7 @@
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
+				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EEC298AB24F8D6A50047CBFA /* a1268SearchSuggestionsSystem.cpp in Sources */,
@@ -1067,6 +1081,7 @@
 				EE2989B224E6FF5700689908 /* a773SlidingPuzzle.cpp in Sources */,
 				EEDCE8D324F6E376008F92E4 /* a1358NumberOfSubstringsContainingAllThreeCharacters.cpp in Sources */,
 				EEBA0DBD24FEDDBC002A8CCB /* a1202SmallestStringWithSwaps.cpp in Sources */,
+				EEAB69B125057D5D00E9E59C /* a1258SynonymousSentences.cpp in Sources */,
 				EEBD739B24EC2DB200FDB30B /* a155MinStack.cpp in Sources */,
 				EEDCE8BD24F5CF66008F92E4 /* a836RectangleOverlap.cpp in Sources */,
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
@@ -1087,6 +1102,7 @@
 				EE2989D024E8EDFA00689908 /* a735AsteroidCollision.cpp in Sources */,
 				EEC298AD24F9993B0047CBFA /* a1405LongestHappyString.cpp in Sources */,
 				EE4DC6A623C108B900CA0414 /* a598RangeAdditionII.cpp in Sources */,
+				EEAB69B52505841B00E9E59C /* a1025DivisorGame.cpp in Sources */,
 				EEBA0DCD2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp in Sources */,
 				EEBA0DC32500ADEE002A8CCB /* a1035UncrossedLines.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
