@@ -149,6 +149,8 @@
 		EEAB69A52503EDE400E9E59C /* a1000MinimumCostToMergeStones.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69A42503EDE400E9E59C /* a1000MinimumCostToMergeStones.cpp */; };
 		EEAB69A725054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69A625054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp */; };
 		EEAB69A92505504D00E9E59C /* a1223DicePollSimulation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */; };
+		EEAB69AB25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */; };
+		EEAB69AD25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */; };
 		EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */; };
 		EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */; };
 		EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */; };
@@ -439,6 +441,8 @@
 		EEAB69A42503EDE400E9E59C /* a1000MinimumCostToMergeStones.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1000MinimumCostToMergeStones.cpp; sourceTree = "<group>"; };
 		EEAB69A625054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1383MaximumPerformanceofaTeam.cpp; sourceTree = "<group>"; };
 		EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1223DicePollSimulation.cpp; sourceTree = "<group>"; };
+		EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a1411NumberofWaystoPaintN×3Grid.cpp"; sourceTree = "<group>"; };
+		EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a864ShortestPathtoGetAllKeys.cpp; sourceTree = "<group>"; };
 		EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a932BeautifulArray.cpp; sourceTree = "<group>"; };
 		EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a592FractionAdditionAndSubtraction.cpp; sourceTree = "<group>"; };
 		EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1027LongestArithmeticSubsequence.cpp; sourceTree = "<group>"; };
@@ -887,6 +891,8 @@
 				EEAB69A42503EDE400E9E59C /* a1000MinimumCostToMergeStones.cpp */,
 				EEAB69A625054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp */,
 				EEAB69A82505504D00E9E59C /* a1223DicePollSimulation.cpp */,
+				EEAB69AA25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp */,
+				EEAB69AC25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1014,6 +1020,7 @@
 				53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */,
 				EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */,
 				EEDCE8B524F5B908008F92E4 /* a722RemoveComments.cpp in Sources */,
+				EEAB69AD25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EEC298A724F8D0D80047CBFA /* a616AddBoldTagInString.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
@@ -1134,6 +1141,7 @@
 				EEEE491823D67B6800A401BF /* a973KClosestPointstoOrigin.cpp in Sources */,
 				53F272B01C0228E400E2716D /* DivideTwoInteger.cpp in Sources */,
 				EE2989D824E9C80700689908 /* a1197MinimumKnightMoves.cpp in Sources */,
+				EEAB69AB25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp in Sources */,
 				EEBD73AD24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp in Sources */,
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
