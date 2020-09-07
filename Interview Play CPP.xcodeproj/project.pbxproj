@@ -155,6 +155,12 @@
 		EEAB69B125057D5D00E9E59C /* a1258SynonymousSentences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */; };
 		EEAB69B32505838100E9E59C /* a1314MatrixBlockSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */; };
 		EEAB69B52505841B00E9E59C /* a1025DivisorGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */; };
+		EEAB69B72505DDD100E9E59C /* a1254NumberofClosedIslands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B62505DDD100E9E59C /* a1254NumberofClosedIslands.cpp */; };
+		EEAB69B92505E02600E9E59C /* a777SwapAdjacentinLRString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69B82505E02600E9E59C /* a777SwapAdjacentinLRString.cpp */; };
+		EEAB69BB2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69BA2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp */; };
+		EEAB69BD2505E67C00E9E59C /* a886PossibleBipartition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69BC2505E67C00E9E59C /* a886PossibleBipartition.cpp */; };
+		EEAB69BF2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69BE2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp */; };
+		EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEAB69C02505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp */; };
 		EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */; };
 		EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */; };
 		EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */; };
@@ -451,6 +457,12 @@
 		EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1258SynonymousSentences.cpp; sourceTree = "<group>"; };
 		EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1314MatrixBlockSum.cpp; sourceTree = "<group>"; };
 		EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1025DivisorGame.cpp; sourceTree = "<group>"; };
+		EEAB69B62505DDD100E9E59C /* a1254NumberofClosedIslands.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1254NumberofClosedIslands.cpp; sourceTree = "<group>"; };
+		EEAB69B82505E02600E9E59C /* a777SwapAdjacentinLRString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a777SwapAdjacentinLRString.cpp; sourceTree = "<group>"; };
+		EEAB69BA2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp; sourceTree = "<group>"; };
+		EEAB69BC2505E67C00E9E59C /* a886PossibleBipartition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a886PossibleBipartition.cpp; sourceTree = "<group>"; };
+		EEAB69BE2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1071GreatestCommonDivisorofStrings.cpp; sourceTree = "<group>"; };
+		EEAB69C02505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1388PizzaWith3nSlices.cpp; sourceTree = "<group>"; };
 		EEBA0DA324FC446C002A8CCB /* a932BeautifulArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a932BeautifulArray.cpp; sourceTree = "<group>"; };
 		EEBA0DA524FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a592FractionAdditionAndSubtraction.cpp; sourceTree = "<group>"; };
 		EEBA0DA724FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1027LongestArithmeticSubsequence.cpp; sourceTree = "<group>"; };
@@ -905,6 +917,12 @@
 				EEAB69B025057D5D00E9E59C /* a1258SynonymousSentences.cpp */,
 				EEAB69B22505838100E9E59C /* a1314MatrixBlockSum.cpp */,
 				EEAB69B42505841B00E9E59C /* a1025DivisorGame.cpp */,
+				EEAB69B62505DDD100E9E59C /* a1254NumberofClosedIslands.cpp */,
+				EEAB69B82505E02600E9E59C /* a777SwapAdjacentinLRString.cpp */,
+				EEAB69BA2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp */,
+				EEAB69BC2505E67C00E9E59C /* a886PossibleBipartition.cpp */,
+				EEAB69BE2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp */,
+				EEAB69C02505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -990,6 +1008,7 @@
 				EEDCE8B324F5B58E008F92E4 /* a785IsGraphBipartite.cpp in Sources */,
 				EEBD73A924EC5EF400FDB30B /* a188BestTimeToBuyAndSellStockIV.cpp in Sources */,
 				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
+				EEAB69BB2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp in Sources */,
 				EE94740923E249F80095C5CA /* a213HouseRobberII.cpp in Sources */,
 				537348011C212494008EE20E /* CombinationSum.cpp in Sources */,
 				EE4B98FD23C7BF4100E1C102 /* a562LongestLineofConsecutiveOneinMatrix.cpp in Sources */,
@@ -1049,6 +1068,7 @@
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
+				EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EEC298AB24F8D6A50047CBFA /* a1268SearchSuggestionsSystem.cpp in Sources */,
@@ -1066,6 +1086,7 @@
 				EEBD739324EB8F7700FDB30B /* a957PrisonCellsAfterNDays.cpp in Sources */,
 				EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */,
 				538CF2101C55748A00318D97 /* FirstMissingPositive.cpp in Sources */,
+				EEAB69B92505E02600E9E59C /* a777SwapAdjacentinLRString.cpp in Sources */,
 				8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */,
 				EEDCE8DF24F72880008F92E4 /* a1375BulbSwitcherIII.cpp in Sources */,
 				53EEAE021BD4A63000DE5534 /* MedianTwoSortedArray.cpp in Sources */,
@@ -1111,6 +1132,7 @@
 				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
 				EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
+				EEAB69BF2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp in Sources */,
 				EEDCE8C524F62940008F92E4 /* a703KthLargestElementInAStream.cpp in Sources */,
 				EEDCE8DB24F722A3008F92E4 /* a1011CapacityToShipPackagesWithinDDays.cpp in Sources */,
 				EEBA0DAD24FCC23F002A8CCB /* a1312MinimumInsertionStepsToMakeAStringPalindrome.cpp in Sources */,
@@ -1208,6 +1230,7 @@
 				EEBA0DD125019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp in Sources */,
 				EEAB69A52503EDE400E9E59C /* a1000MinimumCostToMergeStones.cpp in Sources */,
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
+				EEAB69B72505DDD100E9E59C /* a1254NumberofClosedIslands.cpp in Sources */,
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
 				EEC298C924FB69BD0047CBFA /* a1146SnapshotArray.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
@@ -1228,6 +1251,7 @@
 				EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */,
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
+				EEAB69BD2505E67C00E9E59C /* a886PossibleBipartition.cpp in Sources */,
 				EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
 				EEC298BB24FAE3FD0047CBFA /* a688KnightProbablityInChessboard.cpp in Sources */,
