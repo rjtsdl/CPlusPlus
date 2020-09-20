@@ -63,6 +63,8 @@
 		8D9DD48A2517224A00B56812 /* a490TheMaze.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4892517224A00B56812 /* a490TheMaze.cpp */; };
 		8D9DD48D2517F48200B56812 /* a471EncodeStringwithShortestLength.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD48C2517F48200B56812 /* a471EncodeStringwithShortestLength.cpp */; };
 		8D9DD4902517F9F100B56812 /* a459RepeatedSubstringPattern.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD48F2517F9F100B56812 /* a459RepeatedSubstringPattern.cpp */; };
+		8D9DD49325180AD900B56812 /* a505TheMazeII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD49225180AD900B56812 /* a505TheMazeII.cpp */; };
+		8D9DD49625180C2900B56812 /* a499TheMazeIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD49525180C2900B56812 /* a499TheMazeIII.cpp */; };
 		8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */; };
 		8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */; };
 		8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDD57CF1C6306E10000A23A /* PermutationII.cpp */; };
@@ -393,6 +395,8 @@
 		8D9DD4892517224A00B56812 /* a490TheMaze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a490TheMaze.cpp; sourceTree = "<group>"; };
 		8D9DD48C2517F48200B56812 /* a471EncodeStringwithShortestLength.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a471EncodeStringwithShortestLength.cpp; sourceTree = "<group>"; };
 		8D9DD48F2517F9F100B56812 /* a459RepeatedSubstringPattern.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a459RepeatedSubstringPattern.cpp; sourceTree = "<group>"; };
+		8D9DD49225180AD900B56812 /* a505TheMazeII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a505TheMazeII.cpp; sourceTree = "<group>"; };
+		8D9DD49525180C2900B56812 /* a499TheMazeIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a499TheMazeIII.cpp; sourceTree = "<group>"; };
 		8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LengthOfLastWord.cpp; sourceTree = "<group>"; };
 		8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpiralMatrxII.cpp; sourceTree = "<group>"; };
 		8DDD57CF1C6306E10000A23A /* PermutationII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PermutationII.cpp; sourceTree = "<group>"; };
@@ -1009,6 +1013,8 @@
 				8D9DD4892517224A00B56812 /* a490TheMaze.cpp */,
 				8D9DD48C2517F48200B56812 /* a471EncodeStringwithShortestLength.cpp */,
 				8D9DD48F2517F9F100B56812 /* a459RepeatedSubstringPattern.cpp */,
+				8D9DD49225180AD900B56812 /* a505TheMazeII.cpp */,
+				8D9DD49525180C2900B56812 /* a499TheMazeIII.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1162,6 +1168,7 @@
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
 				EEAB69D12506F71F00E9E59C /* a333LargestBSTSubtree.cpp in Sources */,
+				8D9DD49625180C2900B56812 /* a499TheMazeIII.cpp in Sources */,
 				EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
@@ -1376,6 +1383,7 @@
 				EE4DC6AC23C1A51B00CA0414 /* a918MaximumSumCircularSubarray.cpp in Sources */,
 				EEBD739924EBAE6700FDB30B /* a1162AsFarFromLandAsPossible.cpp in Sources */,
 				8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */,
+				8D9DD49325180AD900B56812 /* a505TheMazeII.cpp in Sources */,
 				EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */,
 				EEF87BA224F4325700475D72 /* a1236WebCrawler.cpp in Sources */,
 				8D9DD48425171BFA00B56812 /* a484FindPermutation.cpp in Sources */,
