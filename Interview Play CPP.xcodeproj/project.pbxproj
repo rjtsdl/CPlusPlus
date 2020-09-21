@@ -71,6 +71,10 @@
 		8D9DD4A22519055800B56812 /* a604DesignCompressedStringIterator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4A12519055800B56812 /* a604DesignCompressedStringIterator.cpp */; };
 		8D9DD4A525190AA800B56812 /* a702SearchinaSortedArrayofUnknownSize.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4A425190AA800B56812 /* a702SearchinaSortedArrayofUnknownSize.cpp */; };
 		8D9DD4A825190F5A00B56812 /* a708InsertintoaSortedCircularLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4A725190F5A00B56812 /* a708InsertintoaSortedCircularLinkedList.cpp */; };
+		8D9DD4AB251943E800B56812 /* a568MaximumVacationDays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4AA251943E800B56812 /* a568MaximumVacationDays.cpp */; };
+		8D9DD4AE25194A5400B56812 /* a631DesignExcelSumFormula.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4AD25194A5400B56812 /* a631DesignExcelSumFormula.cpp */; };
+		8D9DD4B12519521300B56812 /* a6514KeysKeyboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4B02519521300B56812 /* a6514KeysKeyboard.cpp */; };
+		8D9DD4B4251957F500B56812 /* a656CoinPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD4B3251957F500B56812 /* a656CoinPath.cpp */; };
 		8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */; };
 		8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */; };
 		8DDD57D01C6306E10000A23A /* PermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DDD57CF1C6306E10000A23A /* PermutationII.cpp */; };
@@ -409,6 +413,10 @@
 		8D9DD4A12519055800B56812 /* a604DesignCompressedStringIterator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a604DesignCompressedStringIterator.cpp; sourceTree = "<group>"; };
 		8D9DD4A425190AA800B56812 /* a702SearchinaSortedArrayofUnknownSize.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a702SearchinaSortedArrayofUnknownSize.cpp; sourceTree = "<group>"; };
 		8D9DD4A725190F5A00B56812 /* a708InsertintoaSortedCircularLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a708InsertintoaSortedCircularLinkedList.cpp; sourceTree = "<group>"; };
+		8D9DD4AA251943E800B56812 /* a568MaximumVacationDays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a568MaximumVacationDays.cpp; sourceTree = "<group>"; };
+		8D9DD4AD25194A5400B56812 /* a631DesignExcelSumFormula.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a631DesignExcelSumFormula.cpp; sourceTree = "<group>"; };
+		8D9DD4B02519521300B56812 /* a6514KeysKeyboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a6514KeysKeyboard.cpp; sourceTree = "<group>"; };
+		8D9DD4B3251957F500B56812 /* a656CoinPath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a656CoinPath.cpp; sourceTree = "<group>"; };
 		8DA96C7E1CDE9D9000348A5E /* LengthOfLastWord.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LengthOfLastWord.cpp; sourceTree = "<group>"; };
 		8DA96C801CDEA04100348A5E /* SpiralMatrxII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpiralMatrxII.cpp; sourceTree = "<group>"; };
 		8DDD57CF1C6306E10000A23A /* PermutationII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PermutationII.cpp; sourceTree = "<group>"; };
@@ -1033,6 +1041,10 @@
 				8D9DD4A12519055800B56812 /* a604DesignCompressedStringIterator.cpp */,
 				8D9DD4A425190AA800B56812 /* a702SearchinaSortedArrayofUnknownSize.cpp */,
 				8D9DD4A725190F5A00B56812 /* a708InsertintoaSortedCircularLinkedList.cpp */,
+				8D9DD4AA251943E800B56812 /* a568MaximumVacationDays.cpp */,
+				8D9DD4AD25194A5400B56812 /* a631DesignExcelSumFormula.cpp */,
+				8D9DD4B02519521300B56812 /* a6514KeysKeyboard.cpp */,
+				8D9DD4B3251957F500B56812 /* a656CoinPath.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1155,6 +1167,7 @@
 				53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */,
 				53C624821C01A8290080C09E /* RemoveElement.cpp in Sources */,
 				EEAB69DB2507456300E9E59C /* a1166DesignFileSystem.cpp in Sources */,
+				8D9DD4AB251943E800B56812 /* a568MaximumVacationDays.cpp in Sources */,
 				EEAB69C7250695D600E9E59C /* a856ScoreofParentheses.cpp in Sources */,
 				EEC298C724FB688B0047CBFA /* a635DesignLogStorageSystem.cpp in Sources */,
 				EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */,
@@ -1273,6 +1286,7 @@
 				EEDCE8C124F62284008F92E4 /* a1060MissingElementInSortedArray.cpp in Sources */,
 				EE2989AE24E6567200689908 /* a1249MinimumRemoveToMakeValidParentheses.cpp in Sources */,
 				EEF87B9A24F1A32100475D72 /* a969PancakeSorting.cpp in Sources */,
+				8D9DD4AE25194A5400B56812 /* a631DesignExcelSumFormula.cpp in Sources */,
 				EEBA0DAF24FCC4E2002A8CCB /* a1167MinimumCosttoConnectSticks.cpp in Sources */,
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EEDCE8D124F6E24A008F92E4 /* a1274NumberOfShipsInARectangle.cpp in Sources */,
@@ -1416,6 +1430,7 @@
 				EEC298A524F8CED70047CBFA /* a525ContiguousArray.cpp in Sources */,
 				EEDCE8E924F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp in Sources */,
 				EEBD73A524EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp in Sources */,
+				8D9DD4B4251957F500B56812 /* a656CoinPath.cpp in Sources */,
 				8D9DD49F25186E0700B56812 /* a582KillProcess.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
 				EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */,
@@ -1431,6 +1446,7 @@
 				EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */,
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
+				8D9DD4B12519521300B56812 /* a6514KeysKeyboard.cpp in Sources */,
 				EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */,
 				EEAB69D7250740D000E9E59C /* a1088ConfusingNumberII.cpp in Sources */,
 				53F1553E1C5D775000734AA4 /* JumpGameII.cpp in Sources */,
