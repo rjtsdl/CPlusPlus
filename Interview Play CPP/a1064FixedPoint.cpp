@@ -14,7 +14,7 @@ using namespace std;
 class Solution {
 public:
     int fixedPoint(vector<int>& A) {
-        int l = 0, r = A.size() - 1, mid;
+        int l = 0, r = (int)A.size() - 1, mid;
         while (l < r) {
             mid = l + (r - l) / 2;
             if (A[mid] - mid < 0)

@@ -16,7 +16,7 @@ using namespace std;
 class Solution {
 public:
     int numKLenSubstrNoRepeats(string S, int K) {
-        int result=0, count=0, right=0, n=S.size();
+        int result=0, count=0, right=0, n=(int)S.size();
         unordered_map<char, int> ht;
         if(K>n) return 0;
         
