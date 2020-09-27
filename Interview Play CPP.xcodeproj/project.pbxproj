@@ -43,6 +43,7 @@
 		53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */; };
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
 		53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */; };
+		8D17CF1D25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -414,6 +415,7 @@
 		53FD3CE71BE6CB9A008B7BAD /* MyAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyAtoi.cpp; sourceTree = "<group>"; };
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
 		53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreeSum.cpp; sourceTree = "<group>"; };
+		8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1199MinimumTimetoBuildBlocks.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -1132,6 +1134,7 @@
 				8D9DD504251E6CEE00B56812 /* a1183MaximumNumberofOnes.cpp */,
 				8D9DD507251E705500B56812 /* a1196HowManyApplesCanYouPutintotheBasket.cpp */,
 				8D9DD50A251E715F00B56812 /* a1198FindSmallestCommonElementinAllRows.cpp */,
+				8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1296,6 +1299,7 @@
 				8D9DD49625180C2900B56812 /* a499TheMazeIII.cpp in Sources */,
 				EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
+				8D17CF1D25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EEC298AB24F8D6A50047CBFA /* a1268SearchSuggestionsSystem.cpp in Sources */,
 				EEDCE8E524F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp in Sources */,
