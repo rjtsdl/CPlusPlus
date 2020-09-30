@@ -52,6 +52,10 @@
 		8D17CF2F2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */; };
 		8D17CF322523A551008EF8C9 /* 1272. Remove Interval 1272.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */; };
 		8D17CF352523A5C2008EF8C9 /* a1426CountingElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */; };
+		8D17CF3825243F84008EF8C9 /* a1427PerformStringShifts.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */; };
+		8D17CF3B25244109008EF8C9 /* a1429FirstUniqueNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */; };
+		8D17CF3E25244186008EF8C9 /* a1474DeleteNNodesAfterMNodesofaLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF3D25244186008EF8C9 /* a1474DeleteNNodesAfterMNodesofaLinkedList.cpp */; };
+		8D17CF41252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF40252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -432,6 +436,10 @@
 		8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1265PrintImmutableLinkedListinReverse.cpp; sourceTree = "<group>"; };
 		8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1272. Remove Interval 1272.cpp"; sourceTree = "<group>"; };
 		8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1426CountingElements.cpp; sourceTree = "<group>"; };
+		8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1427PerformStringShifts.cpp; sourceTree = "<group>"; };
+		8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1429FirstUniqueNumber.cpp; sourceTree = "<group>"; };
+		8D17CF3D25244186008EF8C9 /* a1474DeleteNNodesAfterMNodesofaLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1474DeleteNNodesAfterMNodesofaLinkedList.cpp; sourceTree = "<group>"; };
+		8D17CF40252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1485CloneBinaryTreeWithRandomPointer.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -1159,6 +1167,10 @@
 				8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */,
 				8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */,
 				8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */,
+				8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */,
+				8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */,
+				8D17CF3D25244186008EF8C9 /* a1474DeleteNNodesAfterMNodesofaLinkedList.cpp */,
+				8D17CF40252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1279,6 +1291,7 @@
 				EEAB69C52506944D00E9E59C /* a752OpentheLock.cpp in Sources */,
 				EE9473FB23E1F4A60095C5CA /* a407TrappingRainWaterII.cpp in Sources */,
 				8D9DD4A825190F5A00B56812 /* a708InsertintoaSortedCircularLinkedList.cpp in Sources */,
+				8D17CF3E25244186008EF8C9 /* a1474DeleteNNodesAfterMNodesofaLinkedList.cpp in Sources */,
 				EEBA0DC92500B348002A8CCB /* a1216ValidPalindromeIII.cpp in Sources */,
 				EEBD73AB24EC797600FDB30B /* a898BitwiseOrsOfSubarrays.cpp in Sources */,
 				8D9DD4FC251D071C00B56812 /* a1168OptimizeWaterDistributioninaVillage.cpp in Sources */,
@@ -1400,6 +1413,7 @@
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
 				EEBA0DC12500AAB0002A8CCB /* a801MinimumSwapsToMakeSequencesIncreasing.cpp in Sources */,
+				8D17CF3825243F84008EF8C9 /* a1427PerformStringShifts.cpp in Sources */,
 				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
 				EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
@@ -1466,10 +1480,12 @@
 				8D9DD4C6251A999D00B56812 /* a1056ConfusingNumber.cpp in Sources */,
 				8D17CF2F2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp in Sources */,
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
+				8D17CF3B25244109008EF8C9 /* a1429FirstUniqueNumber.cpp in Sources */,
 				53EEAE001BD49ADD00DE5534 /* LongestSubstringWithoutDups.cpp in Sources */,
 				EEC298B524FA10C60047CBFA /* a887SuperEggDrop.cpp in Sources */,
 				EEAB69A12503EB1400E9E59C /* a1246PalindromeRemoval.cpp in Sources */,
 				EEBA0DCF25018C0E002A8CCB /* a873LengthofLongestFibonacciSubsequence.cpp in Sources */,
+				8D17CF41252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp in Sources */,
 				EE2989C824E87B9500689908 /* a994RottingOranges.cpp in Sources */,
 				EEAB69CB2506B94600E9E59C /* a912SortAnArray.cpp in Sources */,
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
