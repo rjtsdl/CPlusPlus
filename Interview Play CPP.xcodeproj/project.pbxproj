@@ -50,7 +50,7 @@
 		8D17CF292521A057008EF8C9 /* a1231DivideChocolate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */; };
 		8D17CF2C25239DB2008EF8C9 /* a1259HandshakesThatDontCross.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF2B25239DB2008EF8C9 /* a1259HandshakesThatDontCross.cpp */; };
 		8D17CF2F2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */; };
-		8D17CF322523A551008EF8C9 /* 1272. Remove Interval 1272.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */; };
+		8D17CF322523A551008EF8C9 /* a1272RemoveInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF312523A551008EF8C9 /* a1272RemoveInterval.cpp */; };
 		8D17CF352523A5C2008EF8C9 /* a1426CountingElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */; };
 		8D17CF3825243F84008EF8C9 /* a1427PerformStringShifts.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */; };
 		8D17CF3B25244109008EF8C9 /* a1429FirstUniqueNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */; };
@@ -446,7 +446,7 @@
 		8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1231DivideChocolate.cpp; sourceTree = "<group>"; };
 		8D17CF2B25239DB2008EF8C9 /* a1259HandshakesThatDontCross.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1259HandshakesThatDontCross.cpp; sourceTree = "<group>"; };
 		8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1265PrintImmutableLinkedListinReverse.cpp; sourceTree = "<group>"; };
-		8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1272. Remove Interval 1272.cpp"; sourceTree = "<group>"; };
+		8D17CF312523A551008EF8C9 /* a1272RemoveInterval.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1272RemoveInterval.cpp; sourceTree = "<group>"; };
 		8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1426CountingElements.cpp; sourceTree = "<group>"; };
 		8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1427PerformStringShifts.cpp; sourceTree = "<group>"; };
 		8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1429FirstUniqueNumber.cpp; sourceTree = "<group>"; };
@@ -1189,7 +1189,7 @@
 				8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */,
 				8D17CF2B25239DB2008EF8C9 /* a1259HandshakesThatDontCross.cpp */,
 				8D17CF2E2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp */,
-				8D17CF312523A551008EF8C9 /* 1272. Remove Interval 1272.cpp */,
+				8D17CF312523A551008EF8C9 /* a1272RemoveInterval.cpp */,
 				8D17CF342523A5C2008EF8C9 /* a1426CountingElements.cpp */,
 				8D17CF3725243F84008EF8C9 /* a1427PerformStringShifts.cpp */,
 				8D17CF3A25244109008EF8C9 /* a1429FirstUniqueNumber.cpp */,
@@ -1445,7 +1445,7 @@
 				8D17CF2C25239DB2008EF8C9 /* a1259HandshakesThatDontCross.cpp in Sources */,
 				EEAB69B52505841B00E9E59C /* a1025DivisorGame.cpp in Sources */,
 				8D2DEA8B252E3A8A00C7FDBE /* a900RLEIterator.cpp in Sources */,
-				8D17CF322523A551008EF8C9 /* 1272. Remove Interval 1272.cpp in Sources */,
+				8D17CF322523A551008EF8C9 /* a1272RemoveInterval.cpp in Sources */,
 				8D9DD46F2515B23300B56812 /* InfraConcordance.cpp in Sources */,
 				EEBA0DCD2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp in Sources */,
 				EEBA0DC32500ADEE002A8CCB /* a1035UncrossedLines.cpp in Sources */,
