@@ -7,6 +7,11 @@
 //
 
 #include <stdio.h>
+#include <vector>
+#include <string>
+
+using namespace std;
+
 
 class Solution {
 public:
@@ -23,7 +28,7 @@ public:
         
         for (int l =0; l < len; l++) {
             for (int j = 0; j<n; j++) {
-                int cdist = (names[j]!=targetPath[l]);
+                int cdist = (names[j] != targetPath[l] ?1:0);
                 if (l==0) dp[l][j] = cdist;
                 else {
                     int idx = -1; int minv = INT_MAX;
