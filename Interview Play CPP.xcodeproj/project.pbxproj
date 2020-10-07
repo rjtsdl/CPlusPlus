@@ -64,6 +64,8 @@
 		8D17CF532524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF522524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp */; };
 		8D17CF562524EF51008EF8C9 /* a1548TheMostSimilarPathinaGraph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF552524EF51008EF8C9 /* a1548TheMostSimilarPathinaGraph.cpp */; };
 		8D2DEA7F252E204600C7FDBE /* a444SequenceReconstruction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA7E252E204600C7FDBE /* a444SequenceReconstruction.cpp */; };
+		8D2DEA82252E297E00C7FDBE /* a552StudentAttendanceRecordII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA81252E297E00C7FDBE /* a552StudentAttendanceRecordII.cpp */; };
+		8D2DEA85252E2EE900C7FDBE /* a715RangeModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA84252E2EE900C7FDBE /* a715RangeModule.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -456,6 +458,8 @@
 		8D17CF522524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1564PutBoxesIntotheWarehouseI.cpp; sourceTree = "<group>"; };
 		8D17CF552524EF51008EF8C9 /* a1548TheMostSimilarPathinaGraph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1548TheMostSimilarPathinaGraph.cpp; sourceTree = "<group>"; };
 		8D2DEA7E252E204600C7FDBE /* a444SequenceReconstruction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a444SequenceReconstruction.cpp; sourceTree = "<group>"; };
+		8D2DEA81252E297E00C7FDBE /* a552StudentAttendanceRecordII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a552StudentAttendanceRecordII.cpp; sourceTree = "<group>"; };
+		8D2DEA84252E2EE900C7FDBE /* a715RangeModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a715RangeModule.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -1195,6 +1199,8 @@
 				8D17CF522524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp */,
 				8D17CF552524EF51008EF8C9 /* a1548TheMostSimilarPathinaGraph.cpp */,
 				8D2DEA7E252E204600C7FDBE /* a444SequenceReconstruction.cpp */,
+				8D2DEA81252E297E00C7FDBE /* a552StudentAttendanceRecordII.cpp */,
+				8D2DEA84252E2EE900C7FDBE /* a715RangeModule.cpp */,
 			);
 			name = Algorithms;
 			sourceTree = "<group>";
@@ -1507,6 +1513,7 @@
 				EEAB69AB25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp in Sources */,
 				8D17CF2325219CB0008EF8C9 /* a1214TwoSumBSTs.cpp in Sources */,
 				EEBD73AD24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp in Sources */,
+				8D2DEA85252E2EE900C7FDBE /* a715RangeModule.cpp in Sources */,
 				8D9DD4C6251A999D00B56812 /* a1056ConfusingNumber.cpp in Sources */,
 				8D17CF2F2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp in Sources */,
 				EE2989BC24E75A7F00689908 /* a986IntervalListIntersections.cpp in Sources */,
@@ -1579,6 +1586,7 @@
 				EE4AC59623E0AFD700BDB74E /* a42TrappingRainWater.cpp in Sources */,
 				EEAB69B72505DDD100E9E59C /* a1254NumberofClosedIslands.cpp in Sources */,
 				EEBD738D24EB1DBC00FDB30B /* a518CoinChange.cpp in Sources */,
+				8D2DEA82252E297E00C7FDBE /* a552StudentAttendanceRecordII.cpp in Sources */,
 				EEC298C924FB69BD0047CBFA /* a1146SnapshotArray.cpp in Sources */,
 				EEF8B0F523D80ED800723648 /* bit.cpp in Sources */,
 				EEAB699D2502EFA400E9E59C /* a375GuessNumberHigherorLowerII.cpp in Sources */,
