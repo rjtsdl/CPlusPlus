@@ -7,7 +7,12 @@
 //
 
 #include <stdio.h>
+#include <vector>
+#include <algorithm>
+#include <functional>
+#include <numeric>
 
+using namespace std;
 
 class Solution {
 public:

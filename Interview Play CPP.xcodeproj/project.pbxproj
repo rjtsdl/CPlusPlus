@@ -44,7 +44,7 @@
 		53FD3CEA1BE6CF76008B7BAD /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */; };
 		53FD3CEC1BE6D778008B7BAD /* ThreeSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */; };
 		8D17CF1D25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */; };
-		8D17CF2025219B9B008EF8C9 /* a1213Intersection ofThree SortedArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF1F25219B9B008EF8C9 /* a1213Intersection ofThree SortedArrays.cpp */; };
+		8D17CF2025219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF1F25219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp */; };
 		8D17CF2325219CB0008EF8C9 /* a1214TwoSumBSTs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF2225219CB0008EF8C9 /* a1214TwoSumBSTs.cpp */; };
 		8D17CF2625219E7D008EF8C9 /* a1228MissingNumberInArithmeticProgression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF2525219E7D008EF8C9 /* a1228MissingNumberInArithmeticProgression.cpp */; };
 		8D17CF292521A057008EF8C9 /* a1231DivideChocolate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */; };
@@ -443,7 +443,7 @@
 		53FD3CE91BE6CF76008B7BAD /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
 		53FD3CEB1BE6D778008B7BAD /* ThreeSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreeSum.cpp; sourceTree = "<group>"; };
 		8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1199MinimumTimetoBuildBlocks.cpp; sourceTree = "<group>"; };
-		8D17CF1F25219B9B008EF8C9 /* a1213Intersection ofThree SortedArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a1213Intersection ofThree SortedArrays.cpp"; sourceTree = "<group>"; };
+		8D17CF1F25219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1213IntersectionofThreeSortedArrays.cpp; sourceTree = "<group>"; };
 		8D17CF2225219CB0008EF8C9 /* a1214TwoSumBSTs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1214TwoSumBSTs.cpp; sourceTree = "<group>"; };
 		8D17CF2525219E7D008EF8C9 /* a1228MissingNumberInArithmeticProgression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1228MissingNumberInArithmeticProgression.cpp; sourceTree = "<group>"; };
 		8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1231DivideChocolate.cpp; sourceTree = "<group>"; };
@@ -1189,7 +1189,7 @@
 				8D9DD507251E705500B56812 /* a1196HowManyApplesCanYouPutintotheBasket.cpp */,
 				8D9DD50A251E715F00B56812 /* a1198FindSmallestCommonElementinAllRows.cpp */,
 				8D17CF1C25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp */,
-				8D17CF1F25219B9B008EF8C9 /* a1213Intersection ofThree SortedArrays.cpp */,
+				8D17CF1F25219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp */,
 				8D17CF2225219CB0008EF8C9 /* a1214TwoSumBSTs.cpp */,
 				8D17CF2525219E7D008EF8C9 /* a1228MissingNumberInArithmeticProgression.cpp */,
 				8D17CF282521A057008EF8C9 /* a1231DivideChocolate.cpp */,
@@ -1581,7 +1581,7 @@
 				EE2989C224E7A6A200689908 /* a759EmployeeFreeTime.cpp in Sources */,
 				8D9DD4E1251C660E00B56812 /* a1101TheEarliestMomentWhenEveryoneBecomeFriends.cpp in Sources */,
 				EE2989D224E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp in Sources */,
-				8D17CF2025219B9B008EF8C9 /* a1213Intersection ofThree SortedArrays.cpp in Sources */,
+				8D17CF2025219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp in Sources */,
 				EEAB69A725054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp in Sources */,
 				EEC298B124F99F6C0047CBFA /* a1123LowestCommonAcestorOfDeepestLeaves.cpp in Sources */,
 				8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */,
