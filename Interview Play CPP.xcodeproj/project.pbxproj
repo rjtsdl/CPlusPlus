@@ -71,6 +71,8 @@
 		8D2DEA8F252F747900C7FDBE /* a951FlipEquivalentBinaryTrees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA8E252F747900C7FDBE /* a951FlipEquivalentBinaryTrees.cpp */; };
 		8D2DEA92252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA91252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp */; };
 		8D2DEA95252FA3C400C7FDBE /* RandomChunk.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA94252FA3C400C7FDBE /* RandomChunk.cpp */; };
+		8D2DEA992531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */; };
+		8D2DEA9D2531266C00C7FDBE /* a1345JumpGameIV.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -470,6 +472,8 @@
 		8D2DEA8E252F747900C7FDBE /* a951FlipEquivalentBinaryTrees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a951FlipEquivalentBinaryTrees.cpp; sourceTree = "<group>"; };
 		8D2DEA91252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1138AlphabetBoardPath.cpp; sourceTree = "<group>"; };
 		8D2DEA94252FA3C400C7FDBE /* RandomChunk.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = RandomChunk.cpp; path = "Interview Play CPP/RandomChunk.cpp"; sourceTree = SOURCE_ROOT; };
+		8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1296DivideArrayinSetsofKConsecutiveNumbers.cpp; sourceTree = "<group>"; };
+		8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1345JumpGameIV.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -825,13 +829,13 @@
 			isa = PBXGroup;
 			children = (
 				EEBD73BA24EEF41100FDB30B /* TechScreen */,
-				EE7D5B9523DA487E0057DA4E /* Algorithms */,
+				EE7D5B9523DA487E0057DA4E /* Leetcode */,
 				EEF8B0F223D80EB600723648 /* libraries */,
 			);
 			path = "Interview Play CPP";
 			sourceTree = "<group>";
 		};
-		EE7D5B9523DA487E0057DA4E /* Algorithms */ = {
+		EE7D5B9523DA487E0057DA4E /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
 				A50527461A381E64008779C0 /* WildcardMatching.cpp */,
@@ -1215,8 +1219,10 @@
 				8D2DEA8A252E3A8A00C7FDBE /* a900RLEIterator.cpp */,
 				8D2DEA8E252F747900C7FDBE /* a951FlipEquivalentBinaryTrees.cpp */,
 				8D2DEA91252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp */,
+				8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */,
+				8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */,
 			);
-			name = Algorithms;
+			name = Leetcode;
 			sourceTree = "<group>";
 		};
 		EEBD73BA24EEF41100FDB30B /* TechScreen */ = {
@@ -1385,6 +1391,7 @@
 				8D17CF1D25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EEC298AB24F8D6A50047CBFA /* a1268SearchSuggestionsSystem.cpp in Sources */,
+				8D2DEA9D2531266C00C7FDBE /* a1345JumpGameIV.cpp in Sources */,
 				EEDCE8E524F776EC008F92E4 /* a1153StringTransformIntoAnotherString.cpp in Sources */,
 				EE2989B024E65BDE00689908 /* a1201UglyNumberIII.cpp in Sources */,
 				8D9DD4BD2519B89100B56812 /* a742ClosestLeafinaBinaryTree.cpp in Sources */,
@@ -1669,6 +1676,7 @@
 				EEAB69992502BDD400E9E59C /* a647PalindromicSubstrings.cpp in Sources */,
 				EE453B2524E3096F00887BA7 /* a937ReorderDataInLogFiles.cpp in Sources */,
 				EEDCE8DD24F725E0008F92E4 /* a1029TwoCityScheduling.cpp in Sources */,
+				8D2DEA992531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp in Sources */,
 				8D9DD4A525190AA800B56812 /* a702SearchinaSortedArrayofUnknownSize.cpp in Sources */,
 				EEAB69A32503EC2A00E9E59C /* a1278PalindromePartitioningIII.cpp in Sources */,
 				EEC2989D24F849E30047CBFA /* a749ContainVirus.cpp in Sources */,
