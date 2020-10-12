@@ -73,6 +73,8 @@
 		8D2DEA95252FA3C400C7FDBE /* RandomChunk.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA94252FA3C400C7FDBE /* RandomChunk.cpp */; };
 		8D2DEA992531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */; };
 		8D2DEA9D2531266C00C7FDBE /* a1345JumpGameIV.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */; };
+		8D2DEAA02534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */; };
+		8D2DEAA32534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -474,6 +476,8 @@
 		8D2DEA94252FA3C400C7FDBE /* RandomChunk.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = RandomChunk.cpp; path = "Interview Play CPP/RandomChunk.cpp"; sourceTree = SOURCE_ROOT; };
 		8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1296DivideArrayinSetsofKConsecutiveNumbers.cpp; sourceTree = "<group>"; };
 		8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1345JumpGameIV.cpp; sourceTree = "<group>"; };
+		8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a 1376TimeNeededtoInformAllEmployees.cpp"; sourceTree = "<group>"; };
+		8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -1221,6 +1225,8 @@
 				8D2DEA91252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp */,
 				8D2DEA982531240600C7FDBE /* a1296DivideArrayinSetsofKConsecutiveNumbers.cpp */,
 				8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */,
+				8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */,
+				8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1591,6 +1597,7 @@
 				8D17CF2025219B9B008EF8C9 /* a1213IntersectionofThreeSortedArrays.cpp in Sources */,
 				EEAB69A725054AB900E9E59C /* a1383MaximumPerformanceofaTeam.cpp in Sources */,
 				EEC298B124F99F6C0047CBFA /* a1123LowestCommonAcestorOfDeepestLeaves.cpp in Sources */,
+				8D2DEAA02534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp in Sources */,
 				8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */,
 				EEBA0DB124FCC55F002A8CCB /* a427ConstructQuadTree.cpp in Sources */,
 				8D9DD4872517211D00B56812 /* a487MaxConsecutiveOnesII.cpp in Sources */,
@@ -1646,6 +1653,7 @@
 				EEC298C124FAE89D0047CBFA /* a726NumberOfAtoms.cpp in Sources */,
 				EEAB69CD2506B9FD00E9E59C /* a794ValidTicTacToeState.cpp in Sources */,
 				EEDCE8E124F77260008F92E4 /* a1143LongestCommonSubsequence.cpp in Sources */,
+				8D2DEAA32534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp in Sources */,
 				EE94740723E248070095C5CA /* a198HouseRobber.cpp in Sources */,
 				8D2DEA95252FA3C400C7FDBE /* RandomChunk.cpp in Sources */,
 				53F48D371C0A1A3000170DAE /* SudokuSolver.cpp in Sources */,
