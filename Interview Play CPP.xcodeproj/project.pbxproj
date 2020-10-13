@@ -75,6 +75,8 @@
 		8D2DEA9D2531266C00C7FDBE /* a1345JumpGameIV.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */; };
 		8D2DEAA02534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */; };
 		8D2DEAA32534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */; };
+		8D2DEAA62536207A00C7FDBE /* a1504CountSubmatricesWithAllOnes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEAA52536207A00C7FDBE /* a1504CountSubmatricesWithAllOnes.cpp */; };
+		8D2DEAA92536275B00C7FDBE /* a1463CherryPickupII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2DEAA82536275B00C7FDBE /* a1463CherryPickupII.cpp */; };
 		8D325BEE1C6EE923000F31F7 /* NQueenII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D325BED1C6EE923000F31F7 /* NQueenII.cpp */; };
 		8D33B2DF1C69A4E4001DBED1 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */; };
 		8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */; };
@@ -478,6 +480,8 @@
 		8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1345JumpGameIV.cpp; sourceTree = "<group>"; };
 		8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a 1376TimeNeededtoInformAllEmployees.cpp"; sourceTree = "<group>"; };
 		8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp; sourceTree = "<group>"; };
+		8D2DEAA52536207A00C7FDBE /* a1504CountSubmatricesWithAllOnes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1504CountSubmatricesWithAllOnes.cpp; sourceTree = "<group>"; };
+		8D2DEAA82536275B00C7FDBE /* a1463CherryPickupII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1463CherryPickupII.cpp; sourceTree = "<group>"; };
 		8D325BED1C6EE923000F31F7 /* NQueenII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NQueenII.cpp; sourceTree = "<group>"; };
 		8D33B2DE1C69A4E4001DBED1 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
 		8D33B2E01C69AA10001DBED1 /* GroupAnagrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupAnagrams.cpp; sourceTree = "<group>"; };
@@ -1227,6 +1231,8 @@
 				8D2DEA9C2531266C00C7FDBE /* a1345JumpGameIV.cpp */,
 				8D2DEA9F2534ECB000C7FDBE /* a 1376TimeNeededtoInformAllEmployees.cpp */,
 				8D2DEAA22534EF4A00C7FDBE /* a1477FindTwoNonoverlappingSubarraysEachWithTargetSum.cpp */,
+				8D2DEAA52536207A00C7FDBE /* a1504CountSubmatricesWithAllOnes.cpp */,
+				8D2DEAA82536275B00C7FDBE /* a1463CherryPickupII.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1324,6 +1330,7 @@
 				EEF87BA024F1F12000475D72 /* a809ExpressiveWords.cpp in Sources */,
 				EEBD737924EA4E7C00FDB30B /* a780ReachingPoints.cpp in Sources */,
 				8D9DD48A2517224A00B56812 /* a490TheMaze.cpp in Sources */,
+				8D2DEAA92536275B00C7FDBE /* a1463CherryPickupII.cpp in Sources */,
 				EEBD737524EA462E00FDB30B /* a465OptimalAccountBalance.cpp in Sources */,
 				EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */,
 				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
@@ -1542,6 +1549,7 @@
 				EEAB69AB25056B9400E9E59C /* a1411NumberofWaystoPaintN×3Grid.cpp in Sources */,
 				8D17CF2325219CB0008EF8C9 /* a1214TwoSumBSTs.cpp in Sources */,
 				EEBD73AD24ECE23200FDB30B /* a301RemoveInvalidParentheses.cpp in Sources */,
+				8D2DEAA62536207A00C7FDBE /* a1504CountSubmatricesWithAllOnes.cpp in Sources */,
 				8D2DEA85252E2EE900C7FDBE /* a715RangeModule.cpp in Sources */,
 				8D9DD4C6251A999D00B56812 /* a1056ConfusingNumber.cpp in Sources */,
 				8D17CF2F2523A394008EF8C9 /* a1265PrintImmutableLinkedListinReverse.cpp in Sources */,
