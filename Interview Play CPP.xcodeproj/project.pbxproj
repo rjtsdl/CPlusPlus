@@ -90,6 +90,8 @@
 		8D5F0BE62538ABCC0020B53D /* a676ImplementMagicDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */; };
 		8D5F0BE92538ADDE0020B53D /* a704BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */; };
 		8D5F0BEC2538AEA10020B53D /* a691StickerstoSpellWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */; };
+		8D5F0BEF2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BEE2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp */; };
+		8D5F0BF22538B9840020B53D /* a641DesignCircularDeque.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BF12538B9840020B53D /* a641DesignCircularDeque.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -504,6 +506,8 @@
 		8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a676ImplementMagicDictionary.cpp; sourceTree = "<group>"; };
 		8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a704BinarySearch.cpp; sourceTree = "<group>"; };
 		8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a691StickerstoSpellWord.cpp; sourceTree = "<group>"; };
+		8D5F0BEE2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a701InsertintoaBinarySearchTree.cpp; sourceTree = "<group>"; };
+		8D5F0BF12538B9840020B53D /* a641DesignCircularDeque.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a641DesignCircularDeque.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1260,6 +1264,8 @@
 				8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */,
 				8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */,
 				8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */,
+				8D5F0BEE2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp */,
+				8D5F0BF12538B9840020B53D /* a641DesignCircularDeque.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1427,6 +1433,7 @@
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
 				EEAB69D12506F71F00E9E59C /* a333LargestBSTSubtree.cpp in Sources */,
+				8D5F0BEF2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp in Sources */,
 				8D9DD49625180C2900B56812 /* a499TheMazeIII.cpp in Sources */,
 				EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
@@ -1689,6 +1696,7 @@
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				8D9DD505251E6CEE00B56812 /* a1183MaximumNumberofOnes.cpp in Sources */,
+				8D5F0BF22538B9840020B53D /* a641DesignCircularDeque.cpp in Sources */,
 				EEAB69BD2505E67C00E9E59C /* a886PossibleBipartition.cpp in Sources */,
 				EEBA0DA424FC446C002A8CCB /* a932BeautifulArray.cpp in Sources */,
 				538CF20E1C5562C900318D97 /* CombinationSumII.cpp in Sources */,
