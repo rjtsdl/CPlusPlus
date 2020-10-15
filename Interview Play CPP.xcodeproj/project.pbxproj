@@ -86,6 +86,10 @@
 		8D5F0BD62537A7290020B53D /* a405ConvertaNumbertoHexadecimal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BD52537A7290020B53D /* a405ConvertaNumbertoHexadecimal.cpp */; };
 		8D5F0BD92537A89A0020B53D /* a408ValidWordAbbreviation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BD82537A89A0020B53D /* a408ValidWordAbbreviation.cpp */; };
 		8D5F0BDC2537B5140020B53D /* a411MinimumUniqueWordAbbreviation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BDB2537B5140020B53D /* a411MinimumUniqueWordAbbreviation.cpp */; };
+		8D5F0BDF2538A81D0020B53D /* a288UniqueWordAbbreviation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BDE2538A81D0020B53D /* a288UniqueWordAbbreviation.cpp */; };
+		8D5F0BE62538ABCC0020B53D /* a676ImplementMagicDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */; };
+		8D5F0BE92538ADDE0020B53D /* a704BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */; };
+		8D5F0BEC2538AEA10020B53D /* a691StickerstoSpellWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -496,6 +500,10 @@
 		8D5F0BD52537A7290020B53D /* a405ConvertaNumbertoHexadecimal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a405ConvertaNumbertoHexadecimal.cpp; sourceTree = "<group>"; };
 		8D5F0BD82537A89A0020B53D /* a408ValidWordAbbreviation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a408ValidWordAbbreviation.cpp; sourceTree = "<group>"; };
 		8D5F0BDB2537B5140020B53D /* a411MinimumUniqueWordAbbreviation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a411MinimumUniqueWordAbbreviation.cpp; sourceTree = "<group>"; };
+		8D5F0BDE2538A81D0020B53D /* a288UniqueWordAbbreviation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a288UniqueWordAbbreviation.cpp; sourceTree = "<group>"; };
+		8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a676ImplementMagicDictionary.cpp; sourceTree = "<group>"; };
+		8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a704BinarySearch.cpp; sourceTree = "<group>"; };
+		8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a691StickerstoSpellWord.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1248,6 +1256,10 @@
 				8D5F0BD52537A7290020B53D /* a405ConvertaNumbertoHexadecimal.cpp */,
 				8D5F0BD82537A89A0020B53D /* a408ValidWordAbbreviation.cpp */,
 				8D5F0BDB2537B5140020B53D /* a411MinimumUniqueWordAbbreviation.cpp */,
+				8D5F0BDE2538A81D0020B53D /* a288UniqueWordAbbreviation.cpp */,
+				8D5F0BE52538ABCC0020B53D /* a676ImplementMagicDictionary.cpp */,
+				8D5F0BE82538ADDE0020B53D /* a704BinarySearch.cpp */,
+				8D5F0BEB2538AEA10020B53D /* a691StickerstoSpellWord.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1330,6 +1342,7 @@
 				EE94741723E4D7D80095C5CA /* a825FriendsOfAppropriateAges.cpp in Sources */,
 				EE4DC6AA23C19C1C00CA0414 /* a977SquaresofaSortedArray.cpp in Sources */,
 				EED654C123CD103200760861 /* a271EncodeandDecodeStrings.cpp in Sources */,
+				8D5F0BEC2538AEA10020B53D /* a691StickerstoSpellWord.cpp in Sources */,
 				EEBA0DB324FD6AAB002A8CCB /* a837New21Game.cpp in Sources */,
 				EEAB699B2502EB1500E9E59C /* a312BurstBalloons.cpp in Sources */,
 				EEDCE8B324F5B58E008F92E4 /* a785IsGraphBipartite.cpp in Sources */,
@@ -1355,6 +1368,7 @@
 				EEF87B9E24F1EA1D00475D72 /* a430FlattenAMultilevelDoublyLinkedList.cpp in Sources */,
 				EE4DC6A423C1061A00CA0414 /* a370RangeAddition.cpp in Sources */,
 				EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */,
+				8D5F0BE92538ADDE0020B53D /* a704BinarySearch.cpp in Sources */,
 				8D17CF292521A057008EF8C9 /* a1231DivideChocolate.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
 				8D9DD4992518654800B56812 /* a527WordAbbreviation.cpp in Sources */,
@@ -1439,6 +1453,7 @@
 				EEBD739324EB8F7700FDB30B /* a957PrisonCellsAfterNDays.cpp in Sources */,
 				EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */,
 				538CF2101C55748A00318D97 /* FirstMissingPositive.cpp in Sources */,
+				8D5F0BE62538ABCC0020B53D /* a676ImplementMagicDictionary.cpp in Sources */,
 				EEAB69B92505E02600E9E59C /* a777SwapAdjacentinLRString.cpp in Sources */,
 				8D9DD4D8251BDCC700B56812 /* a1087BraceExpansion.cpp in Sources */,
 				8D33B2E11C69AA10001DBED1 /* GroupAnagrams.cpp in Sources */,
@@ -1630,6 +1645,7 @@
 				8D9DD4C3251A974200B56812 /* a774MinimizeMaxDistancetoGasStation.cpp in Sources */,
 				8D5F0BD92537A89A0020B53D /* a408ValidWordAbbreviation.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
+				8D5F0BDF2538A81D0020B53D /* a288UniqueWordAbbreviation.cpp in Sources */,
 				EEDCE8B724F5BA66008F92E4 /* a815BusRoutes.cpp in Sources */,
 				8D9DD481251717D200B56812 /* a439TernaryExpressionParser.cpp in Sources */,
 				8D9DD4E4251C675600B56812 /* a1102PathWithMaximumMinimumValue.cpp in Sources */,
