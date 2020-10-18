@@ -106,6 +106,8 @@
 		8D5F0C17253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */; };
 		8D5F0C1A253C9ACB0020B53D /* a855ExamRoom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */; };
 		8D5F0C1D253CB70A0020B53D /* a858MirrorReflection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */; };
+		8D5F0C20253CDABE0020B53D /* a859BuddyStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */; };
+		8D5F0C23253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -536,6 +538,8 @@
 		8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a852PeakIndexinaMountainArray.cpp; sourceTree = "<group>"; };
 		8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a855ExamRoom.cpp; sourceTree = "<group>"; };
 		8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a858MirrorReflection.cpp; sourceTree = "<group>"; };
+		8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a859BuddyStrings.cpp; sourceTree = "<group>"; };
+		8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a865SmallestSubtreewithalltheDeepestNodes.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1308,6 +1312,8 @@
 				8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */,
 				8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */,
 				8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */,
+				8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */,
+				8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1497,6 +1503,7 @@
 				8D9DD4F9251D05DB00B56812 /* a1165SingleRowKeyboard.cpp in Sources */,
 				8D17CF442524E794008EF8C9 /* a1490CloneNaryTree.cpp in Sources */,
 				EE63CB8A23D906C2002265AB /* a1208GetEqualSubstringsWithinBudget.cpp in Sources */,
+				8D5F0C20253CDABE0020B53D /* a859BuddyStrings.cpp in Sources */,
 				EEBA0DCB2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp in Sources */,
 				EE53162124E1F4030061EED3 /* a1424DiagonalTraverseII.cpp in Sources */,
 				53EF9B0C1BFD1564009E693A /* ValidParentheses.cpp in Sources */,
@@ -1654,6 +1661,7 @@
 				8D17CF41252442E6008EF8C9 /* a1485CloneBinaryTreeWithRandomPointer.cpp in Sources */,
 				EE2989C824E87B9500689908 /* a994RottingOranges.cpp in Sources */,
 				EEAB69CB2506B94600E9E59C /* a912SortAnArray.cpp in Sources */,
+				8D5F0C23253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp in Sources */,
 				EED654BF23CD0D9100760861 /* a28ImplementstrStr.cpp in Sources */,
 				EE7D5BA123DBBC820057DA4E /* a252MeetingRooms.cpp in Sources */,
 				8DE3DC001CE575ED000F41AD /* RemoveDuplicatesfromSortedArrayII.cpp in Sources */,

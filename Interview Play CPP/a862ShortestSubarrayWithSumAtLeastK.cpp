@@ -15,26 +15,27 @@ using namespace std;
 class Solution {
 public:
     int shortestSubarray(vector<int>& A, int K) {
-        int N = A.size();
-        vector<long> P(N+1);
-        for (int i = 0; i < N; ++i)
-            P[i+1] = P[i] + (long) A[i];
-
-        // Want smallest y-x with P[y] - P[x] >= K
-        int ans = N+1; // N+1 is impossible
-        list<int> monoq; //opt(y) candidates, as indices of P
-
-        for (int y = 0; y < P.size(); ++y) {
-            // Want opt(y) = largest x with P[x] <= P[y] - K;
-            while (!monoq.empty() && P[y] <= P[monoq.back()]) monoq.pop_back();
-            while (!monoq.empty() && P[y] >= P[monoq.front()] + K) {
-                ans = min(ans, y-monoq.front());
+        
+        vector<int> P(A.size() + 1, 0);
+        
+        for (int i = 1; i < P.size(); i++) {
+            P[i] = P[i-1] + A[i-1];
+        }
+        
+        int p = 0;
+        int shortLen = P.size();
+        list<int> monoq;
+        
+        for (int i = 0; i < P.size(); i++) {
+            
+            while (!monoq.empty() && P[monoq.back()] >= P[i]) monoq.pop_back();
+            while (!monoq.empty() && P[i] - K >= P[monoq.front()]) {
+                shortLen = min(shortLen, i - monoq.front());
                 monoq.pop_front();
             }
-
-            monoq.push_back(y);
+            monoq.push_back(i);
         }
-
-        return ans < N+1 ? ans : -1;
+        
+        return shortLen == P.size() ? -1: shortLen;
     }
 };
