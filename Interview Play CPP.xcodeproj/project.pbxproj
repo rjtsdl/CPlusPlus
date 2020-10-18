@@ -108,6 +108,8 @@
 		8D5F0C1D253CB70A0020B53D /* a858MirrorReflection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */; };
 		8D5F0C20253CDABE0020B53D /* a859BuddyStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */; };
 		8D5F0C23253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */; };
+		8D5F0C26253CF2800020B53D /* a872LeafSimilarTrees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */; };
+		8D5F0C29253CF7770020B53D /* a875KokoEatingBananas.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -540,6 +542,8 @@
 		8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a858MirrorReflection.cpp; sourceTree = "<group>"; };
 		8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a859BuddyStrings.cpp; sourceTree = "<group>"; };
 		8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a865SmallestSubtreewithalltheDeepestNodes.cpp; sourceTree = "<group>"; };
+		8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a872LeafSimilarTrees.cpp; sourceTree = "<group>"; };
+		8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a875KokoEatingBananas.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1314,6 +1318,8 @@
 				8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */,
 				8D5F0C1F253CDABE0020B53D /* a859BuddyStrings.cpp */,
 				8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */,
+				8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */,
+				8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1456,6 +1462,7 @@
 				EE2989B424E707B800689908 /* a981TimeBasedKeyValueStore.cpp in Sources */,
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
+				8D5F0C26253CF2800020B53D /* a872LeafSimilarTrees.cpp in Sources */,
 				EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */,
 				EE7D5BA323DBBD1A0057DA4E /* a253MeetingRoomsII.cpp in Sources */,
 				EEC298C324FB5A410047CBFA /* a945MinimumIncrementtoMakeArrayUnique.cpp in Sources */,
@@ -1701,6 +1708,7 @@
 				EE4DC6A823C19A1C00CA0414 /* a360SortTransformedArray.cpp in Sources */,
 				8D5F0C0B253BC0390020B53D /* a847ShortestPathVisitingAllNodes.cpp in Sources */,
 				EEBD73B324ED94E200FDB30B /* a1428LeftmostColumnWithAtLeastAOne.cpp in Sources */,
+				8D5F0C29253CF7770020B53D /* a875KokoEatingBananas.cpp in Sources */,
 				EE2989C224E7A6A200689908 /* a759EmployeeFreeTime.cpp in Sources */,
 				8D9DD4E1251C660E00B56812 /* a1101TheEarliestMomentWhenEveryoneBecomeFriends.cpp in Sources */,
 				EE2989D224E8F68900689908 /* a1152AnalyzeUserWebsiteVisitPattern.cpp in Sources */,
