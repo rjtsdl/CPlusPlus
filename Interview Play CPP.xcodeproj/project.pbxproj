@@ -105,6 +105,7 @@
 		8D5F0C14253C05040020B53D /* a848ShiftingLetters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */; };
 		8D5F0C17253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */; };
 		8D5F0C1A253C9ACB0020B53D /* a855ExamRoom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */; };
+		8D5F0C1D253CB70A0020B53D /* a858MirrorReflection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -534,6 +535,7 @@
 		8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a848ShiftingLetters.cpp; sourceTree = "<group>"; };
 		8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a852PeakIndexinaMountainArray.cpp; sourceTree = "<group>"; };
 		8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a855ExamRoom.cpp; sourceTree = "<group>"; };
+		8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a858MirrorReflection.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1305,6 +1307,7 @@
 				8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */,
 				8D5F0C16253C99DE0020B53D /* a852PeakIndexinaMountainArray.cpp */,
 				8D5F0C19253C9ACB0020B53D /* a855ExamRoom.cpp */,
+				8D5F0C1C253CB70A0020B53D /* a858MirrorReflection.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1459,6 +1462,7 @@
 				EEBA0DA824FCBDF3002A8CCB /* a1027LongestArithmeticSubsequence.cpp in Sources */,
 				EEDCE8B524F5B908008F92E4 /* a722RemoveComments.cpp in Sources */,
 				EEAB69AD25056FCD00E9E59C /* a864ShortestPathtoGetAllKeys.cpp in Sources */,
+				8D5F0C1D253CB70A0020B53D /* a858MirrorReflection.cpp in Sources */,
 				8DE3DC021CE57659000F41AD /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				EEC298A724F8D0D80047CBFA /* a616AddBoldTagInString.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
