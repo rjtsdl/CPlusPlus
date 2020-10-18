@@ -101,6 +101,8 @@
 		8D5F0C08253A57DB0020B53D /* a824GoatLatin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C07253A57DB0020B53D /* a824GoatLatin.cpp */; };
 		8D5F0C0B253BC0390020B53D /* a847ShortestPathVisitingAllNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C0A253BC0390020B53D /* a847ShortestPathVisitingAllNodes.cpp */; };
 		8D5F0C0E253BC4190020B53D /* a827MakingALargeIsland.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C0D253BC4190020B53D /* a827MakingALargeIsland.cpp */; };
+		8D5F0C11253BEEBB0020B53D /* a839SimilarStringGroups.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C10253BEEBB0020B53D /* a839SimilarStringGroups.cpp */; };
+		8D5F0C14253C05040020B53D /* a848ShiftingLetters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -526,6 +528,8 @@
 		8D5F0C07253A57DB0020B53D /* a824GoatLatin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a824GoatLatin.cpp; sourceTree = "<group>"; };
 		8D5F0C0A253BC0390020B53D /* a847ShortestPathVisitingAllNodes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a847ShortestPathVisitingAllNodes.cpp; sourceTree = "<group>"; };
 		8D5F0C0D253BC4190020B53D /* a827MakingALargeIsland.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a827MakingALargeIsland.cpp; sourceTree = "<group>"; };
+		8D5F0C10253BEEBB0020B53D /* a839SimilarStringGroups.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a839SimilarStringGroups.cpp; sourceTree = "<group>"; };
+		8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a848ShiftingLetters.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1293,6 +1297,8 @@
 				8D5F0C07253A57DB0020B53D /* a824GoatLatin.cpp */,
 				8D5F0C0A253BC0390020B53D /* a847ShortestPathVisitingAllNodes.cpp */,
 				8D5F0C0D253BC4190020B53D /* a827MakingALargeIsland.cpp */,
+				8D5F0C10253BEEBB0020B53D /* a839SimilarStringGroups.cpp */,
+				8D5F0C13253C05040020B53D /* a848ShiftingLetters.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1460,6 +1466,7 @@
 				53230CAB1C0924FB00C2FBFD /* SearchRotatedSortedArray.cpp in Sources */,
 				EEBD73AF24ED7B8700FDB30B /* a935KnightDialer.cpp in Sources */,
 				EE4B98FB23C7BC9200E1C102 /* a548SplitArraywithEqualSum.cpp in Sources */,
+				8D5F0C14253C05040020B53D /* a848ShiftingLetters.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
 				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
@@ -1779,6 +1786,7 @@
 				A50527471A381E64008779C0 /* WildcardMatching.cpp in Sources */,
 				53C60CDF1BD74D8B00A94474 /* LongestPalindromeSubstring.cpp in Sources */,
 				8D9DD4B12519521300B56812 /* a6514KeysKeyboard.cpp in Sources */,
+				8D5F0C11253BEEBB0020B53D /* a839SimilarStringGroups.cpp in Sources */,
 				EE4DC6A223C1038B00CA0414 /* a509FibonacciNumber.cpp in Sources */,
 				EEAB69D7250740D000E9E59C /* a1088ConfusingNumberII.cpp in Sources */,
 				53F1553E1C5D775000734AA4 /* JumpGameII.cpp in Sources */,
