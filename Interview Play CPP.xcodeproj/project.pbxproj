@@ -110,6 +110,9 @@
 		8D5F0C23253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */; };
 		8D5F0C26253CF2800020B53D /* a872LeafSimilarTrees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */; };
 		8D5F0C29253CF7770020B53D /* a875KokoEatingBananas.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */; };
+		8D5F0C2C253D37E10020B53D /* a884UncommonWordsfromTwoSentences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C2B253D37E10020B53D /* a884UncommonWordsfromTwoSentences.cpp */; };
+		8D5F0C2F253D3AAD0020B53D /* a885SpiralMatrixIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C2E253D3AAD0020B53D /* a885SpiralMatrixIII.cpp */; };
+		8D5F0C32253D3E4D0020B53D /* a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C31253D3E4D0020B53D /* a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -544,6 +547,9 @@
 		8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a865SmallestSubtreewithalltheDeepestNodes.cpp; sourceTree = "<group>"; };
 		8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a872LeafSimilarTrees.cpp; sourceTree = "<group>"; };
 		8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a875KokoEatingBananas.cpp; sourceTree = "<group>"; };
+		8D5F0C2B253D37E10020B53D /* a884UncommonWordsfromTwoSentences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a884UncommonWordsfromTwoSentences.cpp; sourceTree = "<group>"; };
+		8D5F0C2E253D3AAD0020B53D /* a885SpiralMatrixIII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a885SpiralMatrixIII.cpp; sourceTree = "<group>"; };
+		8D5F0C31253D3E4D0020B53D /* a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1320,6 +1326,9 @@
 				8D5F0C22253CE1570020B53D /* a865SmallestSubtreewithalltheDeepestNodes.cpp */,
 				8D5F0C25253CF2800020B53D /* a872LeafSimilarTrees.cpp */,
 				8D5F0C28253CF7770020B53D /* a875KokoEatingBananas.cpp */,
+				8D5F0C2B253D37E10020B53D /* a884UncommonWordsfromTwoSentences.cpp */,
+				8D5F0C2E253D3AAD0020B53D /* a885SpiralMatrixIII.cpp */,
+				8D5F0C31253D3E4D0020B53D /* a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1548,6 +1557,7 @@
 				EEBD739B24EC2DB200FDB30B /* a155MinStack.cpp in Sources */,
 				EEDCE8BD24F5CF66008F92E4 /* a836RectangleOverlap.cpp in Sources */,
 				8DA96C7F1CDE9D9000348A5E /* LengthOfLastWord.cpp in Sources */,
+				8D5F0C32253D3E4D0020B53D /* a889ConstructBinaryTreefromPreorderandPostorderTraversal.cpp in Sources */,
 				53FD3CE81BE6CB9A008B7BAD /* MyAtoi.cpp in Sources */,
 				EEC298B324F9C8A60047CBFA /* a1329SortTheMatrixDiagonally.cpp in Sources */,
 				8D9DD4782516FE9000B56812 /* a422ValidWordSquare.cpp in Sources */,
@@ -1643,6 +1653,7 @@
 				EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */,
 				8D9DD4C02519BE1800B56812 /* a750NumberOfCornerRectangles.cpp in Sources */,
 				EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */,
+				8D5F0C2C253D37E10020B53D /* a884UncommonWordsfromTwoSentences.cpp in Sources */,
 				EEBA0DC72500B1F3002A8CCB /* a1092ShortestCommonSupersequence.cpp in Sources */,
 				EEBD73A724EC5A7300FDB30B /* a123BestTimeToBuyAndSellStockIII.cpp in Sources */,
 				EE2989B824E7112800689908 /* a1206DesignSkiplist.cpp in Sources */,
@@ -1720,6 +1731,7 @@
 				EEBA0DB124FCC55F002A8CCB /* a427ConstructQuadTree.cpp in Sources */,
 				8D9DD4872517211D00B56812 /* a487MaxConsecutiveOnesII.cpp in Sources */,
 				538CF2141C55C04B00318D97 /* MultiplyStrings.cpp in Sources */,
+				8D5F0C2F253D3AAD0020B53D /* a885SpiralMatrixIII.cpp in Sources */,
 				8D9DD4C3251A974200B56812 /* a774MinimizeMaxDistancetoGasStation.cpp in Sources */,
 				8D5F0BD92537A89A0020B53D /* a408ValidWordAbbreviation.cpp in Sources */,
 				538CF2121C55BC9B00318D97 /* TrapRainWater.cpp in Sources */,
