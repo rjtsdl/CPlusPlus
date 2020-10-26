@@ -116,6 +116,10 @@
 		8D5F0C35253F3CAC0020B53D /* a895MaximumFrequencyStack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C34253F3CAC0020B53D /* a895MaximumFrequencyStack.cpp */; };
 		8D5F0C38253F3FF20020B53D /* a1051HeightChecker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C37253F3FF20020B53D /* a1051HeightChecker.cpp */; };
 		8D5F0C3B253F41820020B53D /* a920NumberofMusicPlaylists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C3A253F41820020B53D /* a920NumberofMusicPlaylists.cpp */; };
+		8D5F0C3E254348040020B53D /* a893GroupsofSpecialEquivalentStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5F0C3D254348040020B53D /* a893GroupsofSpecialEquivalentStrings.cpp */; };
+		8D70C19025434AEF004ACA36 /* a905SortArrayByParity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */; };
+		8D72CFFC254752D200B80179 /* a469ConvexPolygon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */; };
+		8D72CFFF254755D700B80179 /* a470ImplementRand10UsingRand7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -556,6 +560,10 @@
 		8D5F0C34253F3CAC0020B53D /* a895MaximumFrequencyStack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a895MaximumFrequencyStack.cpp; sourceTree = "<group>"; };
 		8D5F0C37253F3FF20020B53D /* a1051HeightChecker.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1051HeightChecker.cpp; sourceTree = "<group>"; };
 		8D5F0C3A253F41820020B53D /* a920NumberofMusicPlaylists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a920NumberofMusicPlaylists.cpp; sourceTree = "<group>"; };
+		8D5F0C3D254348040020B53D /* a893GroupsofSpecialEquivalentStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a893GroupsofSpecialEquivalentStrings.cpp; sourceTree = "<group>"; };
+		8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a905SortArrayByParity.cpp; sourceTree = "<group>"; };
+		8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a469ConvexPolygon.cpp; sourceTree = "<group>"; };
+		8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a470ImplementRand10UsingRand7.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1338,6 +1346,10 @@
 				8D5F0C34253F3CAC0020B53D /* a895MaximumFrequencyStack.cpp */,
 				8D5F0C37253F3FF20020B53D /* a1051HeightChecker.cpp */,
 				8D5F0C3A253F41820020B53D /* a920NumberofMusicPlaylists.cpp */,
+				8D5F0C3D254348040020B53D /* a893GroupsofSpecialEquivalentStrings.cpp */,
+				8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */,
+				8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */,
+				8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1429,6 +1441,7 @@
 				EE4B990323C7F21400E1C102 /* a643MaximumAverageSubarrayI.cpp in Sources */,
 				EEAB69BB2505E27200E9E59C /* a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.cpp in Sources */,
 				8D9DD4F6251D02B600B56812 /* a1151MinimumSwapstoGroupAll1sTogether.cpp in Sources */,
+				8D5F0C3E254348040020B53D /* a893GroupsofSpecialEquivalentStrings.cpp in Sources */,
 				8D9DD48D2517F48200B56812 /* a471EncodeStringwithShortestLength.cpp in Sources */,
 				8D9DD4CF251A9C8E00B56812 /* a1064FixedPoint.cpp in Sources */,
 				8D5F0C02253A3E6A0020B53D /* a784LetterCasePermutation.cpp in Sources */,
@@ -1588,6 +1601,7 @@
 				EE2989CA24E8808200689908 /* a472ConcatenatedWords.cpp in Sources */,
 				EE2989D624E9C45600689908 /* a1041RobotBoundedInCircle.cpp in Sources */,
 				EE4DC6AE23C1AC0D00CA0414 /* a624MaximumDistanceinArrays.cpp in Sources */,
+				8D72CFFF254755D700B80179 /* a470ImplementRand10UsingRand7.cpp in Sources */,
 				EE4B98FF23C7C76700E1C102 /* a1031MaximumSumofTwoNonOverlappingSubarrays.cpp in Sources */,
 				EE2989D024E8EDFA00689908 /* a735AsteroidCollision.cpp in Sources */,
 				8D5F0C05253A55B70020B53D /* a821ShortestDistancetoaCharacter.cpp in Sources */,
@@ -1609,6 +1623,7 @@
 				EEBD737B24EA500400FDB30B /* a1048LongestStringChain.cpp in Sources */,
 				EEBD737F24EADD9D00FDB30B /* a1235MaximumProfitInJobScheduling.cpp in Sources */,
 				EE94741123E37FEB0095C5CA /* a392IsSubsequence.cpp in Sources */,
+				8D72CFFC254752D200B80179 /* a469ConvexPolygon.cpp in Sources */,
 				8D17CF2625219E7D008EF8C9 /* a1228MissingNumberInArithmeticProgression.cpp in Sources */,
 				EEAB69BF2505E81300E9E59C /* a1071GreatestCommonDivisorofStrings.cpp in Sources */,
 				8D9DD4C9251A9A6300B56812 /* a1059AllPathsfromSourceLeadtoDestination.cpp in Sources */,
@@ -1632,6 +1647,7 @@
 				EEF8B0F123D7822C00723648 /* a493ReversePairs.cpp in Sources */,
 				EEDCE8D124F6E24A008F92E4 /* a1274NumberOfShipsInARectangle.cpp in Sources */,
 				EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */,
+				8D70C19025434AEF004ACA36 /* a905SortArrayByParity.cpp in Sources */,
 				EEC298A924F8D5740047CBFA /* a567PermutationInString.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				8D17CF532524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp in Sources */,
