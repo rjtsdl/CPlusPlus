@@ -120,6 +120,8 @@
 		8D70C19025434AEF004ACA36 /* a905SortArrayByParity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */; };
 		8D72CFFC254752D200B80179 /* a469ConvexPolygon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */; };
 		8D72CFFF254755D700B80179 /* a470ImplementRand10UsingRand7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */; };
+		8D72D0022548C26900B80179 /* a544OutputContestMatches.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */; };
+		8D72D005254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -564,6 +566,8 @@
 		8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a905SortArrayByParity.cpp; sourceTree = "<group>"; };
 		8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a469ConvexPolygon.cpp; sourceTree = "<group>"; };
 		8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a470ImplementRand10UsingRand7.cpp; sourceTree = "<group>"; };
+		8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a544OutputContestMatches.cpp; sourceTree = "<group>"; };
+		8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a524LongestWordinDictionarythroughDeleting.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1350,6 +1354,8 @@
 				8D70C18F25434AEF004ACA36 /* a905SortArrayByParity.cpp */,
 				8D72CFFB254752D200B80179 /* a469ConvexPolygon.cpp */,
 				8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */,
+				8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */,
+				8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1524,6 +1530,7 @@
 				8D5F0C14253C05040020B53D /* a848ShiftingLetters.cpp in Sources */,
 				53F1ABD21C09506800DE7C87 /* SearchForARange.cpp in Sources */,
 				53F0685B1BFE382C0057269A /* MergeKSortedList.cpp in Sources */,
+				8D72D0022548C26900B80179 /* a544OutputContestMatches.cpp in Sources */,
 				EEAB69AF25057B3E00E9E59C /* a514FreedomTrail.cpp in Sources */,
 				EEAB69D12506F71F00E9E59C /* a333LargestBSTSubtree.cpp in Sources */,
 				8D5F0BEF2538B6EE0020B53D /* a701InsertintoaBinarySearchTree.cpp in Sources */,
@@ -1555,6 +1562,7 @@
 				EEBD739324EB8F7700FDB30B /* a957PrisonCellsAfterNDays.cpp in Sources */,
 				EEBD73B124ED872F00FDB30B /* a1163LastSubstringInLexicographicalOrder.cpp in Sources */,
 				538CF2101C55748A00318D97 /* FirstMissingPositive.cpp in Sources */,
+				8D72D005254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp in Sources */,
 				8D5F0BE62538ABCC0020B53D /* a676ImplementMagicDictionary.cpp in Sources */,
 				EEAB69B92505E02600E9E59C /* a777SwapAdjacentinLRString.cpp in Sources */,
 				8D9DD4D8251BDCC700B56812 /* a1087BraceExpansion.cpp in Sources */,
