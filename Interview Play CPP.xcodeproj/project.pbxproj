@@ -122,6 +122,8 @@
 		8D72CFFF254755D700B80179 /* a470ImplementRand10UsingRand7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */; };
 		8D72D0022548C26900B80179 /* a544OutputContestMatches.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */; };
 		8D72D005254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */; };
+		8D72D0082550664200B80179 /* a555SplitConcatenatedStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D0072550664200B80179 /* a555SplitConcatenatedStrings.cpp */; };
+		8D72D00B25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D00A25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -568,6 +570,8 @@
 		8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a470ImplementRand10UsingRand7.cpp; sourceTree = "<group>"; };
 		8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a544OutputContestMatches.cpp; sourceTree = "<group>"; };
 		8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a524LongestWordinDictionarythroughDeleting.cpp; sourceTree = "<group>"; };
+		8D72D0072550664200B80179 /* a555SplitConcatenatedStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a555SplitConcatenatedStrings.cpp; sourceTree = "<group>"; };
+		8D72D00A25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1356,6 +1360,8 @@
 				8D72CFFE254755D700B80179 /* a470ImplementRand10UsingRand7.cpp */,
 				8D72D0012548C26900B80179 /* a544OutputContestMatches.cpp */,
 				8D72D004254C87FA00B80179 /* a524LongestWordinDictionarythroughDeleting.cpp */,
+				8D72D0072550664200B80179 /* a555SplitConcatenatedStrings.cpp */,
+				8D72D00A25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1579,6 +1585,7 @@
 				EEBD739F24EC3D3E00FDB30B /* a727MinimumWindowSubsequence.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
 				EEAB69D52506FEB800E9E59C /* a323NumberofConnectedComponentsinanUndirectedGraph.cpp in Sources */,
+				8D72D0082550664200B80179 /* a555SplitConcatenatedStrings.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
 				8D5F0BF62539FDAB0020B53D /* a745PrefixandSuffixSearch.cpp in Sources */,
 				8D17CF472524E8FB008EF8C9 /* a1506FindRootofNAryTree.cpp in Sources */,
@@ -1623,6 +1630,7 @@
 				8D17CF322523A551008EF8C9 /* a1272RemoveInterval.cpp in Sources */,
 				8D9DD46F2515B23300B56812 /* InfraConcordance.cpp in Sources */,
 				EEBA0DCD2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp in Sources */,
+				8D72D00B25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp in Sources */,
 				EEBA0DC32500ADEE002A8CCB /* a1035UncrossedLines.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
