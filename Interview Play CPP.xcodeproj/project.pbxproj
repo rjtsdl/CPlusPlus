@@ -125,6 +125,8 @@
 		8D72D0082550664200B80179 /* a555SplitConcatenatedStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D0072550664200B80179 /* a555SplitConcatenatedStrings.cpp */; };
 		8D72D00B25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D00A25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp */; };
 		8D72D00E2550763400B80179 /* a1642FurthestBuildingYouCanReach.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D72D00D2550763400B80179 /* a1642FurthestBuildingYouCanReach.cpp */; };
+		8D9307C5255B005000A25D04 /* a412FizzBuzz.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9307C4255B005000A25D04 /* a412FizzBuzz.cpp */; };
+		8D9307C8255B01CD00A25D04 /* a460LFUCache.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9307C7255B01CD00A25D04 /* a460LFUCache.cpp */; };
 		8D94CC1F1CD9B6ED00DE3132 /* MergeInterval.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
@@ -581,6 +583,8 @@
 		8D72D0072550664200B80179 /* a555SplitConcatenatedStrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a555SplitConcatenatedStrings.cpp; sourceTree = "<group>"; };
 		8D72D00A25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp; sourceTree = "<group>"; };
 		8D72D00D2550763400B80179 /* a1642FurthestBuildingYouCanReach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1642FurthestBuildingYouCanReach.cpp; sourceTree = "<group>"; };
+		8D9307C4255B005000A25D04 /* a412FizzBuzz.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a412FizzBuzz.cpp; sourceTree = "<group>"; };
+		8D9307C7255B01CD00A25D04 /* a460LFUCache.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a460LFUCache.cpp; sourceTree = "<group>"; };
 		8D94CC1E1CD9B6ED00DE3132 /* MergeInterval.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeInterval.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
@@ -1385,6 +1389,8 @@
 				8DA575A42550C28B00ADF392 /* a589NaryTreePreorderTraversal.cpp */,
 				8DA575A72550C36200ADF392 /* a590NaryTreePostorderTraversal.cpp */,
 				8DA575AA25530F7700ADF392 /* a587ErecttheFence.cpp */,
+				8D9307C4255B005000A25D04 /* a412FizzBuzz.cpp */,
+				8D9307C7255B01CD00A25D04 /* a460LFUCache.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1552,6 +1558,7 @@
 				EEDCE8C924F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				EEC298B724FA156B0047CBFA /* a834SumOfDistancesInTree.cpp in Sources */,
+				8D9307C5255B005000A25D04 /* a412FizzBuzz.cpp in Sources */,
 				EEAB69B32505838100E9E59C /* a1314MatrixBlockSum.cpp in Sources */,
 				EEF87B9824F06B9C00475D72 /* a909SnakesAndLadders.cpp in Sources */,
 				EEBD73B924EEECD300FDB30B /* a934ShortestBridge.cpp in Sources */,
@@ -1763,6 +1770,7 @@
 				EE465F5A23C9431F00769C6D /* a978LongestTurbulentSubarray.cpp in Sources */,
 				8D5809821CDFE3F6007FB2EB /* UniquePaths.cpp in Sources */,
 				8D9DD50B251E715F00B56812 /* a1198FindSmallestCommonElementinAllRows.cpp in Sources */,
+				8D9307C8255B01CD00A25D04 /* a460LFUCache.cpp in Sources */,
 				EEAB69A92505504D00E9E59C /* a1223DicePollSimulation.cpp in Sources */,
 				EEDCE8C324F62811008F92E4 /* a1244DesignALeaderboard.cpp in Sources */,
 				8D2DEA92252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp in Sources */,
