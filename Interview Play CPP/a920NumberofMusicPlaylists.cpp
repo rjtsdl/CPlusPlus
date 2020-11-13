@@ -7,7 +7,9 @@
 //
 
 #include <stdio.h>
+#include <algorithm>
 
+using namespace std;
 class Solution {
     const int MOD = 1000000007;
 public:

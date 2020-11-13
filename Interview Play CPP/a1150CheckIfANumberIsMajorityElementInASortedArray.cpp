@@ -14,14 +14,8 @@ using namespace std;
 class Solution {
 public:
     bool isMajorityElement(vector<int>& nums, int target) {
-        // we only have to check if the mid element is majority or not
-        
-        int val = target;
-        
-        auto lb = lower_bound(nums.begin(), nums.end(), val);
-        auto ub = upper_bound(nums.begin(), nums.end(), val+1);
-        
-        
+        auto lb = lower_bound(nums.begin(), nums.end(), target);
+        auto ub = upper_bound(nums.begin(), nums.end(), target);
         return (int)(ub - lb) > nums.size()/2;
     }
 };

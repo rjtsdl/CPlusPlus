@@ -8,6 +8,7 @@
 
 #include <stdio.h>
 #include <map>
+#include <stack>
 
 using namespace std;
 
