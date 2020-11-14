@@ -19,7 +19,7 @@ public:
         unordered_map<string, int> theMap;
         
         for (string& str : strs) {
-            string key = getTheKey(str);
+            string key = getTheCountKey(str);
             auto iter = theMap.find(key);
             if (iter == theMap.end()) {
                 //No such one yet;
@@ -39,11 +39,26 @@ public:
         return ret;
     }
     
-    string getTheKey(const string str)
-    {
+    string getTheKey(const string str) {
         string ret = str;
         sort(ret.begin(), ret.end());
         return ret;
+    }
+    
+    string getTheCountKey(const string str) {
+        vector<int> ca(26, 0);
+        for (char c: str) {
+            ca[c-'a']++;
+        }
+        
+        string ret = "";
+        
+        for (int i : ca) {
+            ret += to_string(i) + "#";
+        }
+        
+        return ret;
+        
     }
 };
 /*

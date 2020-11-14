@@ -14,22 +14,16 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int globalTotal = INT_MIN;
-        int globalI = 0, globalJ = 0;
         int subTotal = 0;
-        int i =0 , j = 0;
-        while (i <= j && j < nums.size()) {
+        int j = 0;
+        while (j < nums.size()) {
             subTotal += nums[j];
             ++j;
             if (subTotal > globalTotal) {
                 globalTotal = subTotal;
-                globalI = i;
-                globalJ = j;
             }
             
-            if (subTotal <= 0) {
-                i = j;
-                subTotal = 0;
-            }
+            subTotal = max(subTotal, 0);
         }
         return globalTotal;
     }
