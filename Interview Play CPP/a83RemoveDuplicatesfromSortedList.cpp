@@ -7,6 +7,9 @@
 //
 
 #include <stdio.h>
+#include <functional>
+
+using namespace std;
 
 /**
  * Definition for singly-linked list.*/
@@ -19,19 +22,12 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        
-        if (head == nullptr) {
-            return nullptr;
-        }
-        
         ListNode* cur = head;
         
-        while (cur->next!= nullptr) {
-            if (cur->val == cur->next->val) {
+        while (cur != nullptr) {
+            if (cur->next != nullptr && cur->val == cur->next->val) {
                 cur->next = cur->next->next;
-            }
-            else
-            {
+            } else {
                 cur = cur->next;
             }
         }
