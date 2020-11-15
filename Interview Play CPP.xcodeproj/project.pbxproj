@@ -140,6 +140,8 @@
 		8D9307FD255FB22E00A25D04 /* a76MinimumWindowSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9307FC255FB22E00A25D04 /* a76MinimumWindowSubstring.cpp */; };
 		8D9308022560875500A25D04 /* a98ValidateBinarySearchTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308012560875500A25D04 /* a98ValidateBinarySearchTree.cpp */; };
 		8D93080525608A3600A25D04 /* a105ConstructBinaryTreefromPreorderandInorderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93080425608A3600A25D04 /* a105ConstructBinaryTreefromPreorderandInorderTraversal.cpp */; };
+		8D9308082560F29C00A25D04 /* a127WordLadder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308072560F29C00A25D04 /* a127WordLadder.cpp */; };
+		8D93080B2560F91500A25D04 /* a135Candy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93080A2560F91500A25D04 /* a135Candy.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
 		8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */; };
@@ -266,7 +268,7 @@
 		EE63CB8E23D90DE6002265AB /* a169MajorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */; };
 		EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */; };
 		EE7D5B9223DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */; };
-		EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */; };
+		EE7D5B9423DA486F0057DA4E /* a723CandyCrush.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9323DA486F0057DA4E /* a723CandyCrush.cpp */; };
 		EE7D5B9723DA60CE0057DA4E /* a896MonotonicArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */; };
 		EE7D5B9923DA62BE0057DA4E /* a755PourWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */; };
 		EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */; };
@@ -610,6 +612,8 @@
 		8D9307FC255FB22E00A25D04 /* a76MinimumWindowSubstring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a76MinimumWindowSubstring.cpp; sourceTree = "<group>"; };
 		8D9308012560875500A25D04 /* a98ValidateBinarySearchTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a98ValidateBinarySearchTree.cpp; sourceTree = "<group>"; };
 		8D93080425608A3600A25D04 /* a105ConstructBinaryTreefromPreorderandInorderTraversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a105ConstructBinaryTreefromPreorderandInorderTraversal.cpp; sourceTree = "<group>"; };
+		8D9308072560F29C00A25D04 /* a127WordLadder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a127WordLadder.cpp; sourceTree = "<group>"; };
+		8D93080A2560F91500A25D04 /* a135Candy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a135Candy.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
 		8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a291WordPatternII.cpp; sourceTree = "<group>"; };
@@ -737,7 +741,7 @@
 		EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a169MajorityElement.cpp; sourceTree = "<group>"; };
 		EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a229MajorityElementII.cpp; sourceTree = "<group>"; };
 		EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a719FindKthSmallestPairDistance.cpp; sourceTree = "<group>"; };
-		EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "a723Candy Crush.cpp"; sourceTree = "<group>"; };
+		EE7D5B9323DA486F0057DA4E /* a723CandyCrush.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a723CandyCrush.cpp; sourceTree = "<group>"; };
 		EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a896MonotonicArray.cpp; sourceTree = "<group>"; };
 		EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a755PourWater.cpp; sourceTree = "<group>"; };
 		EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a729MyCalendarI.cpp; sourceTree = "<group>"; };
@@ -1060,7 +1064,7 @@
 				EE63CB8D23D90DE6002265AB /* a169MajorityElement.cpp */,
 				EE63CB8F23D91021002265AB /* a229MajorityElementII.cpp */,
 				EE7D5B9123DA2A7A0057DA4E /* a719FindKthSmallestPairDistance.cpp */,
-				EE7D5B9323DA486F0057DA4E /* a723Candy Crush.cpp */,
+				EE7D5B9323DA486F0057DA4E /* a723CandyCrush.cpp */,
 				EE7D5B9623DA60CE0057DA4E /* a896MonotonicArray.cpp */,
 				EE7D5B9823DA62BE0057DA4E /* a755PourWater.cpp */,
 				EE7D5B9A23DB99B30057DA4E /* a729MyCalendarI.cpp */,
@@ -1427,6 +1431,8 @@
 				8D9307FC255FB22E00A25D04 /* a76MinimumWindowSubstring.cpp */,
 				8D9308012560875500A25D04 /* a98ValidateBinarySearchTree.cpp */,
 				8D93080425608A3600A25D04 /* a105ConstructBinaryTreefromPreorderandInorderTraversal.cpp */,
+				8D9308072560F29C00A25D04 /* a127WordLadder.cpp */,
+				8D93080A2560F91500A25D04 /* a135Candy.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1626,6 +1632,7 @@
 				8D9DD4BD2519B89100B56812 /* a742ClosestLeafinaBinaryTree.cpp in Sources */,
 				EE94740F23E379C50095C5CA /* a792NumberofMatchingSubsequences.cpp in Sources */,
 				EE465F5823C93E5A00769C6D /* a1243ArrayTransformation.cpp in Sources */,
+				8D93080B2560F91500A25D04 /* a135Candy.cpp in Sources */,
 				8D5F0C35253F3CAC0020B53D /* a895MaximumFrequencyStack.cpp in Sources */,
 				8D9DD4F9251D05DB00B56812 /* a1165SingleRowKeyboard.cpp in Sources */,
 				8D17CF442524E794008EF8C9 /* a1490CloneNaryTree.cpp in Sources */,
@@ -1633,6 +1640,7 @@
 				8D5F0C20253CDABE0020B53D /* a859BuddyStrings.cpp in Sources */,
 				8DA575A22550AEB800ADF392 /* a576OutofBoundaryPaths.cpp in Sources */,
 				EEBA0DCB2500B664002A8CCB /* a1458MaxDotProductofTwoSubsequences.cpp in Sources */,
+				8D9308082560F29C00A25D04 /* a127WordLadder.cpp in Sources */,
 				EE53162124E1F4030061EED3 /* a1424DiagonalTraverseII.cpp in Sources */,
 				53EF9B0C1BFD1564009E693A /* a20ValidParentheses.cpp in Sources */,
 				EEC2989F24F8577A0047CBFA /* a622DesignCircularQueue.cpp in Sources */,
@@ -1823,7 +1831,7 @@
 				8D2DEA92252F75F200C7FDBE /* a1138AlphabetBoardPath.cpp in Sources */,
 				53230CA91C091BC800C2FBFD /* LongestValidParantheses.cpp in Sources */,
 				8D9DD4CC251A9BCA00B56812 /* a1061LexicographicallySmallestEquivalentString.cpp in Sources */,
-				EE7D5B9423DA486F0057DA4E /* a723Candy Crush.cpp in Sources */,
+				EE7D5B9423DA486F0057DA4E /* a723CandyCrush.cpp in Sources */,
 				EE7D5BA723DBBF490057DA4E /* a732MyCalendarIII.cpp in Sources */,
 				8D5F0BD32537A3CD0020B53D /* a554BrickWall.cpp in Sources */,
 				EEAB69DD250746C100E9E59C /* a1245TreeDiameter.cpp in Sources */,
