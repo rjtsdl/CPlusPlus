@@ -152,6 +152,8 @@
 		8D9308232563754000A25D04 /* a212WordSearchII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308222563754000A25D04 /* a212WordSearchII.cpp */; };
 		8D930826256384B500A25D04 /* a215KthLargestElementinanArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */; };
 		8D9308292563864E00A25D04 /* a218TheSkylineProblem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */; };
+		8D93082C2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */; };
+		8D93082F256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
 		8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */; };
@@ -634,6 +636,8 @@
 		8D9308222563754000A25D04 /* a212WordSearchII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a212WordSearchII.cpp; sourceTree = "<group>"; };
 		8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a215KthLargestElementinanArray.cpp; sourceTree = "<group>"; };
 		8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a218TheSkylineProblem.cpp; sourceTree = "<group>"; };
+		8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a232ImplementQueueusingStacks.cpp; sourceTree = "<group>"; };
+		8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a236LowestCommonAncestorofaBinaryTree.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
 		8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a291WordPatternII.cpp; sourceTree = "<group>"; };
@@ -1463,6 +1467,8 @@
 				8D9308222563754000A25D04 /* a212WordSearchII.cpp */,
 				8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */,
 				8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */,
+				8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */,
+				8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1658,6 +1664,7 @@
 				EEAB69C12505EB0900E9E59C /* a1388PizzaWith3nSlices.cpp in Sources */,
 				EEDCE8CD24F6C81D008F92E4 /* a658FindKClosestElements.cpp in Sources */,
 				8DA5759C2550A29000ADF392 /* a573SquirrelSimulation.cpp in Sources */,
+				8D93082C2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp in Sources */,
 				8D17CF1D25213550008EF8C9 /* a1199MinimumTimetoBuildBlocks.cpp in Sources */,
 				EEF87BA424F43EB000475D72 /* a1326MinimumNumberOfTapsToOpenAGarden.cpp in Sources */,
 				EEC298AB24F8D6A50047CBFA /* a1268SearchSuggestionsSystem.cpp in Sources */,
@@ -1790,6 +1797,7 @@
 				EEC298A924F8D5740047CBFA /* a567PermutationInString.cpp in Sources */,
 				A5C4C1EF1A3517F900896CCD /* FindPeakElement.cpp in Sources */,
 				8D17CF532524ED3C008EF8C9 /* a1564PutBoxesIntotheWarehouseI.cpp in Sources */,
+				8D93082F256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp in Sources */,
 				EEDCE8D924F715A8008F92E4 /* a939MinimumAreaRectangle.cpp in Sources */,
 				EEDCE8B124F4DA03008F92E4 /* a907SumOfSubarrayMin.cpp in Sources */,
 				EE2989BA24E72C8E00689908 /* a588DesignInMemoryFileSystem.cpp in Sources */,
