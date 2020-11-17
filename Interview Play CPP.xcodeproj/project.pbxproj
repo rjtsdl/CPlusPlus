@@ -147,6 +147,11 @@
 		8D9308142561E22200A25D04 /* a153FindMinimuminRotatedSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308132561E22200A25D04 /* a153FindMinimuminRotatedSortedArray.cpp */; };
 		8D9308172561E79C00A25D04 /* a179LargestNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308162561E79C00A25D04 /* a179LargestNumber.cpp */; };
 		8D93081A2561E9A800A25D04 /* a200NumberofIslands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308192561E9A800A25D04 /* a200NumberofIslands.cpp */; };
+		8D93081D2562DFCA00A25D04 /* a207CourseSchedule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93081C2562DFCA00A25D04 /* a207CourseSchedule.cpp */; };
+		8D9308202563712D00A25D04 /* a211DesignAddandSearchWordsDataStructure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93081F2563712D00A25D04 /* a211DesignAddandSearchWordsDataStructure.cpp */; };
+		8D9308232563754000A25D04 /* a212WordSearchII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308222563754000A25D04 /* a212WordSearchII.cpp */; };
+		8D930826256384B500A25D04 /* a215KthLargestElementinanArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */; };
+		8D9308292563864E00A25D04 /* a218TheSkylineProblem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
 		8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */; };
@@ -624,6 +629,11 @@
 		8D9308132561E22200A25D04 /* a153FindMinimuminRotatedSortedArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a153FindMinimuminRotatedSortedArray.cpp; sourceTree = "<group>"; };
 		8D9308162561E79C00A25D04 /* a179LargestNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a179LargestNumber.cpp; sourceTree = "<group>"; };
 		8D9308192561E9A800A25D04 /* a200NumberofIslands.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a200NumberofIslands.cpp; sourceTree = "<group>"; };
+		8D93081C2562DFCA00A25D04 /* a207CourseSchedule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a207CourseSchedule.cpp; sourceTree = "<group>"; };
+		8D93081F2563712D00A25D04 /* a211DesignAddandSearchWordsDataStructure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a211DesignAddandSearchWordsDataStructure.cpp; sourceTree = "<group>"; };
+		8D9308222563754000A25D04 /* a212WordSearchII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a212WordSearchII.cpp; sourceTree = "<group>"; };
+		8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a215KthLargestElementinanArray.cpp; sourceTree = "<group>"; };
+		8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a218TheSkylineProblem.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
 		8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a291WordPatternII.cpp; sourceTree = "<group>"; };
@@ -1448,6 +1458,11 @@
 				8D9308132561E22200A25D04 /* a153FindMinimuminRotatedSortedArray.cpp */,
 				8D9308162561E79C00A25D04 /* a179LargestNumber.cpp */,
 				8D9308192561E9A800A25D04 /* a200NumberofIslands.cpp */,
+				8D93081C2562DFCA00A25D04 /* a207CourseSchedule.cpp */,
+				8D93081F2563712D00A25D04 /* a211DesignAddandSearchWordsDataStructure.cpp */,
+				8D9308222563754000A25D04 /* a212WordSearchII.cpp */,
+				8D930825256384B500A25D04 /* a215KthLargestElementinanArray.cpp */,
+				8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1557,6 +1572,7 @@
 				EEBD73B524EDDF6300FDB30B /* a946ValidateStackSequence.cpp in Sources */,
 				EE63CB9023D91021002265AB /* a229MajorityElementII.cpp in Sources */,
 				EEBA0DBF24FEE268002A8CCB /* a787CheapestFlightsWithinKStops.cpp in Sources */,
+				8D93081D2562DFCA00A25D04 /* a207CourseSchedule.cpp in Sources */,
 				EE94741523E3943A0095C5CA /* a795NumberofSubarrayswithBoundedMaximum.cpp in Sources */,
 				EEAB699F2503E9D300E9E59C /* a516LongestPalindromicSubsequence.cpp in Sources */,
 				8D5F0C08253A57DB0020B53D /* a824GoatLatin.cpp in Sources */,
@@ -1565,6 +1581,7 @@
 				EE7D5B9B23DB99B30057DA4E /* a729MyCalendarI.cpp in Sources */,
 				8D5F0BE92538ADDE0020B53D /* a704BinarySearch.cpp in Sources */,
 				8D9307D7255C5BAD00A25D04 /* a692TopKFrequentWords.cpp in Sources */,
+				8D9308292563864E00A25D04 /* a218TheSkylineProblem.cpp in Sources */,
 				8D17CF292521A057008EF8C9 /* a1231DivideChocolate.cpp in Sources */,
 				EE8B6E7B23C537A300D67591 /* a533LonelyPixelII.cpp in Sources */,
 				8D5F0BFF253A36950020B53D /* a778SwiminRisingWater.cpp in Sources */,
@@ -1599,6 +1616,7 @@
 				EE4DC6B423C2AA0100CA0414 /* a971FlipBinaryTreeToMatchPreorderTraversal.cpp in Sources */,
 				EE4B990123C7D50700E1C102 /* a644MaximumAverageSubarrayII.cpp in Sources */,
 				8D5F0C3B253F41820020B53D /* a920NumberofMusicPlaylists.cpp in Sources */,
+				8D9308202563712D00A25D04 /* a211DesignAddandSearchWordsDataStructure.cpp in Sources */,
 				8D9308172561E79C00A25D04 /* a179LargestNumber.cpp in Sources */,
 				8D5F0C26253CF2800020B53D /* a872LeafSimilarTrees.cpp in Sources */,
 				EEBA0DA624FC496D002A8CCB /* a592FractionAdditionAndSubtraction.cpp in Sources */,
@@ -1934,6 +1952,7 @@
 				8D17CF4D2524EAC3008EF8C9 /* a1533FindtheIndexoftheLargeInteger.cpp in Sources */,
 				EE2989B624E70D8A00689908 /* a706DesignHashMap.cpp in Sources */,
 				EEBD739D24EC319A00FDB30B /* a1130MinimumCostTreeFromLeafValues.cpp in Sources */,
+				8D9308232563754000A25D04 /* a212WordSearchII.cpp in Sources */,
 				EE7D5B9F23DBBB9A0057DA4E /* a57InsertInterval.cpp in Sources */,
 				8D9DD505251E6CEE00B56812 /* a1183MaximumNumberofOnes.cpp in Sources */,
 				8D5F0BF22538B9840020B53D /* a641DesignCircularDeque.cpp in Sources */,
@@ -1965,6 +1984,7 @@
 				EEDCE8E924F77F98008F92E4 /* a1240TilingARectangleWithTheFewestSquares.cpp in Sources */,
 				EEBD73A524EC536F00FDB30B /* a930BinarySubarraysWithSum.cpp in Sources */,
 				8D9DD4B4251957F500B56812 /* a656CoinPath.cpp in Sources */,
+				8D930826256384B500A25D04 /* a215KthLargestElementinanArray.cpp in Sources */,
 				8D9DD49F25186E0700B56812 /* a582KillProcess.cpp in Sources */,
 				EE9473FF23E20DC40095C5CA /* a152MaximumProductSubarray.cpp in Sources */,
 				EE453B2924E4684100887BA7 /* a953VerifyingAnAlienDictionary.cpp in Sources */,
