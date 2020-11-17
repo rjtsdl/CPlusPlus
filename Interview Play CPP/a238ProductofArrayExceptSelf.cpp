@@ -14,26 +14,18 @@ using namespace std;
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int size = nums.size();
-        vector<int> leftProduct(size, 1);
-        vector<int> rightProduct(size, 1);
-        for(int i = 1; i< size; i++)
-        {
-            leftProduct[i] = leftProduct[i-1] * nums[i-1];
-        }
-        for (int i = size-2; i>=0; i--)
-        {
-            rightProduct[i] = rightProduct[i+1] * nums[i+1];
+        int n = nums.size();
+        vector<int> ret(n, 1);
+        for (int i =1; i < n; i ++) {
+            ret[i] = ret[i-1] * nums[i-1];
         }
         
-        vector<int> ret(size);
-        
-        for(int i = 0; i< size; i++)
-        {
-            ret[i] = leftProduct[i] * rightProduct[i];
+        int right = 1;
+        for (int i = n-2; i>=0; i--) {
+            ret[i] *= right * nums[i+1];
+            right *= nums[i+1];
         }
         
         return ret;
-        
     }
 };

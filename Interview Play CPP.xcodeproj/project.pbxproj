@@ -154,6 +154,9 @@
 		8D9308292563864E00A25D04 /* a218TheSkylineProblem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */; };
 		8D93082C2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */; };
 		8D93082F256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */; };
+		8D9308322564870D00A25D04 /* a240SearchA2DMatrixII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308312564870D00A25D04 /* a240SearchA2DMatrixII.cpp */; };
+		8D9308352564886100A25D04 /* a287FindtheDuplicateNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308342564886100A25D04 /* a287FindtheDuplicateNumber.cpp */; };
+		8D9308382564907000A25D04 /* a295FindMedianfromDataStream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308372564907000A25D04 /* a295FindMedianfromDataStream.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
 		8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */; };
@@ -638,6 +641,9 @@
 		8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a218TheSkylineProblem.cpp; sourceTree = "<group>"; };
 		8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a232ImplementQueueusingStacks.cpp; sourceTree = "<group>"; };
 		8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a236LowestCommonAncestorofaBinaryTree.cpp; sourceTree = "<group>"; };
+		8D9308312564870D00A25D04 /* a240SearchA2DMatrixII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a240SearchA2DMatrixII.cpp; sourceTree = "<group>"; };
+		8D9308342564886100A25D04 /* a287FindtheDuplicateNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a287FindtheDuplicateNumber.cpp; sourceTree = "<group>"; };
+		8D9308372564907000A25D04 /* a295FindMedianfromDataStream.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a295FindMedianfromDataStream.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
 		8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a291WordPatternII.cpp; sourceTree = "<group>"; };
@@ -1469,6 +1475,9 @@
 				8D9308282563864E00A25D04 /* a218TheSkylineProblem.cpp */,
 				8D93082B2564645E00A25D04 /* a232ImplementQueueusingStacks.cpp */,
 				8D93082E256465B000A25D04 /* a236LowestCommonAncestorofaBinaryTree.cpp */,
+				8D9308312564870D00A25D04 /* a240SearchA2DMatrixII.cpp */,
+				8D9308342564886100A25D04 /* a287FindtheDuplicateNumber.cpp */,
+				8D9308372564907000A25D04 /* a295FindMedianfromDataStream.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1642,6 +1651,8 @@
 				EEC298A724F8D0D80047CBFA /* a616AddBoldTagInString.cpp in Sources */,
 				EE7D5BA523DBBDA10057DA4E /* a731MyCalendarII.cpp in Sources */,
 				EEF87B9C24F1B9DF00475D72 /* a593ValidSquare.cpp in Sources */,
+				8D9308322564870D00A25D04 /* a240SearchA2DMatrixII.cpp in Sources */,
+				8D9308382564907000A25D04 /* a295FindMedianfromDataStream.cpp in Sources */,
 				EEDCE8C924F62AFB008F92E4 /* a426ConvertBSTToSortedDoublyLinkedList.cpp in Sources */,
 				EE2989C024E7A12900689908 /* a528RandomPickWithWeight.cpp in Sources */,
 				EEC298B724FA156B0047CBFA /* a834SumOfDistancesInTree.cpp in Sources */,
@@ -1985,6 +1996,7 @@
 				EEF87BA224F4325700475D72 /* a1236WebCrawler.cpp in Sources */,
 				8D9DD48425171BFA00B56812 /* a484FindPermutation.cpp in Sources */,
 				EED654C323CD154D00760861 /* a1316DistinctEchoSubstrings.cpp in Sources */,
+				8D9308352564886100A25D04 /* a287FindtheDuplicateNumber.cpp in Sources */,
 				EEBD739124EB433E00FDB30B /* a317ShortestDistanceFromAllBuildings.cpp in Sources */,
 				EE94740D23E33D940095C5CA /* a782TransformtoChessboard.cpp in Sources */,
 				8DA96C811CDEA04100348A5E /* SpiralMatrxII.cpp in Sources */,
