@@ -162,6 +162,9 @@
 		8D9308412564D76500A25D04 /* a348DesignTicTacToe.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308402564D76500A25D04 /* a348DesignTicTacToe.cpp */; };
 		8D9308442564D87100A25D04 /* a350IntersectionofTwoArraysII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308432564D87100A25D04 /* a350IntersectionofTwoArraysII.cpp */; };
 		8D9308472564DA5100A25D04 /* a380InsertDeleteGetRandomO1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9308462564DA5100A25D04 /* a380InsertDeleteGetRandomO1.cpp */; };
+		8D93084A25658FBA00A25D04 /* a394DecodeString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93084925658FBA00A25D04 /* a394DecodeString.cpp */; };
+		8D93084D2565944F00A25D04 /* a403FrogJump.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93084C2565944F00A25D04 /* a403FrogJump.cpp */; };
+		8D93085025659AB200A25D04 /* a1659MaximizeGridHappiness.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D93084F25659AB200A25D04 /* a1659MaximizeGridHappiness.cpp */; };
 		8D9DD46625154E0100B56812 /* a261GraphValidTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */; };
 		8D9DD469251550F800B56812 /* a267PalindromePermutationII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */; };
 		8D9DD46C251552E500B56812 /* a291WordPatternII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */; };
@@ -654,6 +657,9 @@
 		8D9308402564D76500A25D04 /* a348DesignTicTacToe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a348DesignTicTacToe.cpp; sourceTree = "<group>"; };
 		8D9308432564D87100A25D04 /* a350IntersectionofTwoArraysII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a350IntersectionofTwoArraysII.cpp; sourceTree = "<group>"; };
 		8D9308462564DA5100A25D04 /* a380InsertDeleteGetRandomO1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a380InsertDeleteGetRandomO1.cpp; sourceTree = "<group>"; };
+		8D93084925658FBA00A25D04 /* a394DecodeString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a394DecodeString.cpp; sourceTree = "<group>"; };
+		8D93084C2565944F00A25D04 /* a403FrogJump.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a403FrogJump.cpp; sourceTree = "<group>"; };
+		8D93084F25659AB200A25D04 /* a1659MaximizeGridHappiness.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a1659MaximizeGridHappiness.cpp; sourceTree = "<group>"; };
 		8D9DD46525154E0100B56812 /* a261GraphValidTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a261GraphValidTree.cpp; sourceTree = "<group>"; };
 		8D9DD468251550F800B56812 /* a267PalindromePermutationII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a267PalindromePermutationII.cpp; sourceTree = "<group>"; };
 		8D9DD46B251552E500B56812 /* a291WordPatternII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = a291WordPatternII.cpp; sourceTree = "<group>"; };
@@ -1493,6 +1499,9 @@
 				8D9308402564D76500A25D04 /* a348DesignTicTacToe.cpp */,
 				8D9308432564D87100A25D04 /* a350IntersectionofTwoArraysII.cpp */,
 				8D9308462564DA5100A25D04 /* a380InsertDeleteGetRandomO1.cpp */,
+				8D93084925658FBA00A25D04 /* a394DecodeString.cpp */,
+				8D93084C2565944F00A25D04 /* a403FrogJump.cpp */,
+				8D93084F25659AB200A25D04 /* a1659MaximizeGridHappiness.cpp */,
 			);
 			name = Leetcode;
 			sourceTree = "<group>";
@@ -1738,6 +1747,7 @@
 				EEBD739F24EC3D3E00FDB30B /* a727MinimumWindowSubsequence.cpp in Sources */,
 				EE94740323E245C00095C5CA /* a256PaintHouse.cpp in Sources */,
 				EEAB69D52506FEB800E9E59C /* a323NumberofConnectedComponentsinanUndirectedGraph.cpp in Sources */,
+				8D93084D2565944F00A25D04 /* a403FrogJump.cpp in Sources */,
 				8D9307E1255E136700A25D04 /* a17LetterCombinationsofaPhoneNumber.cpp in Sources */,
 				8D72D0082550664200B80179 /* a555SplitConcatenatedStrings.cpp in Sources */,
 				A507E6D71A35415500B9A56C /* FindLaddersII.cpp in Sources */,
@@ -1790,6 +1800,7 @@
 				EEBA0DCD2500B9D0002A8CCB /* a549BinaryTreeLongestConsecutiveSequenceII.cpp in Sources */,
 				8D72D00B25506D3E00B80179 /* a558LogicalORofTwoBinaryGridsRepresentedasQuadTrees.cpp in Sources */,
 				EEBA0DC32500ADEE002A8CCB /* a1035UncrossedLines.cpp in Sources */,
+				8D93085025659AB200A25D04 /* a1659MaximizeGridHappiness.cpp in Sources */,
 				5347056B1BD42B8A002838B9 /* MajorityElement.cpp in Sources */,
 				EE4DC6B223C2A72E00CA0414 /* a1261FindElementsinaContaminatedBinaryTree.cpp in Sources */,
 				EEBA0DC12500AAB0002A8CCB /* a801MinimumSwapsToMakeSequencesIncreasing.cpp in Sources */,
@@ -1954,6 +1965,7 @@
 				8D9DD4E4251C675600B56812 /* a1102PathWithMaximumMinimumValue.cpp in Sources */,
 				EE9473FD23E20CE30095C5CA /* a238ProductofArrayExceptSelf.cpp in Sources */,
 				EEBA0DC52500AEDD002A8CCB /* a1062LongestRepeatingSubstring.cpp in Sources */,
+				8D93084A25658FBA00A25D04 /* a394DecodeString.cpp in Sources */,
 				EEC298BD24FAE5E20047CBFA /* a1091ShortestPathInBinaryMatrix.cpp in Sources */,
 				EE63CB8C23D90C4C002265AB /* a1150CheckIfANumberIsMajorityElementInASortedArray.cpp in Sources */,
 				EEBA0DD125019654002A8CCB /* a871MinimumNumberofRefuelingStops.cpp in Sources */,
